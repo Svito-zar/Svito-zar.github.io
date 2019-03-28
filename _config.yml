@@ -1,11 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Taras Kucherenko
+#author: Taras Kucherenko
+email: tarask@kth.se
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  Ph.D. in applying machine learning for social robotics. Building models for generating non-verbal behavior for virtual agents and humanoid robots.
+# Working under supervision of Hedvig Kjlestrom in the EACare project.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://samuelmurray.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  samuelmurray
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -40,12 +41,26 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - index.md
 
 # Build settings
+markdown: kramdown
 theme: minima
-
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+include: ['_pages']
+exclude: [vendor]
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
