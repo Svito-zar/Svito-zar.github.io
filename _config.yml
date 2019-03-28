@@ -2,7 +2,7 @@ title: Taras Kucherenko
 #author: Taras Kucherenko
 email: tarask@kth.se
 description: > # this means to ignore newlines until "show_exerpts:"
-  Ph.D. in applying machine learning for social robotics. Building models for generating non-verbal behavior for virtual agents and humanoid robots.
+  Ph.D. student: applying machine learning for social robotics. Building models for generating non-verbal behavior for virtual agents and humanoid robots.
 # Working under supervision of Hedvig Kjlestrom in the EACare project.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://svito-zar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -18,18 +18,11 @@ minima:
   social_links:
     twitter: SvitozarTaras
     github:  svito-zar
-    # dribbble: jekyll
     # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
     linkedin: taras-kucherenko-9b049198
-    # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
 
     # Mastodon instances
     # mastodon:
@@ -42,6 +35,8 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - index.md
+ - _pages/publications.md
+ - _pages/portfolio.md
 
 # Build settings
 markdown: kramdown
