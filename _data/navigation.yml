@@ -5,7 +5,7 @@ main:
   - title: "Datasets"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Home"
-    url: svito-zar.github.io
+    url: /
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   
