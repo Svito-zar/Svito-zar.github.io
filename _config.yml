@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Taras Kucherenko"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Ph.D. in Machine Learning for Human-Robot Interaction under the supervision of Hedvig Kjellström. Currently using deep learning as a main tool and having non-verbal behavior generation as the main application. I am working on the EACare project."
   location         : "Stockholm"
   email            : tarask@kth.se
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: tarask@kth.se
+      # url: tarask@kth.se
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -136,22 +136,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://twitter.com/SvitozarTaras"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/Svito-zar"
 
 
 # Reading Files
