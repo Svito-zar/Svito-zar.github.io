@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Ph.D. in applying machine learning for social robotics. Building models for generating non-verbal behavior for virtual agents and humanoid robots.
 # Working under supervision of Hedvig Kjlestrom in the EACare project.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://samuelmurray.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  samuelmurray
+url: "https://svito-zar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  svito-zar
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
