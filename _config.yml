@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+theme                  : #"minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" #"air", "aqua", "contrast", , "dirt", "neon", "mint", "plum", "sunrise" "default" # 
 
 # Site Settings
@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. in Machine Learning for Human-Robot Interaction under the supervision of Hedvig Kjellström. Currently using deep learning as a main tool and having non-verbal behavior generation as the main application. I am working on the EACare project."
   location         : "Stockholm"
-  email            : tarask@kth.se
+  email            : tarask at kth.se
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
