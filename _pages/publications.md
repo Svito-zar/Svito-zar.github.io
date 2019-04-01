@@ -32,4 +32,6 @@ arXiv preprint arXiv:1803.02665 (2018).
 * Patrik Jonell, Joseph Mendelson, Thomas Storskog, Goran Hagman, Per Ostberg, Iolanda Leite, Taras Kucherenko, Olga Mikheeva, Ulrika Akenine, Vesna Jelic, Alina Solomon, Jonas Beskow, Joakim Gustafson, Miia Kivipelto, Hedvig Kjellstrom [Machine Learning and Social Robotics for Detecting Early Signs of Dementia](https://arxiv.org/abs/1709.01613)
 arXiv preprint arXiv:1709.01613(2017)
 
+* Taras  Kucherenko and Hedvig Kjellström [Towards Context-Preserving Human to Robot Motion Mapping](https://www.csc.kth.se/~hedvig/publications/ssdl_17.pdf) The First Swedish Symposium on Deep Learning, Stockholm, 2017
+
 
