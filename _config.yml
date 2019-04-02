@@ -37,7 +37,6 @@ header_pages:
  - index.md
  - _pages/publications.md
  - _pages/portfolio.md
-# - _pages/datasets.md
 
 # Build settings
 markdown: kramdown
