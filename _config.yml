@@ -35,8 +35,10 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - index.md
- - _pages/publications.md
  - _pages/portfolio.md
+ - _pages/publications.md
+ - _pages/teaching.md
+ #- _pages/datasets.md
 
 # Build settings
 markdown: kramdown

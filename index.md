@@ -5,7 +5,6 @@ layout: home
 title: About
 exclude: true
 ---
-<!-- ![portrait](assets/me.jpeg "Portrait") -->
 <img style="float: left; border: 5px solid white" src="assets/me.jpeg" alt="portrait">
 I am a Ph.D. student in Machine Learning for Social Robotics at KTH Royal Institute of Technology, Stockholm, Sweden.
 
