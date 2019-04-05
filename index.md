@@ -18,6 +18,7 @@ I am working at [EACare](http://www.csc.kth.se/cvap/EACare/) project, where we a
 <br>
 ### **News**
 
+* April 2019: I was selected to participate in the Summer School on Probabilistic AI called [ProbAI](https://probabilistic.ai/)
 * March 2019: We have submitted our [latest work](http://export.arxiv.org/abs/1903.03369) on arxiv
 * Jan 2019: Our paper with Dai Hagesawa from Hokkai Gakuen University, Japan was accepted at AAMAS 2019 for poster presentation.
 * Oct 2018: My [project proposal](https://www.researchgate.net/publication/328032360_Data_Driven_Non-Verbal_Behavior_Generation_for_Humanoid_Robots) was published ICMI Doctoral Consortium 2018.
