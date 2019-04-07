@@ -5,7 +5,7 @@ layout: home
 title: About
 exclude: true
 ---
-<img style="float: left; border: 5px solid white" src="assets/me.jpeg" alt="portrait">
+<img style="float: left; border: 5px solid white" src="assets/me2.jpeg" height="200" alt="portrait">
 I am a Ph.D. student in Machine Learning for Social Robotics at KTH Royal Institute of Technology, Stockholm, Sweden.
 
 My research is on generative models of non-verbal behavior, such as hand gestures and facial expressions.
