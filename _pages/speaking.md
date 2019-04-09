@@ -4,7 +4,7 @@ title: Speaking
 permalink: /speaking/
 ---
 
-<img style="float: left; border: 5px solid white" src="../assets/Speaker.png" alt="portrait">
+<img style="float: left; border: 5px solid white" src="../assets/Speaker_v3.jpg" alt="portrait">
 I have been practicing my public speaking skills through worldwide Public Speaking association Toastmasters.
 You can see speeches I gave at Loki Toastmasters [here](https://www.youtube.com/watch?v=TzVtUsQEvNY&list=PL87EdZwWToFmeR_EpXVRHfAXTHEvfiEPh).
 
