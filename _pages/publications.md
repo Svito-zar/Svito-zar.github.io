@@ -6,14 +6,16 @@ permalink: /publications/
 
 ### 2019
 
+* Taras  Kucherenko,  Dai  Hasegawa, Gustav  Eje  Henter, Naoshi  Kaneko, and Hedvig Kjellström.
+[Analyzing input and output representations for speech-driven gesture generation](https://arxiv.org/abs/1903.03369).
+International Conference on Intelligent Virtual Agents (IVA 2019), July 02–05, 2018, Paris
+
 * Taras  Kucherenko,  Dai  Hasegawa,  Naoshi  Kaneko,  Gustav  Eje  Henter, and Hedvig Kjellström. 
 [On the importance of representations for speech-driven gesture generation](). 
 18th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2019), Extended Abstract,
 Montreal,Canada, May 13–17, 2019
 
-* Taras  Kucherenko,  Dai  Hasegawa, Gustav  Eje  Henter, Naoshi  Kaneko, and Hedvig Kjellström. 
-[Analyzing input and output representations for speech-driven gesture generation](https://arxiv.org/abs/1903.03369)
-arXiv preprint arXiv:1903.03369 (2019).
+
 
 ### 2018
 
