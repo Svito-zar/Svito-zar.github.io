@@ -18,7 +18,7 @@ I am working at [EACare](http://www.csc.kth.se/cvap/EACare/) project, where we a
 <br>
 ### **News**
 
-* April 2019: Our paper [Analyzing input and output representations for speech-driven gesture generation](https://arxiv.org/abs/1903.03369) was accepter to [IVA2019] for oral presentation.
+* April 2019: Our paper [Analyzing input and output representations for speech-driven gesture generation](https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation) was accepter to [IVA2019](https://iva2019.sciencesconf.org/) for oral presentation. (24% acceptance rate)
 * April 2019: I was selected to participate in the Summer School on Probabilistic AI called [ProbAI](https://probabilistic.ai/).
 * Jan 2019: Our paper with Dai Hagesawa from Hokkai Gakuen University, Japan was accepted at AAMAS 2019 for poster presentation.
 * Oct 2018: My [project proposal](https://www.researchgate.net/publication/328032360_Data_Driven_Non-Verbal_Behavior_Generation_for_Humanoid_Robots) was published ICMI Doctoral Consortium 2018.
