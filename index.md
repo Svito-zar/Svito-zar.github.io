@@ -5,12 +5,12 @@ layout: home
 title: About
 exclude: true
 ---
-<img style="float: left; border: 5px solid white" src="assets/me2.jpeg" height="200" alt="portrait">
+<img style="float: left; border: 5px solid white; padding-right: 10px;" src="assets/me2.jpeg" height="200" alt="portrait">
 I am a Ph.D. student in Machine Learning for Social Robotics at KTH Royal Institute of Technology, Stockholm, Sweden.
 
 My research is on generative models of non-verbal behavior, such as hand gestures and facial expressions.
 
-I am working at [EACare](http://www.csc.kth.se/cvap/EACare/) project, where we aim to develop a robot head with communicative skills capable of interacting with elderly people at their convenience.
+I am working at the [EACare](http://www.csc.kth.se/cvap/EACare/) project, where we aim to develop a robot head with communicative skills capable of interacting with elderly people at their convenience.
 
 
 
