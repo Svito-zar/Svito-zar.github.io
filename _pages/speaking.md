@@ -15,7 +15,7 @@ Below are the talks I gave outside of Toastmasters.
 
 * May - talk on my research at [Pint Of Science](http://pintofscience.se/) (20 min)
 
-* Jan. - talk on "Non-verbal behaviour for humanoid robots" at [Stockholm AI](https://stockholm.ai) Study Group #12 (40 min)
+* Jan. - talk on "Non-verbal behaviour for humanoid robots" at [Stockholm AI](https://stockholm.ai) Study Group #12 (40&nbsp;min)
 
 
 ### 2018
@@ -24,7 +24,7 @@ Below are the talks I gave outside of Toastmasters.
 
 * May - 3rd place at the evaluation contest of [Toastmasters International](https://toastmasters.org) Division Contest (Scandinavia level)
 
-* Feb. - talk about the possible future enabled by AI at [Unga Ukraine](http://ungaukrainare.se/) for Friday storybar №7 (30 min)
+* Feb. - talk about the possible future enabled by AI at [Unga Ukraine](http://ungaukrainare.se/) for Friday storybar №7 (30&nbsp;min)
 
 ### 2017
 
