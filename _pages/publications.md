@@ -11,7 +11,7 @@ permalink: /publications/
 International Conference on Intelligent Virtual Agents (IVA 2019), July 02–05, 2018, Paris
 
 * Taras  Kucherenko,  Dai  Hasegawa,  Naoshi  Kaneko,  Gustav  Eje  Henter, and Hedvig Kjellström. 
-[On the importance of representations for speech-driven gesture generation](../papers/AAMAS_2019.pdf).
+[On the importance of representations for speech-driven gesture generation](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2072.pdf).
 18th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2019), Extended Abstract,
 Montreal,Canada, May 13–17, 2019
 
