@@ -32,7 +32,6 @@ header_pages:
  - _pages/teaching.md
  - _pages/speaking.md
  - _pages/contact.md
- # - index.md
  #- _pages/datasets.md
 
 # Build settings
