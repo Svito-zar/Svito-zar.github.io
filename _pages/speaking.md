@@ -12,6 +12,7 @@ Below are the talks I gave outside of Toastmasters.
 
 
 ### 2019
+* July - presentation of my publication at [IVA 2019](https://iva2019.sciencesconf.org/) (15 min)
 
 * May - talk on my research at [Pint Of Science](http://pintofscience.se/) (20 min)
 
