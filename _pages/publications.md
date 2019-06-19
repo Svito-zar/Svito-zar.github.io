@@ -6,9 +6,9 @@ permalink: /publications/
 
 ### 2019
 
-* Pieter Wolfert, **Taras Kucherenko**, Hedvig Kjellström, Tony Belpaeme [Should Beat Gestures Be Learned Or Designed? A Benchmarking User Study]() ICDL-EPIROB 2019 Workshop on Naturalistic Non-Verbal and Affective Human-Robot Interactions, August 19, 2019, Oslo
+* Pieter Wolfert, **Taras Kucherenko**, Hedvig Kjellström, Tony Belpaeme. [Should Beat Gestures Be Learned Or Designed? A Benchmarking User Study](). ICDL-EPIROB 2019 Workshop on Naturalistic Non-Verbal and Affective Human-Robot Interactions, August 19, 2019, Oslo
 
-* Patrik Jonell, **Taras Kucherenko**, Erik Ekstedt, Jonas Beskow [Learning Non-verbal Behavior for a Social Robot from YouTube Videos]() ICDL-EPIROB 2019 Workshop on Naturalistic Non-Verbal and Affective Human-Robot Interactions, August 19, 2019, Oslo
+* Patrik Jonell, **Taras Kucherenko**, Erik Ekstedt, Jonas Beskow. [Learning Non-verbal Behavior for a Social Robot from YouTube Videos](). ICDL-EPIROB 2019 Workshop on Naturalistic Non-Verbal and Affective Human-Robot Interactions, August 19, 2019, Oslo
 
 * **Taras  Kucherenko**,  Dai  Hasegawa, Gustav  Eje  Henter, Naoshi  Kaneko, and Hedvig Kjellström.
 [Analyzing input and output representations for speech-driven gesture generation](https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation).
