@@ -10,7 +10,7 @@ I am a Ph.D. student in Machine Learning for Social Robotics at KTH Royal Instit
 
 My research is on generative models of non-verbal behavior, such as hand gestures and facial expressions.
 
-I am working at the [EACare](http://www.csc.kth.se/cvap/EACare/) project, where we aim to develop a robot head with communicative skills capable of interacting with elderly people at their convenience.
+I am working in the [EACare](http://www.csc.kth.se/cvap/EACare/) project, where we aim to develop a robot system to detect early signs of Dementia from the communicative behavior.
 
 
 
