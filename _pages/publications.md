@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+My publications can also be found on [Google Scholar Citations](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/k/Kucherenko:Taras), and [ResearchGate](https://www.researchgate.net/profile/Taras_Kucherenko). 
+
 ### 2019
 * Pieter Wolfert, **Taras Kucherenko**, Hedvig Kjellström, Tony Belpaeme. *Should Beat Gestures Be Learned Or Designed? A Benchmarking User Study.* (To appear in) ICDL-EPIROB 2019 Workshop on Naturalistic Non-Verbal and Affective Human-Robot Interactions, Oslo, August 19, 2019
 
