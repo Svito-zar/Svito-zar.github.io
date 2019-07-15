@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: About
+title: 
 exclude: true
 ---
 <img style="float: left; border: 5px solid white; padding-right: 10px;" src="assets/LinkedIn_pic.jpg" height="200" alt="portrait">

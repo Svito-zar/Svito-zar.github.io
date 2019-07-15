@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<img style="float: left; border: 5px solid white" src="../assets/LinkedIn_pic.jpg" height="300" alt="portrait">
+<img style="float: left; border: 5px solid white; padding-left: 50px;" src="../assets/LinkedIn_pic.jpg" height="300" alt="portrait">
 
 **Email**:  tarask@kth.se 
 
