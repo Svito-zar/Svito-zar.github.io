@@ -14,6 +14,11 @@ Code is publicly available at [Github](https://github.com/GestureGeneration/Spee
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Iv7UBe92zrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Below is a demo applying that model to a new dataset (which is in English).
+To reproduce the results you can use our [pre-trained model](https://github.com/Svito-zar/speech-driven-hand-gesture-generation-demo)
+
+<iframe width="560" height="315" src="https://youtube.com/embed/tQLVyTVtsSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 2018
 
 Taras  Kucherenko, Jonas Beskow and Hedvig Kjellström. 
