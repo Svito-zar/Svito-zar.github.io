@@ -92,9 +92,9 @@ a:hover {
     margin-left: 20px;
   }
   
-  a.page-link:focus {
+  a.page-link:target {
      color: #000 !important;
-     text-decoration: none;
+     text-decoration: underline !important;
   }
   a.page-link:after{
 		content: '';
@@ -146,9 +146,9 @@ a:hover {
       margin-left: auto;
     }
 
-    a.page-link:focus {
+    a.page-link:target {
      	color: #000 !important;
-      	text-decoration: none;
+      	text-decoration: underline !important;
     }
 
     a.page-link:after{
