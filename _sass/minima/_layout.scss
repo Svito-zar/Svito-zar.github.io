@@ -88,17 +88,17 @@
   
   .trigger.active a {
      color: $text-color !important;
-     text-decoration: underline;
+     text-decoration: none;
   }
-  //.page-link:after{
-//		content: '';
-//		display: block;
-//		width: 100%;
-//		height: 1px;
-//		background-color:#000;
-//		transform: scale(0);
-//		transition: all .3s;
-  //}
+  .page-link:after{
+		content: '';
+		display: block;
+		width: 100%;
+		height: 1px;
+		background-color:#000;
+		transform: scale(0);
+		transition: all .3s;
+  }
 
  .page-link:hover:after {
 	content: '';
@@ -141,18 +141,18 @@
 
     .trigger.active a {
      	color: $text-color !important;
-      	text-decoration: underline;
+      	text-decoration: none;
     }
 
-   // .page-link:after{
-     // content: '';
-     // display: block;
-     // width: 100%;
-     // height: 1px;
-     // background-color:#000;
-     // transform: scale(0);
-     // transition: all .3s;
-    //}
+    .page-link:after{
+      content: '';
+      display: block;
+      width: 100%;
+      height: 1px;
+      background-color:#000;
+      transform: scale(0);
+      transition: all .3s;
+    }
   .page-link:hover:after {
      content: '';
      display: block;
