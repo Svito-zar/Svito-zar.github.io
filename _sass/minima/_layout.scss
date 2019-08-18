@@ -86,12 +86,12 @@
     margin-left: 20px;
   }
   
-  .page-link:focus {
+  .trigger.page-link:focus {
      color: $text-color !important;
      text-decoration: underline !important;
   }
   
-  .page-link:after{
+  .trigger.page-link:after{
 		content: '';
 		display: inline;
 		width: 100%;
@@ -101,7 +101,7 @@
 		transition: all .3s;
   }
 
-   .page-link:hover:after {
+   .trigger.page-link:hover:after {
        content: '';
        display: inline;
        width: 100%;
@@ -141,12 +141,12 @@
       margin-left: auto;
     }
     
-    .page-link:focus {
+    .trigger.page-link:focus {
        color: $text-color !important;
        text-decoration: underline;
     }
     
-    .page-link:after{
+    .trigger.page-link:after{
       content: '';
       display: inline;
       width: 100%;
@@ -156,7 +156,7 @@
       transition: all .3s;
     }
 
-   .page-link:hover:after {
+   .trigger.page-link:hover:after {
        content: '';
        display: inline;
        width: 100%;
