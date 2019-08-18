@@ -110,6 +110,7 @@
     }
 
     .page-link {
+      color: #A9A9A9;
       display: inline;
       padding: 0;
 
@@ -120,7 +121,7 @@
     }
     
     .page-link:active {
-       color: $text-color;
+       color: #000;
        text-decoration: underline;
     }
   }
