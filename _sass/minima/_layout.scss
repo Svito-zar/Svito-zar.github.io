@@ -86,10 +86,10 @@
     margin-left: 20px;
   }
   
-  .page-link:focus {
-     color: $text-color !important;
-     text-decoration: underline !important;
-  }
+  //.page-link:focus {
+    // color: $text-color !important;
+     //text-decoration: underline !important;
+  //}
   
   .page-link:after{
 		content: '';
@@ -141,10 +141,10 @@
       margin-left: auto;
     }
     
-    .page-link:focus {
-       color: $text-color !important;
-       text-decoration: underline;
-    }
+    //.page-link:focus {
+      // color: $text-color !important;
+      // text-decoration: underline;
+   // }
     
     .page-link:after{
       content: '';
