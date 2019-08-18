@@ -91,7 +91,9 @@ a:hover {
     }
     margin-left: 20px;
   }
-  
+  .page-link:hover {
+    	color: #000 !important;
+   }
   a.page-link:target {
      color: #000 !important;
      text-decoration: underline !important;
@@ -171,6 +173,9 @@ a:hover {
      color: #000 !important;
      text-decoration: none !important;
    }
+    .page-link:hover {
+    	color: #000 !important;
+     }
   }
 }
 
