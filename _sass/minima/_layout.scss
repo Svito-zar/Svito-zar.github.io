@@ -90,6 +90,11 @@
      color: $text-color !important;
      text-decoration: underline !important;
   }
+  
+  .page-link:hover {
+     color: $text-color !important;
+     text-decoration: underline !important;
+  }
 
   @media screen and (min-width: $on-medium) {
     position: static;
@@ -124,6 +129,11 @@
        color: $text-color !important;
        text-decoration: underline;
     }
+    
+    .page-link:hover {
+     color: $text-color !important;
+     text-decoration: underline !important;
+  }
   }
 }
 
