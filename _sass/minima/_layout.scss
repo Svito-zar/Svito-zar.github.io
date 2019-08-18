@@ -73,7 +73,7 @@
     padding-bottom: 5px;
   }
 
-  .page-link {
+  .site-nav .page-link {
     color: #A9A9A9;
     line-height: $base-line-height;
     display: block;
@@ -86,7 +86,7 @@
     margin-left: 20px;
   }
   
-  .page-link:active {
+  .site-nav .page-link:active {
      color: $text-color;
      text-decoration: underline;
   }
