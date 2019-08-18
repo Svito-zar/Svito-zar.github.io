@@ -74,7 +74,7 @@
   }
 
   .page-link {
-    color: #A9A9A9 !important;
+    color: $text-color;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
@@ -110,7 +110,7 @@
     }
 
     .page-link {
-      color: #A9A9A9;
+      color: #A9A9A9 !important;
       display: inline;
       padding: 0;
 
@@ -121,7 +121,7 @@
     }
     
     .page-link:active {
-       color: #000;
+       color: $text-color !important;
        text-decoration: underline;
     }
   }
