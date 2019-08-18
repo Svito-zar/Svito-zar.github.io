@@ -86,11 +86,11 @@
     margin-left: 20px;
   }
   
-  .trigger.active a {
+  .trigger a:focus {
      color: $text-color !important;
      text-decoration: none;
   }
-  .page-link:after{
+  .trigger a:after{
 		content: '';
 		display: block;
 		width: 100%;
@@ -100,7 +100,7 @@
 		transition: all .3s;
   }
 
- .page-link:hover:after {
+ .trigger a:hover:after {
 	content: '';
 	display: block;
 	width: 100%;
@@ -139,12 +139,12 @@
       margin-left: auto;
     }
 
-    .trigger.active a {
+    .trigger a:focus {
      	color: $text-color !important;
       	text-decoration: none;
     }
 
-    .page-link:after{
+    .trigger a:after{
       content: '';
       display: block;
       width: 100%;
@@ -153,7 +153,7 @@
       transform: scale(0);
       transition: all .3s;
     }
-  .page-link:hover:after {
+  .trigger a:hover:after {
      content: '';
      display: block;
      width: 100%;
