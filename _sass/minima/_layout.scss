@@ -16,10 +16,6 @@ li{
   margin-bottom: 15px;
 }
 
-.news{
-  font-weight: bold;
-}
-
 .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
@@ -292,6 +288,7 @@ li{
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  font-weight: bold;
 }
 
 .post-link {
