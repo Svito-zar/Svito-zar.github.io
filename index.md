@@ -18,7 +18,8 @@ I am working in the [EACare](http://www.csc.kth.se/cvap/EACare/) project, where 
 <br>
 ### **News**
 
-* August 2019: We have applied our gesture generation model to a new dataset, which is in English. Check our a short [demo video](https://youtu.be/tQLVyTVtsSU) and our [code](github.com/Svito-zar/speech-driven-hand-gesture-generation-demo) with a pre-trained model
+* August 2019: I am looking for a research engineer for a short project. Contact me if you are interested
+* August 2019: We have applied our gesture generation model to a new dataset, which is in English. Check our a short [demo video](https://youtu.be/tQLVyTVtsSU) and our [code](https://github.com/Svito-zar/speech-driven-hand-gesture-generation-demo) with a pre-trained model
 * June 2019: Our two papers were accepted for [ICDL-EPIROB 2019 Workshop](https://nicolas-navarro-guerrero.gitlab.io/workshop-non-verbal-human-robot-interactions-icdl-epirob-2019/) on Naturalistic Non-Verbal and Affective Human-Robot Interactions
 * May 2019: Gave a talk on my research at the [Pint Of Science](http://pintofscience.se/) in Stockholm
 * April 2019: Our paper [Analyzing input and output representations for speech-driven gesture generation](https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation) was accepter to [IVA 2019](https://iva2019.sciencesconf.org/) for oral presentation. (24% acceptance rate)
