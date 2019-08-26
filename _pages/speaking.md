@@ -12,23 +12,23 @@ Below are the talks I gave outside of Toastmasters.
 
 
 ### 2019
-* July - presentation of my publication at [IVA 2019](https://iva2019.sciencesconf.org/) (15 min)
+* <strong>July</strong> - presentation of my publication at [IVA 2019](https://iva2019.sciencesconf.org/) (15 min)
 
-* May - talk on my research at [Pint Of Science](http://pintofscience.se/) (20 min)
+*  <strong>May</strong> - talk on my research at [Pint Of Science](http://pintofscience.se/) (20 min)
 
-* Jan. - talk on "Non-verbal behaviour for humanoid robots" at [Stockholm AI](https://stockholm.ai) Study Group #12 (40&nbsp;min)
+*  <strong>Jan.</strong> - talk on "Non-verbal behaviour for humanoid robots" at [Stockholm AI](https://stockholm.ai) Study Group #12 (40&nbsp;min)
 
 
 ### 2018
 
-* Nov. - talk on my research at [Ericsson Consumer and IndustryLab](https://www.ericsson.com/en/trends-and-insights/consumerlab) (30 min)
+*  <strong>Nov.</strong> - talk on my research at [Ericsson Consumer and IndustryLab](https://www.ericsson.com/en/trends-and-insights/consumerlab) (30 min)
 
-* May - 3rd place at the evaluation contest of [Toastmasters International](https://toastmasters.org) Division Contest (Scandinavia level)
+*  <strong>May</strong> - 3rd place at the evaluation contest of [Toastmasters International](https://toastmasters.org) Division Contest (Scandinavia level)
 
-* Feb. - talk about the possible future enabled by AI at [Unga Ukraine](http://ungaukrainare.se/) for Friday storybar №7 (30&nbsp;min)
+*  <strong>Feb.</strong> - talk about the possible future enabled by AI at [Unga Ukraine](http://ungaukrainare.se/) for Friday storybar №7 (30&nbsp;min)
 
 ### 2017
 
-* Nov. - talk on "Unsupervised handwriting recognition" at [Stockholm AI](https://stockholm.ai) Study Group #6 (40 min)
+*  <strong>Nov.</strong> - talk on "Unsupervised handwriting recognition" at [Stockholm AI](https://stockholm.ai) Study Group #6 (40 min)
 
 
