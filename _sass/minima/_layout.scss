@@ -5,8 +5,14 @@ a {
   color: #227b80;
   text-decoration: none !important;
 }
+
 a:hover {
   text-decoration: none !important;
+}
+
+a:visited {
+    color: #227b80;
+    /*color: #1756a9;*/
 }
 
 p {
@@ -27,7 +33,8 @@ font-weight: bold!important;
 
 .home > ul > li{
   margin-bottom: 15px !important;
-  padding-left: 30px;
+  /*padding-left: 30px;*/
+  color: #3c3c3c;
 }
 
 .site-header {
