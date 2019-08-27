@@ -8,10 +8,12 @@ permalink: /speaking/
 I have been practicing my public speaking skills through worldwide Public Speaking association Toastmasters.
 You can see speeches I gave at Loki Toastmasters [here](https://www.youtube.com/watch?v=TzVtUsQEvNY&list=PL87EdZwWToFmeR_EpXVRHfAXTHEvfiEPh).
 
-Below are the talks I gave outside of Toastmasters.
+Below are my talks outside of Toastmasters.
 
 
 ### 2019
+* <strong>September</strong> - talk on my research at Max Planck Institute for Intelligent Systems [Perceiving Systems Department](http://ps.is.tuebingen.mpg.de/) in Tuebingen (30 min)
+
 * <strong>July</strong> - presentation of my publication at [IVA 2019](https://iva2019.sciencesconf.org/) (15 min)
 
 *  <strong>May</strong> - talk on my research at [Pint Of Science](http://pintofscience.se/) (20 min)
