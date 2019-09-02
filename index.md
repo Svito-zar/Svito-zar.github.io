@@ -18,6 +18,7 @@ I am working in the [EACare](http://www.csc.kth.se/cvap/EACare/) project, where 
 <br>
 ### **News**
 
+* <strong>September 2019:</strong> I have a [master thesis project](../projects/MasterThesisRobotGestureGeneration.pdf) on gesture generation for a humanoid robot.
 * <strong>August 2019:</strong> We have applied our gesture generation model to a new dataset, which is in English. Check our a short [demo video](https://youtu.be/tQLVyTVtsSU) and our [code](https://github.com/Svito-zar/speech-driven-hand-gesture-generation-demo) with a pre-trained model
 * <strong>June 2019:</strong> Our two papers were accepted for [ICDL-EPIROB 2019 Workshop](https://nicolas-navarro-guerrero.gitlab.io/workshop-non-verbal-human-robot-interactions-icdl-epirob-2019/) on Naturalistic Non-Verbal and Affective Human-Robot Interactions
 * <strong>May 2019:</strong> Gave a talk on my research at the [Pint Of Science](http://pintofscience.se/) in Stockholm
