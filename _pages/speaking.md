@@ -12,7 +12,7 @@ Below are my talks outside of Toastmasters.
 
 
 ### 2019
-* <strong>Sept.</strong> - talk on my research at Max Planck Institute for Intelligent Systems [Perceiving Systems Department](http://ps.is.tuebingen.mpg.de/) in Tuebingen (30 min)
+* <strong>Sept.</strong> - talk on my research at Max Planck Institute for Intelligent Systems [Perceiving Systems Department](https://ps.is.tuebingen.mpg.de/events/how-to-make-your-agent-gesture-in-a-natural-way) in Tuebingen (30 min)
 
 * <strong>July</strong> - presentation of my publication at [IVA 2019](https://iva2019.sciencesconf.org/) (15 min)
 
