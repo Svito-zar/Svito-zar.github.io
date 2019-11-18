@@ -10,6 +10,9 @@ Teaching Assistant in
 * [Computer Vision](https://www.kth.se/student/kurser/kurs/DD2423?l=en) course.
 * [Multimodal Interaction](https://www.kth.se/student/kurser/kurs/DT2140?l=en) course.
 
+Giving tutorials in
+* [Computer Vision](https://www.kth.se/student/kurser/kurs/DD2423?l=en) course.
+
 
 ### 2018 / 2019
 Teaching Assistant in 
@@ -17,6 +20,9 @@ Teaching Assistant in
 * [Computer Vision](https://www.kth.se/student/kurser/kurs/DD2423?l=en) course.
 * [Multimodal Interaction](https://www.kth.se/student/kurser/kurs/DT2140?l=en) course.
 * [Deep Learning](https://www.kth.se/student/kurser/kurs/DD2424?l=en) course.
+
+Giving tutorials in
+* [Computer Vision](https://www.kth.se/student/kurser/kurs/DD2423?l=en) course.
 
 
 ### 2017 / 2018
