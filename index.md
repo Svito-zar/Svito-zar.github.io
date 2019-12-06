@@ -18,7 +18,7 @@ I am working in the [EACare](http://www.csc.kth.se/cvap/EACare/) project, where 
 <br>
 ### **News**
 
-* <strong>November 2019:</strong> Uploaded a [talk](https://youtu.be/AS5VorjTwcg), which gives a brief overview of my research for a general audience.
+* <strong>November 2019:</strong> Uploaded a [talk](https://youtu.be/AS5VorjTwcg), which gives a brief overview over my research.
 * <strong>October 2019:</strong> I have a [master thesis project](../projects/MasterThesisRobotGestureGeneration.pdf) on gesture generation for a humanoid robot.
 * <strong>September 2019</strong> I gave a talk on [How to make your agent gesture in a natural way](https://ps.is.tuebingen.mpg.de/events/how-to-make-your-agent-gesture-in-a-natural-way) at Max Planck Institute for Intelligent Systems: [Perceiving Systems](https://ps.is.tuebingen.mpg.de) Department in Tuebingen
 * <strong>August 2019:</strong> We have applied our gesture generation model to a new dataset, which is in English. Check our a short [demo video](https://youtu.be/tQLVyTVtsSU) and our [code](https://github.com/Svito-zar/speech-driven-hand-gesture-generation-demo) with a pre-trained model
