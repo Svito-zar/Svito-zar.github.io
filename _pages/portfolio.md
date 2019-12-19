@@ -6,6 +6,9 @@ permalink: /portfolio/
 
 ### 2019
 
+A general overview of my research.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AS5VorjTwcg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Taras  Kucherenko,  Dai  Hasegawa, Gustav  Eje  Henter, Naoshi  Kaneko, and Hedvig Kjellström. 
 [Analyzing input and output representations for speech-driven gesture generation](https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation).
 International Conference on Intelligent Virtual Agents (IVA '19), Paris, July 02–05, 2019
