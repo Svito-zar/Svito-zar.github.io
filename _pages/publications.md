@@ -7,7 +7,7 @@ permalink: /publications/
 My publications can also be found on [Google Scholar Citations](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/k/Kucherenko:Taras), and [ResearchGate](https://www.researchgate.net/profile/Taras_Kucherenko). 
 
 ### 2019
-* Pieter Wolfert, **Taras Kucherenko**, Hedvig Kjellström, Tony Belpaeme. *Should Beat Gestures Be Learned Or Designed? A Benchmarking User Study.* ICDL-EPIROB 2019 Workshop on Naturalistic Non-Verbal and Affective Human-Robot Interactions, Oslo, August 19, 2019 [Paper](https://pieterwolfert.com/files/epirob_camera_final.pdf) [Code](https://github.com/Svito-zar/Speech_driven_gesture_generation) [Poster](../posters/should_gesture_be_learned_poster.pdf) [Read More](../posts/2020-01-14-check-post.md)
+* Pieter Wolfert, **Taras Kucherenko**, Hedvig Kjellström, Tony Belpaeme. *Should Beat Gestures Be Learned Or Designed? A Benchmarking User Study.* ICDL-EPIROB 2019 Workshop on Naturalistic Non-Verbal and Affective Human-Robot Interactions, Oslo, August 19, 2019 [Paper](https://pieterwolfert.com/files/epirob_camera_final.pdf) [Code](https://github.com/Svito-zar/Speech_driven_gesture_generation) [Poster](../posters/should_gesture_be_learned_poster.pdf) [Read More](../_posts/2020-01-14-check-post.md)
 
 * Patrik Jonell, **Taras Kucherenko**, Erik Ekstedt, Jonas Beskow. *Learning Non-verbal Behavior for a Social Robot from YouTube Videos.* ICDL-EPIROB 2019 Workshop on Naturalistic Non-Verbal and Affective Human-Robot Interactions, Oslo, August 19, 2019 [Paper](../papers/learning_non-verbal_behavio(ICDL-EPIROB2019).pdf) [Code](https://github.com/jonepatr/glow-non-verbal-robot-behavior) [Poster](../posters/Jonel_2019_final_ICDL_poster.pdf)
 
