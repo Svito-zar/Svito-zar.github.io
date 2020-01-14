@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Check Post"
-categories: Test
+categories: misc
 ---
 
 The Best Post Of this Day!
