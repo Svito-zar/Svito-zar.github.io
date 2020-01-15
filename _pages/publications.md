@@ -19,7 +19,7 @@ International Conference on Intelligent Virtual Agents (IVA '19), Paris, July 02
 * **Taras  Kucherenko**,  Dai  Hasegawa,  Naoshi  Kaneko,  Gustav  Eje  Henter, and Hedvig Kjellström. 
 *On the importance of representations for speech-driven gesture generation.*
 18th International Conference on Autonomous Agents and Multiagent Systems (AAMAS '19), Extended Abstract,
-Montreal, May 13–17, 2019 [Paper](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2072.pdf) [Poster](https://www.researchgate.net/publication/333148799_On_the_Importance_of_Representations_for_Speech-Driven_Gesture_Generation) [bib](https://people.kth.se/~ghe/pubs/bib/kucherenko2019importance.bib) [Project Page](../_projects/Audio2Gestures.md)
+Montreal, May 13–17, 2019 [Paper](http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2072.pdf) [Poster](https://www.researchgate.net/publication/333148799_On_the_Importance_of_Representations_for_Speech-Driven_Gesture_Generation) [bib](https://people.kth.se/~ghe/pubs/bib/kucherenko2019importance.bib) [Project Page](../_posts/2020-01-14-Audio2Gestures.md)
 
 
 

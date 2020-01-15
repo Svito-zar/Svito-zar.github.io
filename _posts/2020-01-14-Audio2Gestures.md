@@ -6,10 +6,11 @@ permalink: /audio2gestures/
 
 ## Analyzing input and output representations
 ## for speech-driven gesture generation
-### Taras  Kucherenko,  Dai  Hasegawa, Gustav  Eje  Henter, Naoshi  Kaneko, and Hedvig Kjellström. 
+### [Taras  Kucherenko](https://svito-zar.github.io),  Dai  Hasegawa, Gustav  Eje  Henter,
+### Naoshi  Kaneko, and Hedvig Kjellström. 
 ### International Conference on Intelligent Virtual Agents (IVA '19)
 
-[Paper](https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation) [Code](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder).
+### [Paper](https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation) [Code](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder).
 
 
 Code is publicly available at [Github](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder)
