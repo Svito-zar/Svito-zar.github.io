@@ -6,18 +6,19 @@ permalink: /audio2gestures/
 
 
 <p align="center">
-  <b style="font-size: 42px;"> Analyzing input and output representations for speech-driven gesture generation </b>
-  <p style="font-size: 38px;"> Taras  Kucherenko,  Dai  Hasegawa, Gustav  Eje  Henter, Naoshi  Kaneko, and Hedvig Kjellström </p>
-  <p style="font-size: 32px;" align="center"> International Conference on Intelligent Virtual Agents (IVA '19) </p>
+  <b style="font-size: 40px;"> Analyzing input and output representations for speech-driven gesture generation </b>
+  <p style="font-size: 36px;"> Taras  Kucherenko,  Dai  Hasegawa, Gustav  Eje  Henter, Naoshi  Kaneko, and Hedvig Kjellström </p>
+  <p style="font-size: 29px;" align="center"> International Conference on Intelligent Virtual Agents (IVA '19) </p>
 </p>
 
 <p align="center">
- <a href="https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation" style="font-size: 40px; text-decoration: none">Paper</a>  
- <a href="https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder" style="font-size: 40px; text-decoration: none">Code</a>   
+ <a href="https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation" style="font-size: 40px; text-decoration: none">Paper   </a>  
+ <a href="https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder" style="font-size: 40px; text-decoration: none">   Code</a>   
 </p>
 
 
 <img style="float: left; border: 5px solid white" src="../assets/ProposedNew.png" alt="portrait">
+&nbsp;
 &nbsp;
 
 ### ABSTRACT
