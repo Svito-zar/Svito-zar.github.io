@@ -19,7 +19,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 ### **News**
 
 * <strong>November 2019:</strong> [Talk](https://youtu.be/AS5VorjTwcg) on general direction of my research.
-* <strong>October 2019:</strong> Master students wanted for a [master thesis project](../projects/MasterThesisRobotGestureGeneration.pdf) on gesture generation for a humanoid robot.
+* <strong>October 2019:</strong> Master students wanted for a master thesis project on gesture generation for a humanoid robot.
 * <strong>September 2019</strong> Talk on [How to make your agent gesture in a natural way](https://ps.is.tuebingen.mpg.de/events/how-to-make-your-agent-gesture-in-a-natural-way) at Max Planck Institute for Intelligent Systems: [Perceiving Systems](https://ps.is.tuebingen.mpg.de) Department in Tuebingen.
 * <strong>August 2019:</strong> Our gesture generation model was applied to a new dataset. Now it can gesticulate in both Japanese and English. Check out a short [demo video](https://youtu.be/tQLVyTVtsSU) and our [code](https://github.com/Svito-zar/speech-driven-hand-gesture-generation-demo) with a pre-trained model.
 * <strong>June 2019:</strong> Our two papers were accepted for [ICDL-EPIROB 2019 Workshop](https://nicolas-navarro-guerrero.gitlab.io/workshop-non-verbal-human-robot-interactions-icdl-epirob-2019/) on Naturalistic Non-Verbal and Affective Human-Robot Interactions.
