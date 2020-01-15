@@ -18,7 +18,8 @@ permalink: /audio2gestures/
 </p>
 
 
-<img src="../assets/ProposedNew.png" alt="portrait"  align="middle">
+<div style="text-align:center"><img src="../assets/ProposedNew.png" alt="portrait" align="middle"></div>
+
 &nbsp;
 
 ### ABSTRACT
@@ -47,4 +48,25 @@ Below is a demo applying that model to a new dataset (which is in English).
 To reproduce the results you can use our [pre-trained model](https://github.com/Svito-zar/speech-driven-hand-gesture-generation-demo)
 
 <iframe width="660" height="415" src="https://youtube.com/embed/tQLVyTVtsSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+&nbsp;
+
+Citation format:
+```
+@inproceedings{kucherenko2019analyzing,
+  address={Paris, France},
+  author={Kucherenko, Taras and Hasegawa, Dai and Henter, Gustav Eje and Kaneko, Naoshi and Kjellstr{\"o}m, Hedvig},
+  booktitle={Proc. IVA},
+  doi={10.1145/3308532.3329472},
+  keywords={gesture generation, social robotics, representation learning, neural network, deep learning, virtual agents},
+  month={July},
+  pages={97--104},
+  publisher={ACM},
+  title={Analyzing Input and Output Representations for Speech-Driven Gesture Generation},
+  volume={19},
+  year={2019}
+}
+```
+
 
