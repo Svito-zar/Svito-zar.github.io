@@ -18,8 +18,9 @@ permalink: /audio2gestures/
 </p>
 
 
-<img src="../assets/ProposedNew.png" alt="portrait">
+<img src="../assets/ProposedNew.png" alt="portrait"  align="center">
 &nbsp;
+
 &nbsp;
 
 ### ABSTRACT
