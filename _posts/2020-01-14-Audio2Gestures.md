@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Audio2Gestures
 permalink: /audio2gestures/
 ---
