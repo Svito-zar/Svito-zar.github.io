@@ -6,7 +6,7 @@ permalink: /audio2gestures/
 
 
 <p align="center">
-  <h2> Analyzing input and output representations for speech-driven gesture generation </h2>
+  <font size=22> Analyzing input and output representations for speech-driven gesture generation </font>
   <h3> Taras  Kucherenko,  Dai  Hasegawa, Gustav  Eje  Henter, </h3>
   <h3> Naoshi  Kaneko, and Hedvig Kjellström </h3>
   <h4> International Conference on Intelligent Virtual Agents (IVA '19) </h4>
