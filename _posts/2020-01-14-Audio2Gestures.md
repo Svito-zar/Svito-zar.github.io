@@ -12,14 +12,13 @@ permalink: /audio2gestures/
 </p>
 
 <p align="center">
- <a href="https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation" style="font-size: 40px; text-decoration: none">Paper</a> 
- <p style="font-size: 40px;">    |    </p>
+ <a href="https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation" style="font-size: 40px; text-decoration: none">Paper</a>  
  <a href="https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder" style="font-size: 40px; text-decoration: none">Code</a>   
 </p>
 
 
-<img style="float: left; border: 5px solid white; padding-right: 10px;" src="assets/ProposedNew.png">
-<br></br>
+<img style="float: left; border: 5px solid white" src="../assets/ProposedNew.png" alt="portrait">
+&nbsp;
 
 ### ABSTRACT
 This paper presents a novel framework for automatic speech-driven gesture generation, applicable to human-agent interaction including both virtual agents and robots. Specifically, we extend recent deep-learning-based, data-driven methods for speech-driven gesture generation by incorporating representation learning. Our model takes speech as input and produces gestures as output, in the form of a sequence of 3D coordinates. 
