@@ -12,15 +12,13 @@ permalink: /audio2gestures/
 </p>
 
 <p align="center">
- <a href="https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation" style="font-size: 38px; text-decoration: none">Paper   </a>  
- <a style="font-size: 38px; text-decoration: none"> |   </a> 
- <a href="https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder" style="font-size: 38px; text-decoration: none">   Code</a>   
+ <a href="https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation" style="font-size: 35px; text-decoration: none">Paper   </a>  
+ <a style="font-size: 35px; text-decoration: none"> |   </a> 
+ <a href="https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder" style="font-size: 35px; text-decoration: none">   Code</a>   
 </p>
 
 
-<img src="../assets/ProposedNew.png" alt="portrait"  align="center">
-&nbsp;
-
+<img src="../assets/ProposedNew.png" alt="portrait"  align="middle">
 &nbsp;
 
 ### ABSTRACT
