@@ -6,17 +6,19 @@ permalink: /audio2gestures/
 
 
 <p align="center">
-  <b style="font-size: 40px;"> Analyzing input and output representations for speech-driven gesture generation </b>
-  <h3> Taras  Kucherenko,  Dai  Hasegawa, Gustav  Eje  Henter, </h3>
-  <h3> Naoshi  Kaneko, and Hedvig Kjellström </h3>
-  <h4> International Conference on Intelligent Virtual Agents (IVA '19) </h4>
+  <b style="font-size: 42px;"> Analyzing input and output representations for speech-driven gesture generation </b>
+  <p style="font-size: 40px;"> Taras  Kucherenko,  Dai  Hasegawa, Gustav  Eje  Henter, Naoshi  Kaneko, and Hedvig Kjellström </p>
+  <p style="font-size: 35px;"> International Conference on Intelligent Virtual Agents (IVA '19) </p>
 </p>
 
 <p align="center">
- <a href="https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation" style="font-size: 40px; text-decoration: none">Paper</a>    |
+ <a href="https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation" style="font-size: 40px; text-decoration: none">Paper</a> 
+ <p style="font-size: 40px;">    |    </p>
  <a href="https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder" style="font-size: 40px; text-decoration: none">Code</a>   
 </p>
 
+
+<img style="float: left; border: 5px solid white; padding-right: 10px;" src="assets/ProposedNew.png" height="200" alt="portrait">
 
 ### ABSTRACT
 This paper presents a novel framework for automatic speech-driven gesture generation, applicable to human-agent interaction including both virtual agents and robots. Specifically, we extend recent deep-learning-based, data-driven methods for speech-driven gesture generation by incorporating representation learning. Our model takes speech as input and produces gestures as output, in the form of a sequence of 3D coordinates. 
