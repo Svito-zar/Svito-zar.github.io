@@ -14,7 +14,7 @@ My publications can also be found on [Google Scholar Citations](https://scholar.
 * **Taras  Kucherenko**,  Dai  Hasegawa, Gustav  Eje  Henter, Naoshi  Kaneko, and Hedvig Kjellström.
 *Analyzing input and output representations for speech-driven gesture generation.*
 International Conference on Intelligent Virtual Agents (IVA '19), Paris, July 02–05, 2019
-[Paper](https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation) [Code](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) [Video](https://youtu.be/Iv7UBe92zrw) [bib](https://people.kth.se/~ghe/pubs/bib/kucherenko2019analyzing.bib) [Project Page](../_posts/Audio2Gestures.md)
+[Paper](https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation) [Code](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) [Video](https://youtu.be/Iv7UBe92zrw) [bib](https://people.kth.se/~ghe/pubs/bib/kucherenko2019analyzing.bib) [Project Page](../_posts/2020-01-14-Audio2Gestures.md)
 
 * **Taras  Kucherenko**,  Dai  Hasegawa,  Naoshi  Kaneko,  Gustav  Eje  Henter, and Hedvig Kjellström. 
 *On the importance of representations for speech-driven gesture generation.*
