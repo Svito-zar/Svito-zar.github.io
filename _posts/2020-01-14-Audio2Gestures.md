@@ -6,8 +6,8 @@ permalink: /audio2gestures/
 
 
 <p align="center">
-  <h1> Analyzing input and output representations for speech-driven gesture generation <\h1>
-  <h2> [Taras  Kucherenko](https://svito-zar.github.io),  [Dai  Hasegawa](https://hasegawadai.info/), [Gustav  Eje  Henter](https://people.kth.se/~ghe/), <\h2>
+  <h1> Analyzing input and output representations for speech-driven gesture generation </h1>
+  <h2> [Taras  Kucherenko](https://svito-zar.github.io),  [Dai  Hasegawa](https://hasegawadai.info/), [Gustav  Eje  Henter](https://people.kth.se/~ghe/), </h2>
 
  <a href="https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation">Paper</a>    |
  <a href="https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder">Code</a>   
