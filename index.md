@@ -18,6 +18,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 <br>
 ### **News**
 
+* <strong>Jan 2020:</strong> Sifan Jiang started his master thesis with me. He will be extending my gesture generation model to humanoid robot NAO.
 * <strong>November 2019:</strong> [Talk](https://youtu.be/AS5VorjTwcg) on general direction of my research.
 * <strong>October 2019:</strong> Master students wanted for a master thesis project on gesture generation for a humanoid robot.
 * <strong>September 2019</strong> Talk on [How to make your agent gesture in a natural way](https://ps.is.tuebingen.mpg.de/events/how-to-make-your-agent-gesture-in-a-natural-way) at Max Planck Institute for Intelligent Systems: [Perceiving Systems](https://ps.is.tuebingen.mpg.de) Department in Tuebingen.
