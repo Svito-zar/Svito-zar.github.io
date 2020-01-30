@@ -7,7 +7,7 @@ permalink: /publications/
 My publications can also be found on [Google Scholar Citations](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/k/Kucherenko:Taras), and [ResearchGate](https://www.researchgate.net/profile/Taras_Kucherenko). 
 
 ### 2020
-* **Taras Kucherenko**, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator:A framework for semantically-aware speech-driven gesture generation* . arXiv preprint (2020) [Paper](https://arxiv.org/abs/2001.09326)
+* **Taras Kucherenko**, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator:A framework for semantically-aware speech-driven gesture generation* . arXiv preprint (2020) [Paper](https://www.researchgate.net/publication/338853312_Gesticulator_A_framework_for_semantically-aware_speech-driven_gesture_generation)
 
 ### 2019
 * Pieter Wolfert, **Taras Kucherenko**, Hedvig Kjellström, Tony Belpaeme. *Should Beat Gestures Be Learned Or Designed? A Benchmarking User Study.* ICDL-EPIROB 2019 Workshop on Naturalistic Non-Verbal and Affective Human-Robot Interactions, Oslo, August 19, 2019 [Paper](https://pieterwolfert.com/files/epirob_camera_final.pdf) [Code](https://github.com/Svito-zar/Speech_driven_gesture_generation) [Poster](../posters/should_gesture_be_learned_poster.pdf)
