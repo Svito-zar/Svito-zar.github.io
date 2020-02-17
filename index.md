@@ -31,16 +31,22 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 * <strong>April 2018:</strong> Joined Social Robotics Sweden ([SoRoS](https://soros-community.github.io/)) community.
 * <strong>June 2017:</strong> We had a [poster](https://www.csc.kth.se/~hedvig/publications/ssdl_17.pdf) at The First Swedish Symposium on Deep Learning (SSDL).
 
+&nbsp;
+&nbsp;
+
 ### **Academic Service**
 
-* <strong> Reviewer </strong> for
-	* NIPS 2018 Workshop on AI for Social Good
-	* ACII 2019, ICSR 2019
-	* ECAI 2020, IJCAI 2020, SIGRAPH 2020
-
 * <strong> Co-organizing </strong>
+    - [GESPIN 2020 Conference](http://sprakbanken.speech.kth.se/events/gespin/)
+    - [SoRoS](https://soros-community.github.io/)  2020 Workshop
+    - NIPS 2018 [Workshop on AI for Social Good](https://aiforsocialgood.github.io/2018/cfp.htm)
 
-    - NIPS 2018 Workshop on AI for Social Good
-    - SoRoS  2020 Workshop
-    - GESPIN 2020 Conference
+
+* <strong> Reviewer </strong> for
+	* ECAI 2020, IJCAI 2020, SIGRAPH 2020
+	* ACII 2019, ICSR 2019
+	* NIPS 2018 Workshop on AI for Social Good
+
+
+
 
