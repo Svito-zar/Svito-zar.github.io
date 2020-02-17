@@ -30,3 +30,17 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 * <strong>Oct 2018:</strong> My [project proposal](https://www.researchgate.net/publication/328032360_Data_Driven_Non-Verbal_Behavior_Generation_for_Humanoid_Robots) was published ICMI Doctoral Consortium 2018.
 * <strong>April 2018:</strong> Joined Social Robotics Sweden ([SoRoS](https://soros-community.github.io/)) community.
 * <strong>June 2017:</strong> We had a [poster](https://www.csc.kth.se/~hedvig/publications/ssdl_17.pdf) at The First Swedish Symposium on Deep Learning (SSDL).
+
+### **Academic Service**
+
+* <strong> Reviewer </strong> for
+	* NIPS 2018 Workshop on AI for Social Good
+	* ACII 2019, ICSR 2019
+	* ECAI 2020, IJCAI 2020, SIGRAPH 2020
+
+* <strong> Co-organizing </strong>
+
+    - NIPS 2018 Workshop on AI for Social Good
+    - SoRoS  2020 Workshop
+    - GESPIN 2020 Conference
+
