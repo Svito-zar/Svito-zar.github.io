@@ -11,7 +11,8 @@ You can see speeches I gave at Loki Toastmasters [here](https://www.youtube.com/
 Below are my talks outside of Toastmasters.
 
 ### 2020
-* <strong>Mar.</strong> - keynote-style talk at [KAU Data Science School 2020](https://sites.google.com/view/kaudatascienceschool-2020/taras-kucherenko) in Kyiv (1 h)
+* <strong>Mar.</strong> - talk at [KAU Data Science School 2020](https://sites.google.com/view/kaudatascienceschool-2020/taras-kucherenko) in Kyiv (1 h)
+* <strong>Mar.</strong> - keynote for [the Organization of Young Scientists of KPI](http://ssa.org.ua/) in Kyiv (1 h)
 
 ### 2019
 * <strong>Sept.</strong> - talk on my research at Max Planck Institute for Intelligent Systems [Perceiving Systems Department](https://ps.is.tuebingen.mpg.de/events/how-to-make-your-agent-gesture-in-a-natural-way) in Tuebingen (30 min)
