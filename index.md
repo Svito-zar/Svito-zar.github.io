@@ -17,7 +17,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 
 <br>
 ### **News**
-
+* <strong> March 2020: </strong> Our paper *Gesticulator:A framework for semantically-aware speech-driven gesture generation* was accepted to Swedish Symposium on Deep Learning ([SSDL](http://ssba.org.se/ssba2020/)) for an oral presentation
 * <strong>Feb 2020:</strong> Our paper *Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows* was accepted to Eurographics 2020.
 * <strong>Jan 2020:</strong> Sifan Jiang started his master thesis with me. He will be extending my gesture generation model to humanoid robot NAO.
 * <strong>November 2019:</strong> [Talk](https://youtu.be/AS5VorjTwcg) on general direction of my research.
