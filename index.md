@@ -8,7 +8,7 @@ exclude: true
 <img style="float: left; border: 5px solid white; padding-right: 10px;" src="assets/LinkedIn_pic.jpg" height="200" alt="portrait">
 I am a Ph.D. student in Machine Learning for Social Robotics at KTH Royal Institute of Technology, Stockholm, Sweden.
 
-My research is on generative models of non-verbal behavior, such as hand gestures and facial expressions. You can watch me explaining it [here](https://youtu.be/AS5VorjTwcg). My latest project can be found on this [page](_posts/2020-01-14-Audio2Gestures.md).
+My research is on generative models of non-verbal behavior, such as hand gestures and facial expressions. You can watch me explaining it [here](https://youtu.be/AS5VorjTwcg). My latest project can be found on this [page](https://svito-zar.github.io/audio2gestures/).
 
 I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACare/), where we aim to develop a robot system to detect early signs of Dementia from the communicative behavior. My part is non-verbal behavior generation.
 
