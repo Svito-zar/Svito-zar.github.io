@@ -6,9 +6,9 @@ permalink: /audio2gestures/
 
 
 <p align="center">
-  <b style="font-size: 40px;"> Analyzing input and output representations for speech-driven gesture generation </b>
-  <p style="font-size: 36px;"> Taras  Kucherenko,  Dai  Hasegawa, Gustav  Eje  Henter, Naoshi  Kaneko, and Hedvig Kjellström </p>
-  <p style="font-size: 26px;" align="center"> International Conference on Intelligent Virtual Agents (IVA '19) </p>
+  <b style="font-size: 45px;"> Analyzing input and output representations for speech-driven gesture generation </b>
+  <p style="font-size: 32px;"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="https://hasegawadai.info/">Dai Hasegawa</a>,  <a href="https://people.kth.se/~ghe/">Gustav Eje Henter</a>, Naoshi Kaneko, <a href="http://www.csc.kth.se/~hedvig/">Hedvig Kjellström</a> </p>
+  <p style="font-size: 24px;" align="center"> International Conference on Intelligent Virtual Agents (IVA '19) </p>
 </p>
 
 <p align="center">
