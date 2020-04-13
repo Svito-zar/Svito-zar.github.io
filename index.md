@@ -17,7 +17,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 
 <br>
 ### **News**
-* <strong> March 2020: </strong> Our paper *Gesticulator:A framework for semantically-aware speech-driven gesture generation* was accepted to Swedish Symposium on Deep Learning ([SSDL](http://ssba.org.se/ssba2020/)) for an oral presentation
+* <strong> April 2020: </strong> The CFP for our IVA'20 [Workshop](https://genea-workshop.github.io/2020/) on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents is [out](https://easychair.org/cfp/GENEA_Workshop_2020). As part of this workshop we organize Gesture Generation Challenge!
 * <strong>Feb 2020:</strong> Our paper *Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows* was accepted to Eurographics 2020.
 * <strong>Jan 2020:</strong> Sifan Jiang started his master thesis with me. He will be extending my gesture generation model to humanoid robot NAO.
 * <strong>November 2019:</strong> [Talk](https://youtu.be/AS5VorjTwcg) on general direction of my research.
@@ -38,6 +38,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 ### **Academic Service**
 
 * <strong> Co-organizing </strong>
+    - IVA'20 [Workshop](https://genea-workshop.github.io/2020/) on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents
     - [GESPIN 2020 Conference](http://sprakbanken.speech.kth.se/events/gespin/)
     - [SoRoS](https://soros-community.github.io/)  2020 Workshop
     - NIPS 2018 [Workshop on AI for Social Good](https://aiforsocialgood.github.io/2018/cfp.htm)
