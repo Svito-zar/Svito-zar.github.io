@@ -7,7 +7,7 @@ permalink: /publications/
 My publications can also be found on [Google Scholar Citations](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/k/Kucherenko:Taras), and [ResearchGate](https://www.researchgate.net/profile/Taras_Kucherenko). 
 
 ### 2020
-* Simon Alexanderson, Gustav  Eje  Henter, **Taras Kucherenko**,  and Jonas Beskow. *Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows*. (to appear in) Eurographics journal Computer Graphics Forum. 2020
+* Simon Alexanderson, Gustav  Eje  Henter, **Taras Kucherenko**,  and Jonas Beskow. *Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows*. (to appear in) Journal Computer Graphics Forum (Proc. Eurographics). 2020
 
 * **Taras Kucherenko**, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator:A framework for semantically-aware speech-driven gesture generation* . arXiv preprint (2020) [Paper](https://www.researchgate.net/publication/338853312_Gesticulator_A_framework_for_semantically-aware_speech-driven_gesture_generation)
 
@@ -19,7 +19,7 @@ My publications can also be found on [Google Scholar Citations](https://scholar.
 * **Taras  Kucherenko**,  Dai  Hasegawa, Gustav  Eje  Henter, Naoshi  Kaneko, and Hedvig Kjellström.
 *Analyzing input and output representations for speech-driven gesture generation.*
 International Conference on Intelligent Virtual Agents (IVA '19), Paris, July 02–05, 2019
-[Paper](https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation) [Code](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) [Video](https://youtu.be/Iv7UBe92zrw) [bib](https://people.kth.se/~ghe/pubs/bib/kucherenko2019analyzing.bib) [Project Page](../_posts/2020-01-14-Audio2Gestures.md)
+[Paper](../papers/IVA_2019) [Code](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) [Video](https://youtu.be/Iv7UBe92zrw) [bib](https://people.kth.se/~ghe/pubs/bib/kucherenko2019analyzing.bib) [Project Page](../_posts/2020-01-14-Audio2Gestures.md)
 
 * **Taras  Kucherenko**,  Dai  Hasegawa,  Naoshi  Kaneko,  Gustav  Eje  Henter, and Hedvig Kjellström. 
 *On the importance of representations for speech-driven gesture generation.*
