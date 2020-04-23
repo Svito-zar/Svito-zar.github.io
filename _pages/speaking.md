@@ -11,7 +11,7 @@ You can see speeches I gave at Loki Toastmasters [here](https://www.youtube.com/
 Below are my talks outside of Toastmasters.
 
 ### 2020
-* <strong>Mar.</strong> - talk at [KAU Data Science School 2020](https://sites.google.com/view/kaudatascienceschool-2020/taras-kucherenko) in Kyiv (1 h)
+* <strong>Mar.</strong> - [talk](https://youtu.be/2Ak8uVKgkMM) at [KAU Data Science School 2020](https://sites.google.com/view/kaudatascienceschool-2020/taras-kucherenko) in Kyiv (1 h)
 * <strong>Mar.</strong> - keynote for [the Organization of Young Scientists of KPI](http://ssa.org.ua/) in Kyiv (1 h)
 
 ### 2019
