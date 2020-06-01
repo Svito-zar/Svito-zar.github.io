@@ -17,6 +17,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 
 <br>
 ### **News**
+* <strong>May 2020:</strong> Our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946) received honourable mention award at Eurographics 2020.
 * <strong> April 2020: </strong> The CFP for our IVA'20 [Workshop](https://genea-workshop.github.io/2020/) on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents is [out](https://easychair.org/cfp/GENEA_Workshop_2020). As part of this workshop we organize Gesture Generation Challenge!
 * <strong>Feb 2020:</strong> Our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946) was accepted to Eurographics 2020.
 * <strong>Jan 2020:</strong> Sifan Jiang started his master thesis with me. He will be extending my gesture generation model to humanoid robot NAO.

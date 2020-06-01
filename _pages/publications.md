@@ -7,7 +7,7 @@ permalink: /publications/
 My publications can also be found on [Google Scholar Citations](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/k/Kucherenko:Taras), and [ResearchGate](https://www.researchgate.net/profile/Taras_Kucherenko). 
 
 ### 2020
-* Simon Alexanderson, Gustav  Eje  Henter, **Taras Kucherenko**,  and Jonas Beskow. *Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows*. Journal Computer Graphics Forum (Proc. Eurographics). 2020 [Paper](../papers/alexanderson2020style.pdf) [Code](https://github.com/simonalexanderson/StyleGestures)
+* Simon Alexanderson, Gustav  Eje  Henter, **Taras Kucherenko**,  and Jonas Beskow. *Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows*. EuroGraphics 2020 (*Honourable Mention*) [Paper](../papers/alexanderson2020style.pdf) [Code](https://github.com/simonalexanderson/StyleGestures) [Video](https://youtu.be/egf3tjbWBQE)
 
 * **Taras Kucherenko**, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator:A framework for semantically-aware speech-driven gesture generation* . arXiv preprint. 2020 [Paper](https://www.researchgate.net/publication/338853312_Gesticulator_A_framework_for_semantically-aware_speech-driven_gesture_generation)
 
