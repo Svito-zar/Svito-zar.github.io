@@ -1,2 +1,3 @@
 # Ignore folder names "_site"
 _site
+**/*.svg

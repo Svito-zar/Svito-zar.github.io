@@ -5,6 +5,10 @@ permalink: /teaching/
 ---
 
 ### 2019 / 2020
+Supervising
+* Sifan Jiang's master thesis
+* Rajmund Nagy's summer internship
+
 Teaching Assistant in 
 * [Machine Learning](https://www.kth.se/student/kurser/kurs/DD2421?l=en) course.
 * [Computer Vision](https://www.kth.se/student/kurser/kurs/DD2423?l=en) course.
