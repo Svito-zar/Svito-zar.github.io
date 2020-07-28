@@ -17,7 +17,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 
 <br>
 ### **News**
-* <strong>July 2020:</strong> Two papers accepted for [IVA 2020](iva2020.psy.gla.ac.uk). More details soon.
+* <strong>July 2020:</strong> Two papers accepted for [IVA 2020](http://iva2020.psy.gla.ac.uk). More details soon.
 * <strong>May 2020:</strong> We received honourable mention award at Eurographics 2020 for our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946).
 * <strong> April 2020: </strong> The CFP for our IVA'20 [Workshop](https://genea-workshop.github.io/2020/) on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents is [out](https://easychair.org/cfp/GENEA_Workshop_2020). As part of this workshop we organize Gesture Generation Challenge!
 * <strong>Feb 2020:</strong> Our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946) was accepted to Eurographics 2020.
