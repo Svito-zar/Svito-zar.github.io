@@ -7,9 +7,22 @@ permalink: /publications/
 My publications can also be found on [Google Scholar Citations](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/k/Kucherenko:Taras), and [ResearchGate](https://www.researchgate.net/profile/Taras_Kucherenko). 
 
 ### 2020
+* Patrik Jonell^, **Taras Kucherenko**^, Ilaria Torre, Jonas Beskow. *Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents.* 
+Accepted for publication at ACM International Conference on Intelligent Virtual Agents (IVA 2020). 2020
+
+* Simon Alexanderson, Éva Székely, Gustav Eje Henter, **Taras Kucherenko**, and Jonas Beskow.
+*Generating coherent spontaneous speech and gesture from text.*
+Accepted for publication at ACM International Conference on Intelligent Virtual Agents (IVA 2020). 2020
+
+* **Taras  Kucherenko**,  Dai  Hasegawa, Naoshi Kaneko, Gustav  Eje  Henter, and Hedvig Kjellström.
+*Moving fast and slow: Analysis of representations and post-processing in speech-driven automatic gesture generation.*
+arxiv preprint. 2020
+[Paper](https://www.researchgate.net/publication/343096046_Moving_fast_and_slow_Analysis_of_representations_and_post-processing_in_speech-driven_automatic_gesture_generation) [Code](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) [Video](https://youtu.be/Iv7UBe92zrw) [Project Page](../_posts/2020-01-14-Audio2Gestures.md)
+
+
 * Patrik Jonell, **Taras Kucherenko**, Gustav Eje Henter, Jonas Beskow. *Let’s face it: Probabilistic multi-modal interlocutor-aware generation of facial gestures in dyadic settings*. arXiv preprint. 2020. [Paper](https://arxiv.org/abs/2006.09888)
 
-* Simon Alexanderson, Gustav  Eje  Henter, **Taras Kucherenko**,  and Jonas Beskow. *Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows*. EuroGraphics 2020 (*Honourable Mention*) [Paper](../papers/alexanderson2020style.pdf) [Code](https://github.com/simonalexanderson/StyleGestures) [Video](https://youtu.be/egf3tjbWBQE)
+* Simon Alexanderson, Gustav  Eje  Henter, **Taras Kucherenko**,  and Jonas Beskow. *Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows*. Computer Graphics Forum. 2020. (*EuroGraphics 2020 Honourable Mention*) [Paper](../papers/alexanderson2020style.pdf) [Code](https://github.com/simonalexanderson/StyleGestures) [Video](https://youtu.be/egf3tjbWBQE)
 
 * **Taras Kucherenko**, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator:A framework for semantically-aware speech-driven gesture generation* . arXiv preprint. 2020 [Paper](https://www.researchgate.net/publication/338853312_Gesticulator_A_framework_for_semantically-aware_speech-driven_gesture_generation)
 
