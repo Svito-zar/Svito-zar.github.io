@@ -7,12 +7,12 @@ permalink: /gesticulator/
 
 <p align="center">
   <b style="font-size: 45px;"> Gesticulator: A framework for semantically-aware speech-driven gesture generation </b>
-  <p style="font-size: 32px;"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="http://www.patrikjonell.se">Patrik Jonell</a>, <a href="https://svanwaveren.wordpress.com">Sanne van Waveren</a>, <a href="https://people.kth.se/~ghe/">Gustav Eje Henter</a>, Simon Alexanderson, <a href="https://iolandaleite.com">Iolanda Leite</a>, <a href="http://www.csc.kth.se/~hedvig/">Hedvig Kjellström</a> </p>
+  <p style="font-size: 32px;" align="center"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="http://www.patrikjonell.se">Patrik Jonell</a>, <a href="https://svanwaveren.wordpress.com">Sanne van Waveren</a>, <a href="https://people.kth.se/~ghe/">Gustav Eje Henter</a>, Simon Alexanderson, <a href="https://iolandaleite.com">Iolanda Leite</a>, <a href="http://www.csc.kth.se/~hedvig/">Hedvig Kjellström</a> </p>
   <p style="font-size: 24px;" align="center"> International Conference on Multimodal Interaction (ICMI '20) </p>
 </p>
 
 <p align="center">
- <a href="https://www.researchgate.net/publication/338853312_Gesticulator_A_framework_for_semantically-aware_speech-driven_gesture_generation" style="font-size: 35px; text-decoration: none">Paper   </a>  
+ <a href="https://arxiv.org/abs/2001.09326" style="font-size: 35px; text-decoration: none">Paper   </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
  <a href="https://github.com/Svito-zar/gesticulator" style="font-size: 35px; text-decoration: none">   Code</a>   
 </p>
