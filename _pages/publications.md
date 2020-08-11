@@ -14,7 +14,7 @@ arxiv preprint. 2020
 
 * Patrik Jonell, **Taras Kucherenko**, Gustav Eje Henter, Jonas Beskow. *Let’s face it: Probabilistic multi-modal interlocutor-aware generation of facial gestures in dyadic settings*. arXiv preprint. 2020. [Paper](https://arxiv.org/abs/2006.09888)
 
-* **Taras Kucherenko**, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator: A framework for semantically-aware speech-driven gesture generation*. (to appear at) International Conference on Multimodal Interaction (ICMI '20). 2020 [Paper](https://arxiv.org/abs/2001.09326) [Code](https://github.com/svito-zar/Gesticulator)
+* **Taras Kucherenko**, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator: A framework for semantically-aware speech-driven gesture generation*. (to appear at) International Conference on Multimodal Interaction (ICMI '20). 2020 [Paper](https://arxiv.org/abs/2001.09326) [Code](https://github.com/svito-zar/Gesticulator) [Project Page](../_posts/2020-08-03-Gesticulator.md)
 
 
 * Patrik Jonell^, **Taras Kucherenko**^, Ilaria Torre, Jonas Beskow. *Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents.* (to appear at) International Conference on Intelligent Virtual Agents (IVA'20). 2020
