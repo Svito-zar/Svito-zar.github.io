@@ -18,7 +18,7 @@ permalink: /gesticulator/
 </p>
 
 
-<div style="text-align:center" width="50%"><img src="../assets/Gesticulator.png" alt="portrait" align="middle"></div>
+<div style="text-align:center" width="30%"><img src="../assets/Gesticulator.png" alt="portrait" align="middle"></div>
 
 &nbsp;
 
