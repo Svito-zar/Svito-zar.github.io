@@ -8,7 +8,7 @@ exclude: true
 <img style="float: left; border: 5px solid white; padding-right: 10px;" src="assets/LinkedIn_pic.jpg" height="200" alt="portrait">
 I am a Ph.D. student in Machine Learning for Social Robotics at KTH Royal Institute of Technology in Stockholm. My main supervisor is [Hedvig Kjellström](http://www.csc.kth.se/~hedvig/) and co-supervisors are [Gustav Eje Henter](https://people.kth.se/~ghe/) and [Iolanda Leite](https://iolandaleite.com/).
 
-My research is on generative models of non-verbal behavior, such as hand gestures and facial expressions. You can watch me explaining it [here](https://youtu.be/AS5VorjTwcg). My latest project can be found on this [page](https://svito-zar.github.io/audio2gestures/).
+My research is on generative models of non-verbal behavior, such as hand gestures and facial expressions. You can watch me explaining it [here](https://youtu.be/AS5VorjTwcg). My latest project can be found on this [page](https://svito-zar.github.io/gesticulator).
 
 I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACare/), where we aim to develop a robot system to detect early signs of Dementia from the communicative behavior. My part is non-verbal behavior generation.
 
