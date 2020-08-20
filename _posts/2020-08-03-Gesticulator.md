@@ -13,9 +13,9 @@ permalink: /gesticulator/
 </p>
 
 <p align="center">
- <a href="https://arxiv.org/abs/2001.09326" style="font-size: 35px; text-decoration: none">Paper   </a>  
+ <a href="https://arxiv.org/abs/2001.09326" style="font-size: 30px; text-decoration: none">Paper   </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
- <a href="https://github.com/Svito-zar/gesticulator" style="font-size: 35px; text-decoration: none">   Code</a>   
+ <a href="https://github.com/Svito-zar/gesticulator" style="font-size: 30px; text-decoration: none">   Code</a>   
 </p>
 
 
@@ -44,10 +44,10 @@ Main video explaining the paper:
 
 Citation format:
 ```
-@article{kucherenko2020gesticulator,
+@inproceedings{kucherenko2020gesticulator,
   title={Gesticulator: A framework for semantically-aware speech-driven gesture generation},
   author={Kucherenko, Taras and Jonell, Patrik and van Waveren, Sanne and Henter, Gustav Eje and Alexanderson, Simon and Leite, Iolanda and Kjellstr{\"o}m, Hedvig},
-  journal={arXiv preprint arXiv:2001.09326},
+  booktitle={Proceedings of the ACM International Conference on Multimodal Interaction},
   year={2020}
 }
 ```
