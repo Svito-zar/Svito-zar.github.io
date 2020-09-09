@@ -18,7 +18,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 <br>
 ### **News**
 
-
+* <strong>Sept 2020:</strong> One more paper accepted to IVA 2020: [Let’s face it: Probabilistic multi-modal interlocutor-aware generation of facial gestures in dyadic settings](https://arxiv.org/abs/2006.09888).
 * <strong>Aug 2020:</strong> Our paper [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) got accepted to ICMI 2020!
 * <strong>July 2020:</strong> Two papers accepted for [IVA 2020](http://iva2020.psy.gla.ac.uk). More details soon.
 * <strong>May 2020:</strong> We received honourable mention award at Eurographics 2020 for our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946).
@@ -50,7 +50,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 
 
 * <strong> Reviewer </strong> for
-	* ECAI 2020, IJCAI 2020, SIGRAPH 2020, IVA 2020
+	* ECAI 2020, IJCAI 2020, SIGRAPH 2020, IVA 2020, ICMI 2020 LBR
 	* ACII 2019, ICSR 2019
 	* NIPS 2018 Workshop on AI for Social Good
 
