@@ -18,6 +18,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 <br>
 ### **News**
 
+* <strong>Sept 2020:</strong> I have an open position for a master thesis. See [the proposal](https://www.kth.se/profile/tarask/page/master-thesis-proposal) for more details.
 * <strong>Sept 2020:</strong> One more paper accepted to IVA 2020: [Let’s face it: Probabilistic multi-modal interlocutor-aware generation of facial gestures in dyadic settings](https://arxiv.org/abs/2006.09888).
 * <strong>Aug 2020:</strong> Our paper [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) got accepted to ICMI 2020!
 * <strong>July 2020:</strong> Two papers accepted for [IVA 2020](http://iva2020.psy.gla.ac.uk). More details soon.
