@@ -18,10 +18,10 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 <br>
 ### **News**
 
-* <strong>Sept 2020:</strong> I have an open position for a master thesis. See [the proposal](https://www.kth.se/profile/tarask/page/master-thesis-proposal) for more details.
+* <strong>Sept 2020:</strong> I have an open position for a master thesis on benchmarking gesture generation models in an interaction. See [the proposal](https://www.kth.se/profile/tarask/page/master-thesis-proposal) for more details.
 * <strong>Sept 2020:</strong> One more paper accepted to IVA 2020: [Let’s face it: Probabilistic multi-modal interlocutor-aware generation of facial gestures in dyadic settings](https://arxiv.org/abs/2006.09888).
 * <strong>Aug 2020:</strong> Our paper [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) got accepted to ICMI 2020!
-* <strong>July 2020:</strong> Two papers accepted for [IVA 2020](http://iva2020.psy.gla.ac.uk). More details soon.
+* <strong>July 2020:</strong> Two papers accepted for [IVA 2020](http://iva2020.psy.gla.ac.uk). More details in the [publications](https://svito-zar.github.io/publications/) tap.
 * <strong>May 2020:</strong> We received honourable mention award at Eurographics 2020 for our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946).
 * <strong> April 2020: </strong> The CFP for our IVA'20 [Workshop](https://genea-workshop.github.io/2020/) on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents is [out](https://easychair.org/cfp/GENEA_Workshop_2020). As part of this workshop we organize Gesture Generation Challenge!
 * <strong>Feb 2020:</strong> Our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946) was accepted to Eurographics 2020.

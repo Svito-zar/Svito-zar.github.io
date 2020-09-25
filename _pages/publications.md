@@ -16,7 +16,7 @@ arxiv preprint. 2020
 
 * Patrik Jonell, **Taras Kucherenko**, Gustav Eje Henter, Jonas Beskow. *Let’s face it: Probabilistic multi-modal interlocutor-aware generation of facial gestures in dyadic settings*. (to appear at) International Conference on Intelligent Virtual Agents (IVA'20). 2020 [Paper](https://arxiv.org/abs/2006.09888)
 
-* Patrik Jonell^, **Taras Kucherenko**^, Ilaria Torre, Jonas Beskow. *Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents.* (to appear at) International Conference on Intelligent Virtual Agents (IVA'20). 2020
+* Patrik Jonell^, **Taras Kucherenko**^, Ilaria Torre, Jonas Beskow. *Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents.* (to appear at) International Conference on Intelligent Virtual Agents (IVA'20). 2020 [Paper](https://arxiv.org/abs/2009.10760)
 
 * Simon Alexanderson, Éva Székely, Gustav Eje Henter, **Taras Kucherenko**, and Jonas Beskow.
 *Generating coherent spontaneous speech and gesture from text.* (to appear at) International Conference on Intelligent Virtual Agents (IVA'20). 2020
