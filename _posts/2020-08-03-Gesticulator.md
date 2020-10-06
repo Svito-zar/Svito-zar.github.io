@@ -31,7 +31,7 @@ During speech, people spontaneously gesticulate, which plays a key role in conve
 ***
 &nbsp;
 
-Main video explaining the paper:
+### Main video explaining the paper:
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/VQ8he6jjW08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -41,8 +41,8 @@ Main video explaining the paper:
 ***
 &nbsp;
 
-Additional resources:
-1. Video samples from the ablation study : https://doi.org/10.6084/m9.figshare.13055609
+### Additional resources:
+1. Video samples from the ablation study [DOI: 10.6084/m9.figshare.13055609](https://doi.org/10.6084/m9.figshare.13055609)
 2. 3D coordinates from the ablation study: https://doi.org/10.6084/m9.figshare.13055597
 3. Ablation user study results: https://doi.org/10.6084/m9.figshare.13055585
 
