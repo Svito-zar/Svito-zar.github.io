@@ -41,6 +41,16 @@ Main video explaining the paper:
 ***
 &nbsp;
 
+Additional resources:
+1. Video samples from the ablation study : https://doi.org/10.6084/m9.figshare.13055609
+2. 3D coordinates from the ablation study: https://doi.org/10.6084/m9.figshare.13055597
+3. Ablation user study results: https://doi.org/10.6084/m9.figshare.13055585
+
+&nbsp;
+
+***
+&nbsp;
+
 
 Citation format:
 ```
@@ -51,5 +61,3 @@ Citation format:
   year={2020}
 }
 ```
-
-
