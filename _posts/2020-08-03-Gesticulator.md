@@ -46,6 +46,10 @@ During speech, people spontaneously gesticulate, which plays a key role in conve
 2. 3D coordinates from the ablation study [DOI: 10.6084/m9.figshare.13055597](https://doi.org/10.6084/m9.figshare.13055597)
 3. Ablation user study results [DOI: 10.6084/m9.figshare.13055585](https://doi.org/10.6084/m9.figshare.13055585)
 
+4. Video samples from the baselining study [DOI: 10.6084/m9.figshare.13061294](https://doi.org/10.6084/m9.figshare.13061294)
+5. 3D coordinates from the baselining study [DOI: 10.6084/m9.figshare.13061270](https://doi.org/10.6084/m9.figshare.13061270)
+6. Ablation user study results [DOI: 10.6084/m9.figshare.13061249](https://doi.org/10.6084/m9.figshare.13061249)
+
 &nbsp;
 
 ***
