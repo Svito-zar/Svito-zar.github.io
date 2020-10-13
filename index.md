@@ -17,6 +17,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 
 <br>
 ### **News**
+* <strong>Oct 2020:</strong> [Gesticulator](https://arxiv.org/abs/2001.09326) was nominated for ICMI 2020 Best Paper Award!
 * <strong>Oct 2020:</strong> Registration for the [GENEA](https://genea-workshop.github.io/2020/) (Generation and Evaluation of Non-verbal Behaviour for Embodied Agents) Workshop 2020 is open! 
 * <strong>Sept 2020:</strong> I have an open position for a master thesis on benchmarking gesture generation models in an interaction. See [the proposal](https://www.kth.se/profile/tarask/page/master-thesis-proposal) for more details.
 * <strong>Sept 2020:</strong> One more paper accepted to IVA 2020: [Let’s face it: Probabilistic multi-modal interlocutor-aware generation of facial gestures in dyadic settings](https://arxiv.org/abs/2006.09888).
