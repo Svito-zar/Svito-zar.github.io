@@ -12,16 +12,16 @@ My publications can also be found on [Google Scholar Citations](https://scholar.
 arxiv preprint. 2020
 [Paper](https://www.researchgate.net/publication/343096046_Moving_fast_and_slow_Analysis_of_representations_and_post-processing_in_speech-driven_automatic_gesture_generation) [Code](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) [Video](https://youtu.be/Iv7UBe92zrw) [Project Page](../_posts/2020-01-14-Audio2Gestures.md)
 
-* **Taras Kucherenko**, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator: A framework for semantically-aware speech-driven gesture generation*. (to appear at) International Conference on Multimodal Interaction (ICMI '20). 2020 [Paper](https://arxiv.org/abs/2001.09326) [Code](https://github.com/svito-zar/Gesticulator) [Project Page](../_posts/2020-08-03-Gesticulator.md)
+* **Taras Kucherenko**, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator: A framework for semantically-aware speech-driven gesture generation*. International Conference on Multimodal Interaction (ICMI '20). 2020. **Best Paper Award Nominee** [Paper](https://arxiv.org/abs/2001.09326) [Code](https://github.com/svito-zar/Gesticulator) [Project Page](../_posts/2020-08-03-Gesticulator.md)
 
-* Patrik Jonell, **Taras Kucherenko**, Gustav Eje Henter, Jonas Beskow. *Let’s face it: Probabilistic multi-modal interlocutor-aware generation of facial gestures in dyadic settings*. (to appear at) International Conference on Intelligent Virtual Agents (IVA'20). 2020 [Paper](https://arxiv.org/abs/2006.09888)
+* Patrik Jonell, **Taras Kucherenko**, Gustav Eje Henter, Jonas Beskow. *Let’s face it: Probabilistic multi-modal interlocutor-aware generation of facial gestures in dyadic settings*. International Conference on Intelligent Virtual Agents (IVA'20). 2020. **Best Paper Award Nominee** [Paper](https://arxiv.org/abs/2006.09888)
 
-* Patrik Jonell^, **Taras Kucherenko**^, Ilaria Torre, Jonas Beskow. *Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents.* (to appear at) International Conference on Intelligent Virtual Agents (IVA'20). 2020 [Paper](https://arxiv.org/abs/2009.10760)
+* Patrik Jonell^, **Taras Kucherenko**^, Ilaria Torre, Jonas Beskow. *Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents.* International Conference on Intelligent Virtual Agents (IVA'20). 2020 [Paper](https://arxiv.org/abs/2009.10760)
 
 * Simon Alexanderson, Éva Székely, Gustav Eje Henter, **Taras Kucherenko**, and Jonas Beskow.
 *Generating coherent spontaneous speech and gesture from text.* (to appear at) International Conference on Intelligent Virtual Agents (IVA'20). 2020
 
-* Simon Alexanderson, Gustav  Eje  Henter, **Taras Kucherenko**,  and Jonas Beskow. *Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows*. Computer Graphics Forum. 2020. (*EuroGraphics 2020 Honourable Mention*) [Paper](../papers/alexanderson2020style.pdf) [Code](https://github.com/simonalexanderson/StyleGestures) [Video](https://youtu.be/egf3tjbWBQE)
+* Simon Alexanderson, Gustav  Eje  Henter, **Taras Kucherenko**,  and Jonas Beskow. *Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows*. Computer Graphics Forum. 2020. (EuroGraphics 2020 **Honourable Mention**) [Paper](../papers/alexanderson2020style.pdf) [Code](https://github.com/simonalexanderson/StyleGestures) [Video](https://youtu.be/egf3tjbWBQE)
 
 ### 2019
 * Pieter Wolfert, **Taras Kucherenko**, Hedvig Kjellström, Tony Belpaeme. *Should Beat Gestures Be Learned Or Designed? A Benchmarking User Study.* ICDL-EPIROB 2019 Workshop on Naturalistic Non-Verbal and Affective Human-Robot Interactions, Oslo, August 19, 2019 [Paper](https://pieterwolfert.com/files/epirob_camera_final.pdf) [Code](https://github.com/Svito-zar/Speech_driven_gesture_generation) [Poster](../posters/should_gesture_be_learned_poster.pdf)
