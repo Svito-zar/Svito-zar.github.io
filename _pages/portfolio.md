@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 ### 2020
 
-Taras Kucherenko, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. Gesticulator: A framework for semantically-aware speech-driven gesture generation. (to appear at) International Conference on Multimodal Interaction (ICMI ‘20). 
+Taras Kucherenko, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator: A framework for semantically-aware speech-driven gesture generation.* International Conference on Multimodal Interaction (ICMI ‘20) **Best Paper Award Nominee**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VQ8he6jjW08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;
@@ -14,7 +14,7 @@ Taras Kucherenko, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Ale
 ***
 &nbsp;
 
-Simon Alexanderson, Gustav Eje Henter, Taras Kucherenko, and Jonas Beskow. Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows. EuroGraphics 2020 (Honourable Mention)
+Simon Alexanderson, Gustav Eje Henter, Taras Kucherenko, and Jonas Beskow. *Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows.* EuroGraphics 2020 **Best Paper Award Nominee**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/egf3tjbWBQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
