@@ -10,6 +10,7 @@ permalink: /gesticulator/
   <b style="font-size: 42px;"> A framework for semantically-aware speech-driven gesture generation </b>
   <p style="font-size: 28px;" align="center"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="http://www.patrikjonell.se">Patrik Jonell</a>, <a href="https://svanwaveren.wordpress.com">Sanne van Waveren</a>, <a href="https://people.kth.se/~ghe/">Gustav Eje Henter</a>, Simon Alexanderson, <a href="https://iolandaleite.com">Iolanda Leite</a>, <a href="http://www.csc.kth.se/~hedvig/">Hedvig Kjellström</a> </p>
   <p style="font-size: 24px;" align="center"> International Conference on Multimodal Interaction (ICMI '20) </p>
+  <p style="font-size: 24px;" align="center"> Best Paper Award Nominee </p>
 </p>
 
 <p align="center">
