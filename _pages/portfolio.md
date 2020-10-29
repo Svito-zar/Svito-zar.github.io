@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 Taras Kucherenko, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator: A framework for semantically-aware speech-driven gesture generation.* International Conference on Multimodal Interaction (ICMI ‘20) 
 
-**Best Paper Award Nominee**
+**Best Paper Award**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VQ8he6jjW08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;
