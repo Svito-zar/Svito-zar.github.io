@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<img style="float: left; border: 5px solid white; padding-left: 50px;" src="../assets/LinkedIn_pic.jpg" height="300" alt="portrait">
+<img style="float: left; border: 5px solid white; padding-left: 50px;" src="../assets/LinkedIn_pic.jpg" height="250" alt="portrait">
 
 **Email**:  tarask@kth.se 
 
@@ -12,5 +12,9 @@ permalink: /contact/
         
 11428, Stockholm, Sweden
 
-**ResearchGate**: [Taras Kucherenko](https://www.researchgate.net/profile/Taras_Kucherenko)
+[Twitter](https://twitter.com/SvitozarTaras)
+
+[LinkedIn](https://www.linkedin.com/in/taras-kucherenko-9b049198/)
+
+[ResearchGate](https://www.researchgate.net/profile/Taras_Kucherenko)
 
