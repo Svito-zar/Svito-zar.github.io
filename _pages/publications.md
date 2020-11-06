@@ -15,14 +15,14 @@ My publications can also be found on [Google Scholar Citations](https://scholar.
 arxiv preprint. 2020
 [Paper](https://www.researchgate.net/publication/343096046_Moving_fast_and_slow_Analysis_of_representations_and_post-processing_in_speech-driven_automatic_gesture_generation) [Code](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) [Video](https://youtu.be/Iv7UBe92zrw) [Project Page](../_posts/2020-01-14-Audio2Gestures.md)
 
-* **Taras Kucherenko**, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator: A framework for semantically-aware speech-driven gesture generation*. International Conference on Multimodal Interaction (ICMI '20). 2020. **BEST PAPER AWARD**  [Paper](https://arxiv.org/abs/2001.09326) [Code](https://github.com/svito-zar/Gesticulator) [Project Page](../_posts/2020-08-03-Gesticulator.md)
+* **Taras Kucherenko**, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator: A framework for semantically-aware speech-driven gesture generation*. International Conference on Multimodal Interaction (ICMI '20). 2020. **BEST PAPER AWARD**  [Paper](https://dl.acm.org/doi/10.1145/3382507.3418815) [Code](https://github.com/svito-zar/Gesticulator) [Project Page](../_posts/2020-08-03-Gesticulator.md)
 
-* Patrik Jonell^, **Taras Kucherenko**^, Ilaria Torre, Jonas Beskow. *Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents.* International Conference on Intelligent Virtual Agents (IVA'20). 2020 [Paper](https://arxiv.org/abs/2009.10760)
+* Patrik Jonell^, **Taras Kucherenko**^, Ilaria Torre, Jonas Beskow. *Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents.* International Conference on Intelligent Virtual Agents (IVA'20). 2020 [Paper](https://dl.acm.org/doi/10.1145/3383652.3423860)
 
 * Patrik Jonell, **Taras Kucherenko**, Gustav Eje Henter, Jonas Beskow. *Let’s face it: Probabilistic multi-modal interlocutor-aware generation of facial gestures in dyadic settings*. International Conference on Intelligent Virtual Agents (IVA'20). 2020. **BEST PAPER AWARD** [Paper](https://raw.githubusercontent.com/jonepatr/lets_face_it/master/paper/jonell_lets_face_it.pdf) [Code](https://github.com/jonepatr/lets_face_it) [Video](https://youtu.be/RhazMS4L_bk) [Project Page](https://jonepatr.github.io/lets_face_it/)
 
 * Simon Alexanderson, Éva Székely, Gustav Eje Henter, **Taras Kucherenko**, and Jonas Beskow.
-*Generating coherent spontaneous speech and gesture from text.* International Conference on Intelligent Virtual Agents (IVA'20). 2020
+*Generating coherent spontaneous speech and gesture from text.* International Conference on Intelligent Virtual Agents (IVA'20). 2020. [Paper](https://dl.acm.org/doi/10.1145/3383652.3423874) [Project Page](https://simonalexanderson.github.io/IVA2020)
 
 * Simon Alexanderson, Gustav  Eje  Henter, **Taras Kucherenko**,  and Jonas Beskow. *Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows*. Computer Graphics Forum. 2020. (EuroGraphics 2020 **HONOURABLE MENTION**) [Paper](../papers/alexanderson2020style.pdf) [Code](https://github.com/simonalexanderson/StyleGestures) [Video](https://youtu.be/egf3tjbWBQE)
 
