@@ -14,9 +14,11 @@ permalink: /gesticulator/
 </p>
 
 <p align="center">
- <a href="https://arxiv.org/abs/2001.09326" style="font-size: 30px; text-decoration: none">Paper   </a>  
+ <a href="https://arxiv.org/abs/2001.09326" style="font-size: 30px; text-decoration: none">[Paper]   </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
- <a href="https://github.com/Svito-zar/gesticulator" style="font-size: 30px; text-decoration: none">   Code</a>   
+ <a href="https://github.com/Svito-zar/gesticulator" style="font-size: 30px; text-decoration: none">   [Code]</a>   
+ <a style="font-size: 35px; text-decoration: none"> |   </a> 
+ <a href="https://figshare.com/authors/Taras_Kucherenko/8670999" style="font-size: 30px; text-decoration: none">   [Experimental Data]</a>   
 </p>
 
 &nbsp;
