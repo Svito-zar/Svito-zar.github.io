@@ -13,9 +13,14 @@ permalink: /gesticulator/
   <p style="font-size: 24px;" align="center"> BEST PAPER AWARD </p>
 </p>
 
+<p align="center">
+ <a href="https://arxiv.org/abs/2001.09326" style="font-size: 30px; text-decoration: none">Paper   </a>  
+ <a style="font-size: 35px; text-decoration: none"> |   </a> 
+ <a href="https://github.com/Svito-zar/gesticulator" style="font-size: 30px; text-decoration: none">   Code</a>   
+</p>
+
 &nbsp;
 
-### Main video explaining the paper:
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/VQ8he6jjW08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -33,11 +38,6 @@ During speech, people spontaneously gesticulate, which plays a key role in conve
 
 ***
 
-<p align="center">
- <a href="https://arxiv.org/abs/2001.09326" style="font-size: 30px; text-decoration: none">Paper   </a>  
- <a style="font-size: 35px; text-decoration: none"> |   </a> 
- <a href="https://github.com/Svito-zar/gesticulator" style="font-size: 30px; text-decoration: none">   Code</a>   
-</p>
 
 
 <div style="text-align:center"><img src="../assets/gest_small.png" alt="portrait" align="middle"></div>
