@@ -9,7 +9,8 @@ permalink: /speaking/
 <!-- Fonts & Icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"  integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous">
 
-<img style="float: left; border: 5px solid white" src="../assets/Speaker_v3.jpg" alt="portrait">
+<iframe width="610" height="345" src="https://www.youtube.com/embed/JeMwtr8pxcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 I have been practicing my public speaking skills through worldwide Public Speaking association Toastmasters.
 You can see speeches I gave at Loki Toastmasters [here](https://www.youtube.com/watch?v=TzVtUsQEvNY&list=PL87EdZwWToFmeR_EpXVRHfAXTHEvfiEPh).
 
