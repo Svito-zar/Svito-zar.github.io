@@ -63,8 +63,16 @@ During speech, people spontaneously gesticulate, which plays a key role in conve
 &nbsp;
 
 ### Erratum:
-- We discovered an issue with the velocity loss implementation used for our experiments. The bug was fixed in [this commit](https://github.com/Svito-zar/gesticulator/commit/11642221751593e801790907b0dd5247d88b6468). The experimental results involving velocity loss were hence not correct and should be disregarded. We are going to conduct a new experiment with the proper velocity loss implementation and will share the results on this project webpage.
-- We have identified a minor error in our paper concerning the results of PCA. The PCA we used had 12 components (as stated), but these accounted for 92% of the variation on the training set, and not 95% like the paper published at ICMI suggests. The error will be corrected in online postprints of the article.
+* We discovered an issue with the velocity loss implementation used for our experiments. The bug was fixed in [this commit](https://github.com/Svito-zar/gesticulator/commit/11642221751593e801790907b0dd5247d88b6468). The experimental results involving velocity loss were hence not correct and should be disregarded. We are going to conduct a new experiment with the proper velocity loss implementation and will share the results on this project webpage.
+* We have identified a minor error in our paper concerning the results of PCA. The PCA we used had 12 components (as stated), but these accounted for 92% of the variation on the training set, and not 95% like the paper published at ICMI suggests. The error will be corrected in online postprints of the article.
+
+&nbsp;
+
+***
+&nbsp;
+
+### Press
+[KTH News](https://intra.kth.se/en/eecs/aktuellt-pa-eecs/nyheter/grattis-till-vinsten-av-best-paper-awards-1.1027836)   [Stockholm AI](https://mailchi.mp/stockholm/ai-sweekly-14)
 
 &nbsp;
 
