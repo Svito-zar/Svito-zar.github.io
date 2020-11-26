@@ -17,6 +17,7 @@ You can see speeches I gave at Loki Toastmasters [here](https://www.youtube.com/
 Below are my talks outside of Toastmasters.
 
 ### 2020
+* <strong>Nov.</strong> - online interview at Kyiv Polytechnic Institute for the department where I did my bachelor (1 h)
 * <strong>Oct.</strong> - presenting my work on gesture generation for the [Talking Robotics](https://talking-robotics.github.io) seminar series (50 min) \[[Video link](https://youtu.be/JeMwtr8pxcc)\] \[[Talk info](https://talking-robotics.github.io/session_details/taras.html)\]
 * <strong>Aug.</strong> - online talk at KPI Summer Science Week Online 2020 (1 h) \[[Video link](https://youtu.be/r8_atMaYj-E)\] 
 * <strong>Mar.</strong> - talk at [KAU Data Science School 2020](https://sites.google.com/view/kaudatascienceschool-2020/taras-kucherenko) in Kyiv (1 h) \[[Video link](https://youtu.be/2Ak8uVKgkMM)\]
