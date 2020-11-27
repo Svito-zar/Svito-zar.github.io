@@ -36,8 +36,6 @@ During speech, people spontaneously gesticulate, which plays a key role in conve
 
 &nbsp;
 
-***
-
 
 
 <div style="text-align:center"><img src="../assets/gest_small.png" alt="portrait" align="middle"></div>
