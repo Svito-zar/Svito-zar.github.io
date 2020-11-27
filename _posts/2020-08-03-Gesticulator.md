@@ -72,7 +72,7 @@ During speech, people spontaneously gesticulate, which plays a key role in conve
 &nbsp;
 
 ### Press
-[KTH News](https://intra.kth.se/en/eecs/aktuellt-pa-eecs/nyheter/grattis-till-vinsten-av-best-paper-awards-1.1027836)   [Stockholm AI](https://mailchi.mp/stockholm/ai-sweekly-14)
+[\[KTH News\]](https://intra.kth.se/en/eecs/aktuellt-pa-eecs/nyheter/grattis-till-vinsten-av-best-paper-awards-1.1027836)   [\[Stockholm AI\]](https://mailchi.mp/stockholm/ai-sweekly-14)
 
 &nbsp;
 
