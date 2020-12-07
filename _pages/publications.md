@@ -14,7 +14,7 @@ My publications can also be found on \[[Google Scholar Citations\]](https://scho
 
 ### 2020
 
-* **Taras Kucherenko**, Patrik Jonell, Youngwoo Yoon, Pieter Wolfert, and Gustav Eje Henter. *The GENEA Challenge 2020: Benchmarking gesture-generation systems on common data.* International Workshop on Generation and Evaluation of Non-Verbal Behaviour for Embodied Agents. 2020 \[[Paper\]](https://zenodo.org/record/4094697) \[[Video\]](https://youtu.be/Y-5dgBQk34c)
+* **Taras Kucherenko**, Patrik Jonell, Youngwoo Yoon, Pieter Wolfert, and Gustav Eje Henter. *The GENEA Challenge 2020: Benchmarking gesture-generation systems on common data.* International Workshop on Generation and Evaluation of Non-Verbal Behaviour for Embodied Agents. 2020 \[[Paper\]](https://zenodo.org/record/4094697) \[[Video\]](https://youtu.be/Y-5dgBQk34c) \[[Project Page\]](https://genea-workshop.github.io/2020/#gesture-generation-challenge)
 
 * **Taras  Kucherenko**,  Dai  Hasegawa, Naoshi Kaneko, Gustav  Eje  Henter, and Hedvig Kjellström.
 *Moving fast and slow: Analysis of representations and post-processing in speech-driven automatic gesture generation.*
