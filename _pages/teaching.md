@@ -9,10 +9,20 @@ permalink: /teaching/
 <!-- Fonts & Icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"  integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous">
 
+### 2020 / 2021
+Supervising
+* Yuan He's master thesis
+* Rajmund Nagy's individual project
+
+Teaching Assistant in 
+* [Machine Learning](https://www.kth.se/student/kurser/kurs/DD2421?l=en) course.
+* [Computer Vision](https://www.kth.se/student/kurser/kurs/DD2423?l=en) course.
+* [Multimodal Interaction](https://www.kth.se/student/kurser/kurs/DT2140?l=en) course.
+
 ### 2019 / 2020
 Supervising
-* Sifan Jiang's master thesis
-* Rajmund Nagy's summer internship
+* [Sifan Jiang](https://www.linkedin.com/in/sifan-jiang-193168196/?originalSubdomain=se)'s master thesis
+* [Rajmund Nagy](https://www.linkedin.com/in/nagyrajmund/?originalSubdomain=se)'s summer internship
 
 Teaching Assistant in 
 * [Machine Learning](https://www.kth.se/student/kurser/kurs/DD2421?l=en) course.
