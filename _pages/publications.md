@@ -67,3 +67,400 @@ arXiv preprint (2018) \[[Paper\]](https://www.researchgate.net/publication/32362
 arXiv preprint (2017) \[[Paper\]](https://arxiv.org/abs/1709.01613)
 
 * **Taras  Kucherenko** and Hedvig Kjellström. *Towards Context-Preserving Human to Robot Motion Mapping.* The First Swedish Symposium on Deep Learning, Stockholm, 2017 \[[Paper\]](https://www.csc.kth.se/~hedvig/publications/ssdl_17.pdf)
+
+
+## ACM open-access links
+
+<div class="multi-search multi-search--issue-item">
+    <ul class="rlist ">
+        <li class="grid-item separated-block--dashed--bottom">
+            <div class="issue-item clearfix">
+                <div class="issue-item__citation">
+                    <div class="issue-heading">research-article</div>
+                </div>
+                <div class="issue-item__content">
+                    <h5 class="issue-item__title"><a
+                            href="https://dl.acm.org/doi/10.1145/3383652.3423911?cid=99659309831">Let's
+                            Face It: Probabilistic Multi-modal
+                            Interlocutor-aware Generation of Facial Gestures in
+                            Dyadic Settings</a></h5>
+
+                    <ul class="rlist--inline loa truncate-list"
+                        title="list of authors" data-lines="2">
+                        <li><a href="https://dl.acm.org/profile/99658697077"
+                                title="Patrik Jonell"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Patrik Jonell profile image" /><span>Patrik
+                                    Jonell</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99658697077">KTH
+                                    Royal Institute of Technology</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/99659309831"
+                                title="Taras Kucherenko"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/do/10.1145/contrib-99659309831/rel-imgonly/taras.jpg"
+                                    alt="Taras Kucherenko profile image" /><span>Taras
+                                    Kucherenko</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659309831">KTH
+                                    Royal Institute of Technology</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/81553344056"
+                                title="Gustav Eje Henter"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Gustav Eje Henter profile image" /><span>Gustav
+                                    Eje Henter</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-81553344056">KTH
+                                    Royal Institute of Technology</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/81100428426"
+                                title="Jonas Beskow"><img class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Jonas Beskow profile image" /><span>Jonas
+                                    Beskow</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-81100428426">KTH
+                                    Royal Institute of Technology</p>
+                            </span></li>
+                    </ul>
+
+                    <div class="issue-item__detail"><span>October
+                            2020</span><span class="dot-separator">pp 1-8
+                        </span><span><a
+                                href="https://doi.org/10.1145/3383652.3423911"
+                                class="issue-item__doi  dot-separator">https://doi.org/10.1145/3383652.3423911</a></span>
+                    </div>
+                    <div data-lines='4'
+                        class="issue-item__abstract truncate-text">
+                        <div class="issue-item__abstract truncate-text"
+                            data-lines="4">
+
+                            <p>To enable more natural face-to-face interactions,
+                                conversational agents need to adapt
+                                their behavior to their interlocutors. One key
+                                aspect of this is generation of appropriate
+                                non-verbal behavior for the agent, for example
+                                facial gestures, here defined ...
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="grid-item separated-block--dashed--bottom">
+            <div class="issue-item clearfix">
+                <div class="issue-item__citation">
+                    <div class="issue-heading">extended-abstract</div>
+                </div>
+                <div class="issue-item__content">
+                    <h5 class="issue-item__title"><a
+                            href="https://dl.acm.org/doi/10.1145/3383652.3423874?cid=99659309831">Generating
+                            coherent spontaneous speech and gesture from
+                            text</a></h5>
+
+                    <ul class="rlist--inline loa truncate-list"
+                        title="list of authors" data-lines="2">
+                        <li><a href="https://dl.acm.org/profile/86159065557"
+                                title="Simon Alexanderson"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Simon Alexanderson profile image" /><span>Simon
+                                    Alexanderson</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-86159065557">KTH
+                                    Royal Institute of Technology, Stockholm,
+                                    Sweden</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/81548864956"
+                                title="Éva Székely"><img class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Éva Székely profile image" /><span>Éva
+                                    Székely</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-81548864956">KTH
+                                    Royal Institute of Technology, Stockholm,
+                                    Sweden</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/81553344056"
+                                title="Gustav Eje Henter"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Gustav Eje Henter profile image" /><span>Gustav
+                                    Eje Henter</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-81553344056">KTH
+                                    Royal Institute of Technology, Stockholm,
+                                    Sweden</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/99659309831"
+                                title="Taras Kucherenko"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/do/10.1145/contrib-99659309831/rel-imgonly/taras.jpg"
+                                    alt="Taras Kucherenko profile image" /><span>Taras
+                                    Kucherenko</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659309831">KTH
+                                    Royal Institute of Technology, Stockholm,
+                                    Sweden</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/81100428426"
+                                title="Jonas Beskow"><img class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Jonas Beskow profile image" /><span>Jonas
+                                    Beskow</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-81100428426">KTH
+                                    Royal Institute of Technology, Stockholm,
+                                    Sweden</p>
+                            </span></li>
+                    </ul>
+
+                    <div class="issue-item__detail"><span>October
+                            2020</span><span class="dot-separator">pp 1-3
+                        </span><span><a
+                                href="https://doi.org/10.1145/3383652.3423874"
+                                class="issue-item__doi  dot-separator">https://doi.org/10.1145/3383652.3423874</a></span>
+                    </div>
+                    <div data-lines='4'
+                        class="issue-item__abstract truncate-text">
+                        <div class="issue-item__abstract truncate-text"
+                            data-lines="4">
+
+                            <p>Embodied human communication encompasses both
+                                verbal (speech) and non-verbal information
+                                (e.g., gesture and head movements). Recent
+                                advances in machine learning have substantially
+                                improved the technologies for generating
+                                synthetic versions of both of ...
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="grid-item separated-block--dashed--bottom">
+            <div class="issue-item clearfix">
+                <div class="issue-item__citation">
+                    <div class="issue-heading">research-article</div>
+                </div>
+                <div class="issue-item__content">
+                    <h5 class="issue-item__title"><a
+                            href="https://dl.acm.org/doi/10.1145/3383652.3423860?cid=99659309831">Can
+                            we trust online crowdworkers?: Comparing online and
+                            offline participants in a preference test of virtual
+                            agents</a></h5>
+
+                    <ul class="rlist--inline loa truncate-list"
+                        title="list of authors" data-lines="2">
+                        <li><a href="https://dl.acm.org/profile/99658697077"
+                                title="Patrik Jonell"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Patrik Jonell profile image" /><span>Patrik
+                                    Jonell</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99658697077">KTH
+                                    Royal Institute of Technology</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/99659309831"
+                                title="Taras Kucherenko"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/do/10.1145/contrib-99659309831/rel-imgonly/taras.jpg"
+                                    alt="Taras Kucherenko profile image" /><span>Taras
+                                    Kucherenko</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659309831">KTH
+                                    Royal Institute of Technology</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/99659460087"
+                                title="Ilaria Torre"><img class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Ilaria Torre profile image" /><span>Ilaria
+                                    Torre</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659460087">KTH
+                                    Royal Institute of Technology</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/81100428426"
+                                title="Jonas Beskow"><img class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Jonas Beskow profile image" /><span>Jonas
+                                    Beskow</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-81100428426">KTH
+                                    Royal Institute of Technology</p>
+                            </span></li>
+                    </ul>
+
+                    <div class="issue-item__detail"><span>October
+                            2020</span><span class="dot-separator">pp 1-8
+                        </span><span><a
+                                href="https://doi.org/10.1145/3383652.3423860"
+                                class="issue-item__doi  dot-separator">https://doi.org/10.1145/3383652.3423860</a></span>
+                    </div>
+                    <div data-lines='4'
+                        class="issue-item__abstract truncate-text">
+                        <div class="issue-item__abstract truncate-text"
+                            data-lines="4">
+
+                            <p>Conducting user studies is a crucial component in
+                                many scientific fields. While some
+                                studies require participants to be physically
+                                present, other studies can be conducted
+                                both physically (e.g. in-lab) and online (e.g.
+                                via crowdsourcing). Inviting ...
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="grid-item separated-block--dashed--bottom">
+            <div class="issue-item clearfix">
+                <div class="issue-item__citation">
+                    <div class="issue-heading">research-article</div>
+                </div>
+                <div class="issue-item__content">
+                    <h5 class="issue-item__title"><a
+                            href="https://dl.acm.org/doi/10.1145/3308532.3329472?cid=99659309831">Analyzing
+                            Input and Output Representations for Speech-Driven
+                            Gesture Generation</a></h5>
+
+                    <ul class="rlist--inline loa truncate-list"
+                        title="list of authors" data-lines="2">
+                        <li><a href="https://dl.acm.org/profile/99659309831"
+                                title="Taras Kucherenko"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/do/10.1145/contrib-99659309831/rel-imgonly/taras.jpg"
+                                    alt="Taras Kucherenko profile image" /><span>Taras
+                                    Kucherenko</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659309831">KTH
+                                    Royal Institute of Technology in Stockholm,
+                                    Stockholm, Sweden</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/81460641491"
+                                title="Dai Hasegawa"><img class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Dai Hasegawa profile image" /><span>Dai
+                                    Hasegawa</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-81460641491">Hokkai
+                                    Gakuen University, Sapporo, Japan</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/81553344056"
+                                title="Gustav Eje Henter"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Gustav Eje Henter profile image" /><span>Gustav
+                                    Eje Henter</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-81553344056">KTH
+                                    Royal Institute of Technology in Stockholm,
+                                    Stockholm, Sweden</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/99659212318"
+                                title="Naoshi Kaneko"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Naoshi Kaneko profile image" /><span>Naoshi
+                                    Kaneko</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659212318">Aoyama
+                                    Gakuin University, Tokyo, Japan</p>
+                            </span><span>, </span></li>
+                        <li><a href="https://dl.acm.org/profile/81100031743"
+                                title="Hedvig Kjellström"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/pb-assets/icons/DOs/default-profile-1543932446943.svg"
+                                    alt="Hedvig Kjellström profile image" /><span>Hedvig
+                                    Kjellström</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-81100031743">KTH
+                                    Royal Institute of Technology in Stockholm,
+                                    Stockholm, Sweden</p>
+                            </span></li>
+                    </ul>
+
+                    <div class="issue-item__detail"><span>July 2019</span><span
+                            class="dot-separator">pp 97-104 </span><span><a
+                                href="https://doi.org/10.1145/3308532.3329472"
+                                class="issue-item__doi  dot-separator">https://doi.org/10.1145/3308532.3329472</a></span>
+                    </div>
+                    <div data-lines='4'
+                        class="issue-item__abstract truncate-text">
+                        <div class="issue-item__abstract truncate-text"
+                            data-lines="4">
+
+                            <p>This paper presents a novel framework for
+                                automatic speech-driven gesture generation,
+                                applicable to human-agent interaction including
+                                both virtual agents and robots. Specifically,
+                                we extend recent deep-learning-based,
+                                data-driven methods for speech-...
+                            </p>
+                            <p></p>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="grid-item separated-block--dashed--bottom">
+            <div class="issue-item clearfix">
+                <div class="issue-item__citation">
+                    <div class="issue-heading">research-article</div>
+                </div>
+                <div class="issue-item__content">
+                    <h5 class="issue-item__title"><a
+                            href="https://dl.acm.org/doi/10.1145/3242969.3264970?cid=99659309831">Data
+                            Driven Non-Verbal Behavior Generation for Humanoid
+                            Robots</a></h5>
+
+                    <ul class="rlist--inline loa truncate-list"
+                        title="list of authors" data-lines="2">
+                        <li><a href="https://dl.acm.org/profile/99659309831"
+                                title="Taras Kucherenko"><img
+                                    class="author-picture"
+                                    src="https://dl.acm.org/do/10.1145/contrib-99659309831/rel-imgonly/taras.jpg"
+                                    alt="Taras Kucherenko profile image" /><span>Taras
+                                    Kucherenko</span></a><span
+                                class="loa_author_inst hidden">
+                                <p data-doi="10.1145/contrib-99659309831">KTH
+                                    Royal Institute of Technology in Stockholm,
+                                    Stockholm, Sweden</p>
+                            </span></li>
+                    </ul>
+
+                    <div class="issue-item__detail"><span>October
+                            2018</span><span class="dot-separator">pp 520-523
+                        </span><span><a
+                                href="https://doi.org/10.1145/3242969.3264970"
+                                class="issue-item__doi  dot-separator">https://doi.org/10.1145/3242969.3264970</a></span>
+                    </div>
+                    <div data-lines='4'
+                        class="issue-item__abstract truncate-text">
+                        <div class="issue-item__abstract truncate-text"
+                            data-lines="4">
+
+                            <p>Social robots need non-verbal behavior to make an
+                                interaction pleasant and efficient.
+                                Most of the models for generating non-verbal
+                                behavior are rule-based and hence can
+                                produce a limited set of motions and are tuned
+                                to a particular scenario. In contrast,...
+                            </p>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+<link rel="stylesheet"
+    href="https://dl.acm.org/specs/products/acm/widgets/authorizer/scss/style.css" />
