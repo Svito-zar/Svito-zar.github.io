@@ -66,8 +66,7 @@ During speech, people spontaneously gesticulate, which plays a key role in conve
 &nbsp;
 
 ### Press
-[![Explanation video](https://Svito-zar.github.io/assets/gesticulator.png)](https://youtu.be/VQ8he6jjW08)
-[![KTH News](../assets/KTH_Logo.jpg)](https://intra.kth.se/en/eecs/aktuellt-pa-eecs/nyheter/grattis-till-vinsten-av-best-paper-awards-1.1027836)   [\[Stockholm AI\]](https://mailchi.mp/stockholm/ai-sweekly-14)
+[![KTH News](https://Svito-zar.github.io/assets/KTH.jpg)](https://intra.kth.se/en/eecs/aktuellt-pa-eecs/nyheter/grattis-till-vinsten-av-best-paper-awards-1.1027836)   [\[Stockholm AI\]](https://mailchi.mp/stockholm/ai-sweekly-14)
 
 &nbsp;
 
