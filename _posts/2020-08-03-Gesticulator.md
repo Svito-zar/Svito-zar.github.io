@@ -45,11 +45,13 @@ During speech, people spontaneously gesticulate, which plays a key role in conve
 ### Additional resources:
 1. Video samples from the ablation study [DOI: 10.6084/m9.figshare.13055609](https://doi.org/10.6084/m9.figshare.13055609)
 2. 3D coordinates from the ablation study [DOI: 10.6084/m9.figshare.13055597](https://doi.org/10.6084/m9.figshare.13055597)
-3. Ablation user study results [DOI: 10.6084/m9.figshare.13055585](https://doi.org/10.6084/m9.figshare.13055585)
+3. BVH files from the ablation study [DOI: 10.6084/m9.figshare.13603202](https://doi.org/10.6084/m9.figshare.13603202)
+4. Ablation user study results [DOI: 10.6084/m9.figshare.13055585](https://doi.org/10.6084/m9.figshare.13055585)
 
-4. Video samples from the baselining study [DOI: 10.6084/m9.figshare.13061294](https://doi.org/10.6084/m9.figshare.13061294)
-5. 3D coordinates from the baselining study [DOI: 10.6084/m9.figshare.13061270](https://doi.org/10.6084/m9.figshare.13061270)
-6. Baselining user study results [DOI: 10.6084/m9.figshare.13061249](https://doi.org/10.6084/m9.figshare.13061249)
+5. Video samples from the baselining study [DOI: 10.6084/m9.figshare.13061294](https://doi.org/10.6084/m9.figshare.13061294)
+6. 3D coordinates from the baselining study [DOI: 10.6084/m9.figshare.13061270](https://doi.org/10.6084/m9.figshare.13061270)
+7. BVH files from the baselining study [DOI: 10.6084/m9.figshare.13603169](https://doi.org/10.6084/m9.figshare.13603169)
+8. Baselining user study results [DOI: 10.6084/m9.figshare.13061249](https://doi.org/10.6084/m9.figshare.13061249)
 
 &nbsp;
 
