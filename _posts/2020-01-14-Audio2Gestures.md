@@ -13,7 +13,7 @@ permalink: /audio2gestures/
 <p align="center">
  <a href="http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2072.pdf" style="font-size: 35px; text-decoration: none">[AAMAS'19]  </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
- <a href="https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation" style="font-size: 35px; text-decoration: none">[IVA'19]   </a>  
+ <a href="https://dl.acm.org/doi/10.1145/3308532.3329472?cid=99659309831" style="font-size: 35px; text-decoration: none">[IVA'19]   </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
  <a href="https://www.researchgate.net/publication/343096046_Moving_fast_and_slow_Analysis_of_representations_and_post-processing_in_speech-driven_automatic_gesture_generation" style="font-size: 35px; text-decoration: none">   [IJHCI'21]</a>   
 </p>
