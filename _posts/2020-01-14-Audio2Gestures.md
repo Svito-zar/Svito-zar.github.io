@@ -27,12 +27,13 @@ permalink: /audio2gestures/
 &nbsp;
 
 ### ABSTRACT
-This paper presents a novel framework for automatic speech-driven gesture generation, applicable to human-agent interaction including both virtual agents and robots. Specifically, we extend recent deep-learning-based, data-driven methods for speech-driven gesture generation by incorporating representation learning. Our model takes speech as input and produces gestures as output, in the form of a sequence of 3D coordinates. 
+This paper presents a novel framework for speech-driven gesture production, applicable to virtual agents to enhance human-computer interaction. Specifically, we extend recent deep-learning-based, data-driven methods for speech-driven gesture generation by
+incorporating representation learning. Our model takes speech as input and produces gestures as output, in the form of a sequence of 3D coordinates. 
 
-Our approach consists of two steps. First, we learn a lower-dimensional representation of human motion using a denoising autoencoder
-neural network, consisting of a motion encoder *MotionE* and a motion decoder *MotionD*. The learned representation preserves the most important aspects of the human pose variation while removing less relevant variation. Second, we train a novel encoder network *SpeechE* to map from speech to a corresponding motion representation with reduced dimensionality. At test time, the speech encoder and the motion decoder networks are combined: *SpeechE* predicts motion representations based on a given speech signal and *MotionD* then decodes these representations to produce motion sequences.
+We provide an analysis of different representations for the input (speech) and the output (motion) of the network by both objective and subjective evaluations. We also analyse the importance of smoothing of the produced motion. 
 
-We evaluate different representation sizes in order to find the most effective dimensionality for the representation. We also evaluate the effects of using different speech features as input to the model. We find that mel-frequency cepstral coefficients (MFCCs), alone or combined with prosodic features, perform the best. The results of a subsequent user study confirm the benefits of the representation learning.
+Our results indicated that the proposed method improved on our baseline in terms of objective measures. For example, it better captured the motion dynamics and better matched the motion-speed distribution. Moreover, we performed user studies on two different datasets. The studies confirmed that our proposed method is perceived as more natural than the baseline, although the difference in the studies was eliminated by appropriate post-processing: hip-centering and smoothing. We conclude that it is important to take both motion representation and post-processing into account when designing an automatic gesture-production method.
+
 
 &nbsp;
 
