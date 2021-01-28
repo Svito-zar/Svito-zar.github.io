@@ -7,16 +7,15 @@ permalink: /audio2gestures/
 
 <p align="center">
   <b style="font-size: 45px;"> Aud2Repr2Pose: Analyzing input and output representations for speech-driven gesture generation </b>
-  <p style="font-size: 32px;"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="https://hasegawadai.info/">Dai Hasegawa</a>,  <a href="https://people.kth.se/~ghe/">Gustav Eje Henter</a>, Naoshi Kaneko, <a href="http://www.csc.kth.se/~hedvig/">Hedvig Kjellström</a> </p>
-  <p style="font-size: 24px;" align="center"> International Conference on Intelligent Virtual Agents (IVA '19) </p>
+  <p style="font-size: 32px;"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="https://hasegawadai.info/">Dai Hasegawa</a>,  <a href="https://people.kth.se/~ghe/">Gustav Eje Henter</a>, <a href="https://scholar.google.com/citations?user=pt6aqHQAAAAJ&hl=ja">Naoshi Kaneko</a>, <a href="http://www.csc.kth.se/~hedvig/">Hedvig Kjellström</a> </p>
 </p>
 
 <p align="center">
  <a href="http://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2072.pdf" style="font-size: 35px; text-decoration: none">[AAMAS'19]  </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
- <a href="https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation" style="font-size: 35px; text-decoration: none">Paper   </a>  
+ <a href="https://www.researchgate.net/publication/331645229_Analyzing_Input_and_Output_Representations_for_Speech-Driven_Gesture_Generation" style="font-size: 35px; text-decoration: none">[IVA'19]   </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
- <a href="https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder" style="font-size: 35px; text-decoration: none">   Code</a>   
+ <a href="https://www.researchgate.net/publication/343096046_Moving_fast_and_slow_Analysis_of_representations_and_post-processing_in_speech-driven_automatic_gesture_generation" style="font-size: 35px; text-decoration: none">   [IJHCI'21]</a>   
 </p>
 
 <p align="center">
