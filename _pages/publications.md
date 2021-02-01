@@ -18,6 +18,8 @@ My publications can also be found on \[[Google Scholar\]](https://scholar.google
 
 * **Taras Kucherenko**\*, Patrik Jonell\*, Youngwoo Yoon\*, Pieter Wolfert, and Gustav Eje Henter. *A large, crowdsourced evaluation of gesture generation systems on common data* (to appear in) 26th Annual Conference on Intelligent User Interfaces. 2021 \[[Video\]](https://youtu.be/Y-5dgBQk34c) \[[Project Page\]](https://genea-workshop.github.io/2020/#gesture-generation-challenge)
 
+* Patrik Jonell, Youngwoo Yoon, Pieter Wolfert, **Taras Kucherenko**, Gustav Eje Henter. *HEMVIP: Human Evaluation of Multiple Videos in Parallel*. axiv 2021 \[[Paper\]](https://arxiv.org/abs/2101.11898)
+
 ### 2020
 * **Taras Kucherenko**\*, Patrik Jonell\*, Youngwoo Yoon\*, Pieter Wolfert, and Gustav Eje Henter. *The GENEA Challenge 2020: Benchmarking gesture-generation systems on common data.* International Workshop on Generation and Evaluation of Non-Verbal Behaviour for Embodied Agents. 2020 \[[Paper\]](https://zenodo.org/record/4094697) \[[Video\]](https://youtu.be/Y-5dgBQk34c) \[[Project Page\]](https://genea-workshop.github.io/2020/#gesture-generation-challenge)
 
