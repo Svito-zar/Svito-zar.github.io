@@ -21,7 +21,7 @@ Teaching Assistant in
 
 ### 2019 / 2020
 Supervising
-* [Sifan Jiang](https://www.linkedin.com/in/sifan-jiang-193168196/?originalSubdomain=se)'s master thesis
+* Sifan Jiang's master thesis. Thesis manuscript is available under [this link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1524432&dswid=455)
 * [Rajmund Nagy](https://www.linkedin.com/in/nagyrajmund/?originalSubdomain=se)'s summer internship
 
 Teaching Assistant in 
