@@ -68,7 +68,7 @@ During speech, people spontaneously gesticulate, which plays a key role in conve
 &nbsp;
 
 ### Press
-[![KTH News](https://Svito-zar.github.io/assets/KTH.jpg)](https://intra.kth.se/en/eecs/aktuellt-pa-eecs/nyheter/grattis-till-vinsten-av-best-paper-awards-1.1027836)   [![Stockholm AI](https://Svito-zar.github.io/assets/StockholmAI.jpg)](https://mailchi.mp/stockholm/ai-sweekly-14)  [![WASP AI](https://Svito-zar.github.io/assets/WASP_logo.jpeg)](https://wasp-sweden.org/awarded-research-output-in-2020/)
+[![Synced]()https://Svito-zar.github.io/assets/synced.jpg)](https://syncedreview.com/2021/02/10/icmi-2020-best-paper-gesticulator-a-framework-for-semantically-aware-speech-driven-gesture-generation/) [![Stockholm AI](https://Svito-zar.github.io/assets/StockholmAI.jpg)](https://mailchi.mp/stockholm/ai-sweekly-14)  [![WASP AI](https://Svito-zar.github.io/assets/WASP_logo.jpeg)](https://wasp-sweden.org/awarded-research-output-in-2020/) [![KTH News](https://Svito-zar.github.io/assets/KTH.jpg)](https://intra.kth.se/en/eecs/aktuellt-pa-eecs/nyheter/grattis-till-vinsten-av-best-paper-awards-1.1027836) 
 
 &nbsp;
 
