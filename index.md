@@ -26,7 +26,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 <br>
 ### **News**
 * <strong>Feb 2022:</strong> [Synced](https://syncedreview.com/) wrote an article about [Gesticulator](https://svito-zar.github.io/gesticulator/), which you can access under [this link](https://syncedreview.com/2021/02/10/icmi-2020-best-paper-gesticulator-a-framework-for-semantically-aware-speech-driven-gesture-generation/)
-* <strong>Jan 2021:</strong> Our paper [Moving fast and slow: Analysis of representations and post-processing in speech-driven automatic gesture generation](https://arxiv.org/abs/2007.09170) got accepted to the International Journal of Human-Computer Interaction.
+* <strong>Jan 2021:</strong> Our paper [Moving fast and slow: Analysis of representations and post-processing in speech-driven automatic gesture generation](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1883883) got accepted to the International Journal of Human-Computer Interaction.
 * <strong>Dec 2020:</strong> Our paper "A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020" was accepted to IUI 2021 conference.
 * <strong>Oct 2020:</strong> [Gesticulator](https://svito-zar.github.io/gesticulator/) have got the ICMI 2020 Best Paper Award!
 * <strong>Oct 2020:</strong> [Let's face it](https://jonepatr.github.io/lets_face_it/) received the IVA 2020 Best Paper Award!

@@ -15,7 +15,7 @@ permalink: /audio2gestures/
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
  <a href="https://dl.acm.org/doi/10.1145/3308532.3329472?cid=99659309831" style="font-size: 35px; text-decoration: none">[IVA'19]   </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
- <a href="https://www.researchgate.net/publication/343096046_Moving_fast_and_slow_Analysis_of_representations_and_post-processing_in_speech-driven_automatic_gesture_generation" style="font-size: 35px; text-decoration: none">   [IJHCI'21]</a>   
+ <a href="https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1883883" style="font-size: 35px; text-decoration: none">   [IJHCI'21]</a>   
 </p>
 
 <p align="center">
