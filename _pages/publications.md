@@ -12,6 +12,8 @@ My publications can also be found on \[[Google Scholar\]](https://scholar.google
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"  integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous">
 
 ### 2021
+* Rajmund Nagy\*, **Taras Kucherenko**\*, Birger Moell, André Pereira, Hedvig Kjellström, and Ulysses Bernardet. *A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents* (to appear in) 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS). \[[Paper\]](https://arxiv.org/abs/2102.12302) \[[Code\]](https://github.com/nagyrajmund/gesticulating_agent_unity) \[[Video\]](https://www.youtube.com/watch?v=jhgUBS0125A) \[[Project Page\]](https://nagyrajmund.github.io/project/gesturebot/)
+
 * **Taras  Kucherenko**,  Dai  Hasegawa, Naoshi Kaneko, Gustav  Eje  Henter, and Hedvig Kjellström.
 *Moving fast and slow: Analysis of representations and post-processing in speech-driven automatic gesture generation.* the International Journal of Human-Computer Interaction. 2021
 \[[Paper\]](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1883883) \[[Code\]](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) \[[Project Page\]](../_posts/2020-01-14-Audio2Gestures.md)
