@@ -21,8 +21,8 @@ Teaching Assistant in
 
 ### 2019 / 2020
 Supervising
-* Sifan Jiang's master thesis. Thesis manuscript is available under [this link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1524432&dswid=455)
-* [Rajmund Nagy](https://www.linkedin.com/in/nagyrajmund/?originalSubdomain=se)'s summer internship
+* Sifan Jiang's master thesis, resulting in the thesis [Re-target Human Gesticulation to a Humanoid Robot NAO](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1524432&dswid=455)
+* [Rajmund Nagy](https://www.linkedin.com/in/nagyrajmund/?originalSubdomain=se)'s summer internship, resulting in the paper [A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents](https://arxiv.org/abs/2102.12302)
 
 Teaching Assistant in 
 * [Machine Learning](https://www.kth.se/student/kurser/kurs/DD2421?l=en) course.
