@@ -25,6 +25,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 
 <br>
 ### **News**
+* <strong>Mar 2021:</strong> Our GENEA (Generation and Evaluation of Non-verbal Behavior for Embodied Agents) Workshop 2021 has been accepted as an official workshop at ICMI 2021. [Call for papers](https://genea-workshop.github.io/2021/#call-for-papers) is out!
 * <strong>Feb 2021:</strong> Our paper [A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents](https://arxiv.org/abs/2102.12302) was accepted to the 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2021).
 * <strong>Feb 2021:</strong> [Synced](https://syncedreview.com/) wrote an article about [Gesticulator](https://svito-zar.github.io/gesticulator/), which you can access under [this link](https://syncedreview.com/2021/02/10/icmi-2020-best-paper-gesticulator-a-framework-for-semantically-aware-speech-driven-gesture-generation/)
 * <strong>Jan 2021:</strong> Our paper [Moving fast and slow: Analysis of representations and post-processing in speech-driven automatic gesture generation](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1883883) got accepted to the International Journal of Human-Computer Interaction.
@@ -58,6 +59,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 ### **Academic Service**
 
 * <strong> Co-organizing </strong>
+    - ICMI'21 [Workshop](https://genea-workshop.github.io/2021/) on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents
     - IVA'20 [Workshop](https://genea-workshop.github.io/2020/) on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents
     - [GESPIN 2020 Conference](http://sprakbanken.speech.kth.se/events/gespin/)
     - [SoRoS](https://soros-community.github.io/)  2020 Workshop
