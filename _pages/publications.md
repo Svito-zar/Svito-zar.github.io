@@ -18,7 +18,7 @@ My publications can also be found on \[[Google Scholar\]](https://scholar.google
 *Moving fast and slow: Analysis of representations and post-processing in speech-driven automatic gesture generation.* International Journal of Human-Computer Interaction. 2021
 \[[Paper\]](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1883883) \[[Code\]](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) \[[Project Page\]](../_posts/2020-01-14-Audio2Gestures.md)
 
-* **Taras Kucherenko**\*, Patrik Jonell\*, Youngwoo Yoon\*, Pieter Wolfert, and Gustav Eje Henter. *A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020* (to appear in) 26th International Conference on Intelligent User Interfaces. 2021 \[[Paper\]](https://arxiv.org/abs/2102.11617) \[[Video\]](https://youtu.be/Y-5dgBQk34c) \[[Project Page\]](https://genea-workshop.github.io/2020/#gesture-generation-challenge)
+* **Taras Kucherenko**\*, Patrik Jonell\*, Youngwoo Yoon\*, Pieter Wolfert, and Gustav Eje Henter. *A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020* International Conference on Intelligent User Interfaces. 2021 \[[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3397481.3450692) \[[Video\]](https://youtu.be/ja7IXGFrYGA) \[[Project Page\]](https://genea-workshop.github.io/2020/#gesture-generation-challenge)
 
 * Patrik Jonell, Youngwoo Yoon, Pieter Wolfert, **Taras Kucherenko**, Gustav Eje Henter. *HEMVIP: Human Evaluation of Multiple Videos in Parallel*. axiv 2021 \[[Paper\]](https://arxiv.org/abs/2101.11898)
 
