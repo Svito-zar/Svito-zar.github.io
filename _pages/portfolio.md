@@ -9,6 +9,17 @@ permalink: /portfolio/
 <!-- Fonts & Icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"  integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous">
 
+### 2021
+
+Taras Kucherenko\*, Patrik Jonell\*, Youngwoo Yoon\*, Pieter Wolfert, and Gustav Eje Henter. *A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020.* International Conference on Intelligent User Interfaces. 2021
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ja7IXGFrYGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+&nbsp;
+
+***
+&nbsp;
 
 ### 2020
 
@@ -37,6 +48,11 @@ Simon Alexanderson, Gustav Eje Henter, Taras Kucherenko, and Jonas Beskow. *Styl
 **Best Paper Award Nominee**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/egf3tjbWBQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+&nbsp;
+
+***
+&nbsp;
 
 ### 2019
 
