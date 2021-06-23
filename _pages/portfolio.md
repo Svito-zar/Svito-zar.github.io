@@ -11,6 +11,15 @@ permalink: /portfolio/
 
 ### 2021
 
+Rajmund Nagy\*, Taras Kucherenko\*, Birger Moell, André Pereira, Hedvig Kjellström, and Ulysses Bernardet. *A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents.* 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS). 2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jhgUBS0125A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+&nbsp;
+
+***
+&nbsp;
+
 Taras Kucherenko\*, Patrik Jonell\*, Youngwoo Yoon\*, Pieter Wolfert, and Gustav Eje Henter. *A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020.* International Conference on Intelligent User Interfaces. 2021
 
 
