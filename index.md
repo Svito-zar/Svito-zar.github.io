@@ -25,7 +25,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 
 <br>
 ### **News**
-* <strong>June 2021:</strong> Our paper "Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech" was accepter to [IVA 2021](https://sites.google.com/view/iva2021/).
+* <strong>June 2021:</strong> Our paper [Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech](https://arxiv.org/abs/2106.14736) was accepted to [IVA 2021](https://sites.google.com/view/iva2021/).
 * <strong>Mar 2021:</strong> Our GENEA (Generation and Evaluation of Non-verbal Behavior for Embodied Agents) Workshop 2021 has been accepted as an official workshop at ICMI 2021. [Call for papers](https://genea-workshop.github.io/2021/#call-for-papers) is out!
 * <strong>Feb 2021:</strong> Our demonstrator [A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents](http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1779.pdf) was accepted to the 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2021).
 * <strong>Feb 2021:</strong> [Synced](https://syncedreview.com/) wrote an article about [Gesticulator](https://svito-zar.github.io/gesticulator/), which you can access under [this link](https://syncedreview.com/2021/02/10/icmi-2020-best-paper-gesticulator-a-framework-for-semantically-aware-speech-driven-gesture-generation/)
