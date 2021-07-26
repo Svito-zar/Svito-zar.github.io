@@ -6,10 +6,9 @@ permalink: /GENEAchallenge2021/
 
 
 <p align="center">
-  <b style="font-size: 45px;"> A large, crowdsourced evaluation of gesture generation systems on common data:</b> <br/>
-  <b style="font-size: 45px;">The GENEA Challenge 2020 </b>
-  <p style="font-size: 32px;"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="http://www.patrikjonell.se">Patrik Jonell</a>,  <a href="https://sites.google.com/view/youngwoo-yoon/">Youngwoo Yoon</a>, </p> <br/>
-  <p style="font-size: 32px;"> <a href="https://www.pieterwolfert.com/"> Pieter Wolfert </a>,  <a href="https://people.kth.se/~ghe/"> Gustav Eje Henter</a> </p>
+  <b style="font-size: 48px;"> A large, crowdsourced evaluation of gesture generation systems on common data:</b> <br/>
+  <b style="font-size: 48px;">The GENEA Challenge 2020 </b>
+  <p style="font-size: 32px;"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="http://www.patrikjonell.se">Patrik Jonell</a>,  <a href="https://sites.google.com/view/youngwoo-yoon/">Youngwoo Yoon</a>, <a href="https://www.pieterwolfert.com/"> Pieter Wolfert </a>,  <a href="https://people.kth.se/~ghe/"> Gustav Eje Henter</a> </p>
 </p>
 
 <p align="center">
