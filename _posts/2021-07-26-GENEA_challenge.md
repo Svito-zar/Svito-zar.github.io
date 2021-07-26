@@ -11,12 +11,12 @@ permalink: /GENEAchallenge2021/
 </p>
 
 <p align="center">
- <a href="https://zenodo.org/record/4094697#.YP69xTqxU5k" style="font-size: 35px; text-decoration: none">[GENEA Workshop'20]  </a>  
+ <a href="https://zenodo.org/record/4094697#.YP69xTqxU5k" style="font-size: 28px; text-decoration: none">[GENEA Workshop'20]  </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
- <a href="https://dl.acm.org/doi/pdf/10.1145/3397481.3450692" style="font-size: 35px; text-decoration: none">[IUI'21]   </a>   
+ <a href="https://dl.acm.org/doi/pdf/10.1145/3397481.3450692" style="font-size: 28px; text-decoration: none">[IUI'21]   </a>   
 </p>
 
-<div style="text-align:center"><img src="../assets/2021_GENEA.jpg" alt="portrait" align="middle"></div>
+<div style="text-align:center"><img src="../assets/2021_GENEA.jpg" alt="GENEA figure" align="middle"></div>
 
 &nbsp;
 
