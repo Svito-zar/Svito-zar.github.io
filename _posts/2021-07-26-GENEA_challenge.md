@@ -6,8 +6,7 @@ permalink: /GENEAchallenge2021/
 
 
 <p align="center">
-  <b style="font-size: 48px;"> A large, crowdsourced evaluation of gesture generation systems on common data:</b> <br/>
-  <b style="font-size: 48px;">The GENEA Challenge 2020 </b>
+  <b style="font-size: 48px;"> A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020 </b>
   <p style="font-size: 32px;"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="http://www.patrikjonell.se">Patrik Jonell</a>,  <a href="https://sites.google.com/view/youngwoo-yoon/">Youngwoo Yoon</a>, <a href="https://www.pieterwolfert.com/"> Pieter Wolfert </a>,  <a href="https://people.kth.se/~ghe/"> Gustav Eje Henter</a> </p>
 </p>
 
@@ -30,7 +29,7 @@ Co-speech gestures, gestures that accompany speech, play an important role in hu
 ***
 &nbsp;
 
-Main video explaining the paper:
+### Main video explaining the paper:
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/QmaoKRzoVwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -39,6 +38,16 @@ Main video explaining the paper:
 ***
 &nbsp;
 
+### Additional resources:
+
+[![Synced](https://Svito-zar.github.io/assets/synced.jpg)](https://syncedreview.com/2021/02/10/icmi-2020-best-paper-gesticulator-a-framework-for-semantically-aware-speech-driven-gesture-generation/) 
+* - We discovered an issue with the velocity loss implementation used for our experiments. The bug was fixed in [this commit](https://github.com/Svito-zar/gesticulator/commit/11642221751593e801790907b0dd5247d88b6468). The experimental results involving velocity loss were hence not correct and should be disregarded. We are going to conduct a new experiment with the proper velocity loss implementation and will share the results on this project webpage.
+* - We have identified a minor error in our paper concerning the results of PCA. The PCA we used had 12 components (as stated), but these accounted for 92% of the variation on the training set, and not 95% like the paper published at ICMI suggests. The error was corrected in online postprints of the article.
+
+&nbsp;
+
+***
+&nbsp;
 
 Citation format:
 ```
