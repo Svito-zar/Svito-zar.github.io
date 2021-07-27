@@ -42,9 +42,9 @@ Co-speech gestures, gestures that accompany speech, play an important role in hu
 
 <div style="text-align:left">
 <img align="left" src="../assets/Avatar.jpg">
-<b> User-study video stimuli [DOI: 10.5281/zenodo.4080919](https://zenodo.org/record/4080919) </b>
-<b> 3D coordinates of submitted motion [DOI: 10.5281/zenodo.4088319](https://zenodo.org/record/4088319) </b>
-<b> Submitted BVH files [DOI: 10.5281/zenodo.4785119](https://zenodo.org/record/4785119) </b>
+<p style="font-size: 22px;"> User-study video stimuli  <a href="https://zenodo.org/record/4080919"> DOI: 10.5281/zenodo.4080919 </a> </p> <br>
+<p style="font-size: 22px;"> 3D coordinates of submitted motion <a href="https://zenodo.org/record/4088319"> DOI: 10.5281/zenodo.4088319 </a> </p> <br>
+<p style="font-size: 22px;"> Submitted BVH files <a href="https://zenodo.org/record/4785119"> DOI: 10.5281/zenodo.4785119 </a> </p> <br>
 <br>
 <br>
 </div>
