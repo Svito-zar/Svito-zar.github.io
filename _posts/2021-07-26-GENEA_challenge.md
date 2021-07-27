@@ -38,7 +38,7 @@ Co-speech gestures, gestures that accompany speech, play an important role in hu
 ***
 &nbsp;
 
-### Additional resources:
+### Open-source materials:
 
 <div style="text-align:left">
 <img style="float: left; border: 6px solid white;" src="../assets/Avatar.jpg" >
