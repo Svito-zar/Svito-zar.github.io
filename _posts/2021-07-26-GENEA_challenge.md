@@ -40,10 +40,14 @@ Co-speech gestures, gestures that accompany speech, play an important role in hu
 
 ### Additional resources:
 
+<div style="text-align:left">
 <img align="left" src="../assets/Avatar.jpg">
-1. User-study video stimuli [DOI: 10.5281/zenodo.4080919](https://zenodo.org/record/4080919)
-2. 3D coordinates of submitted motion [DOI: 10.5281/zenodo.4088319](https://zenodo.org/record/4088319)
-3. Submitted BVH files [DOI: 10.5281/zenodo.4785119](https://zenodo.org/record/4785119)
+<b> User-study video stimuli [DOI: 10.5281/zenodo.4080919](https://zenodo.org/record/4080919) </b>
+<b> 3D coordinates of submitted motion [DOI: 10.5281/zenodo.4088319](https://zenodo.org/record/4088319) </b>
+<b> Submitted BVH files [DOI: 10.5281/zenodo.4785119](https://zenodo.org/record/4785119) </b>
+<br>
+<br>
+</div>
 
 &nbsp;
 
