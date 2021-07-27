@@ -50,7 +50,7 @@ Co-speech gestures, gestures that accompany speech, play an important role in hu
 ***
 &nbsp;
 
-Citation format:
+### Citation format:
 ```
 @inproceedings{genea2020iui,
 author = {Kucherenko, Taras and Jonell, Patrik and Yoon, Youngwoo and Wolfert, Pieter and Henter, Gustav Eje},
