@@ -13,6 +13,8 @@ My publications can also be found on \[[Google Scholar\]](https://scholar.google
 
 ### 2021
 
+* Patrik Jonell, Youngwoo Yoon, Pieter Wolfert, **Taras Kucherenko**, Gustav Eje Henter. *HEMVIP: Human Evaluation of Multiple Videos in Parallel*. (to appear in)  International Conference on Multimodal Interaction (ICMI '21). 2021 \[[Paper\]](https://arxiv.org/abs/2101.11898)
+
 * **Taras Kucherenko**, Rajmund Nagy, Patrik Jonell, Michael Neff, Hedvig Kjellström, and Gustav Eje Henter. *Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech.* (to appear in) International Conference on Intelligent Virtual Agents (IVA’21). 2021 \[[Paper\]](https://arxiv.org/abs/2106.14736)
 
 
@@ -24,13 +26,11 @@ My publications can also be found on \[[Google Scholar\]](https://scholar.google
 
 * **Taras Kucherenko**\*, Patrik Jonell\*, Youngwoo Yoon\*, Pieter Wolfert, and Gustav Eje Henter. *A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020*. International Conference on Intelligent User Interfaces. 2021 \[[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3397481.3450692) \[[Video\]](https://youtu.be/ja7IXGFrYGA) \[[Project Page\]](https://genea-workshop.github.io/2020/#gesture-generation-challenge)
 
-* Patrik Jonell, Youngwoo Yoon, Pieter Wolfert, **Taras Kucherenko**, Gustav Eje Henter. *HEMVIP: Human Evaluation of Multiple Videos in Parallel*. axiv 2021 \[[Paper\]](https://arxiv.org/abs/2101.11898)
-
 ### 2020
-* **Taras Kucherenko**\*, Patrik Jonell\*, Youngwoo Yoon\*, Pieter Wolfert, and Gustav Eje Henter. *The GENEA Challenge 2020: Benchmarking gesture-generation systems on common data.* International Workshop on Generation and Evaluation of Non-Verbal Behaviour for Embodied Agents. 2020 \[[Paper\]](https://zenodo.org/record/4094697) \[[Video\]](https://youtu.be/Y-5dgBQk34c) \[[Project Page\]](../_posts/2021-07-26-GENEA_challenge.md)
-
 
 * **Taras Kucherenko**, Patrik Jonell, Sanne van Waveren, Gustav Eje Henter, Simon Alexanderson, Iolanda Leite, and Hedvig Kjellström. *Gesticulator: A framework for semantically-aware speech-driven gesture generation*. International Conference on Multimodal Interaction (ICMI '20). 2020. \[[Paper\]](../papers/Gesticulator_ICMI_2020.pdf) \[[Code\]](https://github.com/svito-zar/Gesticulator) \[[Video\]](https://youtu.be/VQ8he6jjW08) \[[Project Page\]](../_posts/2020-08-03-Gesticulator.md) <span style="font-size: 11px;" class="badge badge-info mb-2">Best Paper Award<i class="fas fa-award"></i></span>
+
+* **Taras Kucherenko**\*, Patrik Jonell\*, Youngwoo Yoon\*, Pieter Wolfert, and Gustav Eje Henter. *The GENEA Challenge 2020: Benchmarking gesture-generation systems on common data.* International Workshop on Generation and Evaluation of Non-Verbal Behaviour for Embodied Agents. 2020 \[[Paper\]](https://zenodo.org/record/4094697) \[[Video\]](https://youtu.be/Y-5dgBQk34c) \[[Project Page\]](../_posts/2021-07-26-GENEA_challenge.md)
 
 * Patrik Jonell\*, **Taras Kucherenko**\*, Ilaria Torre, Jonas Beskow. *Can we trust online crowdworkers? Comparing online and offline participants in a preference test of virtual agents.* International Conference on Intelligent Virtual Agents (IVA'20). 2020 \[[Paper\]](https://dl.acm.org/doi/10.1145/3383652.3423860?cid=99659309831) \[[Video\]](https://youtu.be/OSuOvolaI6Y)
 

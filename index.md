@@ -25,12 +25,15 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 
 <br>
 ### **News**
+
+* <strong>July 2021:</strong> Two papers accepted at [ICMI 2021](https://icmi.acm.org/2021/) : "HEMVIP: Human Evaluation of Multiple Videos in Parallel" and "To Rate or Not To Rate: Investigating Evaluation Methods for Generated Co-Speech Gestures".
+
 * <strong>June 2021:</strong> Our paper [Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech](https://arxiv.org/abs/2106.14736) was accepted to [IVA 2021](https://sites.google.com/view/iva2021/).
 * <strong>Mar 2021:</strong> Our GENEA (Generation and Evaluation of Non-verbal Behavior for Embodied Agents) Workshop 2021 has been accepted as an official workshop at ICMI 2021. [Call for papers](https://genea-workshop.github.io/2021/#call-for-papers) is out!
 * <strong>Feb 2021:</strong> Our demonstrator [A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents](http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1779.pdf) was accepted to the 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2021).
 * <strong>Feb 2021:</strong> [Synced](https://syncedreview.com/) wrote an article about [Gesticulator](https://svito-zar.github.io/gesticulator/), which you can access under [this link](https://syncedreview.com/2021/02/10/icmi-2020-best-paper-gesticulator-a-framework-for-semantically-aware-speech-driven-gesture-generation/).
 * <strong>Jan 2021:</strong> Our paper [Moving fast and slow: Analysis of representations and post-processing in speech-driven automatic gesture generation](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1883883) got accepted to the International Journal of Human-Computer Interaction.
-* <strong>Dec 2020:</strong> Our paper [A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020](https://arxiv.org/abs/2102.11617) was accepted to IUI 2021 conference.
+* <strong>Dec 2020:</strong> Our paper [A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020](https://dl.acm.org/doi/10.1145/3397481.3450692) was accepted to IUI 2021 conference.
 * <strong>Oct 2020:</strong> [Gesticulator](https://svito-zar.github.io/gesticulator/) have got the ICMI 2020 Best Paper Award!
 * <strong>Oct 2020:</strong> [Let's face it](https://jonepatr.github.io/lets_face_it/) received the IVA 2020 Best Paper Award!
 * <strong>Oct 2020:</strong> I will give a talk about my work on gesture generation for the [Talking Robotics](https://talking-robotics.github.io) seminar series on October 30th 4pm UTC(GMT). More details [under this link](https://talking-robotics.github.io/session_details/taras.html).
