@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Speech2Properties2Gestures
-permalink: /Speech2Properties2Gestures/
+permalink: /speech2properties2gestures/
 ---
 
 
@@ -35,11 +35,11 @@ We propose a new framework for gesture generation, aiming to allow data-driven a
 ***
 &nbsp;
 
-Citation format:
+### Citation format:
 ```
 @inproceedings{kucherenko2021speech2properties2gestures,
-      title={Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech}, 
-      author={Taras Kucherenko and Rajmund Nagy and Patrik Jonell and Michael Neff and Hedvig Kjellström and Gustav Eje Henter},
+      title={Speech2{P}roperties2{G}estures: {G}esture-Property Prediction as a Tool for Generating Representational Gestures from Speech}, 
+      author={Kucherenko, Taras and Nagy, Rajmund and Jonell, Patrik and Neff, Michael and Kjellstr{\"o}m, Hedvig and Henter, Gustav Eje},
       year={2021},
       isbn = {9781450366724},
       publisher = {Association for Computing Machinery},
