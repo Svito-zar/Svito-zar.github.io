@@ -51,10 +51,10 @@ Co-speech gestures, gestures that accompany speech, play an important role in hu
 </div>
 
 <div style="text-align:left">
-<img style="float: left; border: 6px solid white;" src="../assets/GitHub_logo.jpg" >
+<img style="float: left; border: 6px solid white;" src="../assets/GitHub_logo.png" >
 <br>
-<p style="font-size: 18px;"> Code for visualising gesture motion used to generate the video stimuli in the challenge  <a href="https://github.com/jonepatr/genea_visualizer"> GENEA visualizer </a> </p> 
-<p style="font-size: 18px;"> Code for computing the numerical evaluation metrics used in the challenge <a href="https://github.com/genea-workshop/genea_numerical_evaluations"> GENEA numerical evaluations  </a> </p> 
+<p style="font-size: 18px;"> Code for visualising gesture motion  <a href="https://github.com/jonepatr/genea_visualizer"> GENEA visualizer </a> </p> 
+<p style="font-size: 18px;"> Code for computing the numerical evaluation metrics <a href="https://github.com/genea-workshop/genea_numerical_evaluations"> GENEA numerical evaluations  </a> </p> 
 <br>
 <br>
 </div>
