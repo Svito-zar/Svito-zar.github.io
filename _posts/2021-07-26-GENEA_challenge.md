@@ -13,7 +13,7 @@ permalink: /GENEAchallenge2021/
 <p align="center">
  <a href="https://zenodo.org/record/4094697#.YP69xTqxU5k" style="font-size: 28px; text-decoration: none">[early workshop paper]  </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
- <a href="https://dl.acm.org/doi/pdf/10.1145/3397481.3450692" style="font-size: 28px; text-decoration: none">[early workshop paper]   </a>   
+ <a href="https://dl.acm.org/doi/pdf/10.1145/3397481.3450692" style="font-size: 28px; text-decoration: none">[latest paper]   </a>   
 </p>
 
 <div style="text-align:center"><img src="../assets/2021_GENEA.jpg" alt="GENEA figure" align="middle"></div>
@@ -21,9 +21,7 @@ permalink: /GENEAchallenge2021/
 &nbsp;
 
 ### ABSTRACT
-Co-speech gestures, gestures that accompany speech, play an important role in human communication. Automatic co-speech gesture generation is thus a key enabling technology for embodied conversational agents (ECAs). The field of gesture generation is not moving forward as fast as it could, because there is no benchmarking culture in the field and those who do compare with the previous work usually do not do it consistently: everyone evaluates systems in their own way.
-Benchmarking has accelerated development in several other fields, such as speech synthesis and machine learning and should also speed up progress in gesture generation. We felt like somebody needed to do it. And hence we run the world’s first Gesture Generation Challenge!
-This work reports on the purpose, design, results, and implications of our challenge.
+Co-speech gestures, gestures that accompany speech, play an important role in human communication. Automatic co-speech gesture generation is thus a key enabling technology for embodied conversational agents (ECAs). The field of gesture generation is not moving forward as fast as it could, because there is no benchmarking culture in the field and those who do compare with the previous work usually do not do it consistently: everyone evaluates systems in their own way. Benchmarking has accelerated development in several other fields, such as speech synthesis and machine learning and should also speed up progress in gesture generation. We felt like somebody needed to do it. And hence we run the world’s first Gesture Generation Challenge! This work reports on the purpose, design, results, and implications of our challenge.
 
 
 &nbsp;
