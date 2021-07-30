@@ -57,12 +57,15 @@ Co-speech gestures, gestures that accompany speech, play an important role in hu
 <p style="font-size: 18px;"> Code for computing the numerical evaluation metrics <a href="https://github.com/genea-workshop/genea_numerical_evaluations"> GENEA numerical evaluations  </a> </p> 
 <br>
 <br>
+<br>
 </div>
 
 <div style="text-align:left">
 <img style="float: left; border: 6px solid white;" src="../assets/table.jpg" >
 <br>
 <p style="font-size: 18px;"> User-study subjective results and scripts to analyze them <a href="https://zenodo.org/record/4088250"> DOI: 10.5281/zenodo.4088250 </a> </p> 
+<br>
+<br>
 <br>
 <br>
 </div>
