@@ -13,6 +13,7 @@ permalink: /teaching/
 Supervising
 * Yuan He's master thesis
 * Rajmund Nagy's individual project
+* Hidir Yesiltepe's summer internship
 
 Teaching Assistant in 
 * [Machine Learning](https://www.kth.se/student/kurser/kurs/DD2421?l=en) course.

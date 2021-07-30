@@ -7,13 +7,13 @@ permalink: /GENEAchallenge2021/
 
 <p align="center">
   <b style="font-size: 48px;"> A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020 </b>
-  <p style="font-size: 32px;"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="http://www.patrikjonell.se">Patrik Jonell</a>,  <a href="https://sites.google.com/view/youngwoo-yoon/">Youngwoo Yoon</a>, <a href="https://www.pieterwolfert.com/"> Pieter Wolfert </a>,  <a href="https://people.kth.se/~ghe/"> Gustav Eje Henter</a> </p>
+  <p style="font-size: 32px;"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="http://www.patrikjonell.se">Patrik Jonell</a>,  <a href="https://sites.google.com/view/youngwoo-yoon/">Youngwoo Yoon</a>, <a href="https://www.pieterwolfert.com/"> Pieter Wolfert</a>,  <a href="https://people.kth.se/~ghe/"> Gustav Eje Henter</a> </p>
 </p>
 
 <p align="center">
- <a href="https://zenodo.org/record/4094697#.YP69xTqxU5k" style="font-size: 28px; text-decoration: none">[GENEA Workshop'20]  </a>  
+ <a href="https://zenodo.org/record/4094697#.YP69xTqxU5k" style="font-size: 28px; text-decoration: none">[early workshop paper]  </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
- <a href="https://dl.acm.org/doi/pdf/10.1145/3397481.3450692" style="font-size: 28px; text-decoration: none">[IUI'21]   </a>   
+ <a href="https://dl.acm.org/doi/pdf/10.1145/3397481.3450692" style="font-size: 28px; text-decoration: none">[early workshop paper]   </a>   
 </p>
 
 <div style="text-align:center"><img src="../assets/2021_GENEA.jpg" alt="GENEA figure" align="middle"></div>
@@ -21,7 +21,9 @@ permalink: /GENEAchallenge2021/
 &nbsp;
 
 ### ABSTRACT
-Co-speech gestures, gestures that accompany speech, play an important role in human communication. Automatic co-speech gesture generation is thus a key enabling technology for embodied conversational agents (ECAs), since humans expect ECAs to be capable of multi-modal communication. Research into gesture generation is rapidly gravitating towards data-driven methods. Unfortunately, individual research efforts in the field are difficult to compare: there are no established benchmarks, and each study tends to use its own dataset, motion visualisation, and evaluation methodology. To address this situation, we launched the GENEA Challenge, a gesture-generation challenge wherein participating teams built automatic gesture-generation systems on a common dataset, and the resulting systems were evaluated in parallel in a large, crowdsourced user study using the same motion-rendering pipeline. Since differences in evaluation outcomes between systems now are solely attributable to differences between the motion-generation methods, this enables benchmarking recent approaches against one another in order to get a better impression of the state of the art in the field. This paper reports on the purpose, design, results, and implications of our challenge.
+Co-speech gestures, gestures that accompany speech, play an important role in human communication. Automatic co-speech gesture generation is thus a key enabling technology for embodied conversational agents (ECAs). The field of gesture generation is not moving forward as fast as it could, because there is no benchmarking culture in the field and those who do compare with the previous work usually do not do it consistently: everyone evaluates systems in their own way.
+Benchmarking has accelerated development in several other fields, such as speech synthesis and machine learning and should also speed up progress in gesture generation. We felt like somebody needed to do it. And hence we run the world’s first Gesture Generation Challenge!
+This work reports on the purpose, design, results, and implications of our challenge.
 
 
 &nbsp;
@@ -57,9 +59,9 @@ Co-speech gestures, gestures that accompany speech, play an important role in hu
 
 ### Citation format:
 ```
-@inproceedings{genea2020iui,
+@inproceedings{kucherenko2020large,
 author = {Kucherenko, Taras and Jonell, Patrik and Yoon, Youngwoo and Wolfert, Pieter and Henter, Gustav Eje},
-title = {A Large, Crowdsourced Evaluation of Gesture Generation Systems on Common Data: The GENEA Challenge 2020},
+title = {A Large, Crowdsourced Evaluation of Gesture Generation Systems on Common Data: The {GENEA} {C}hallenge 2020},
 year = {2021},
 isbn = {9781450380171},
 publisher = {Association for Computing Machinery},
@@ -67,7 +69,7 @@ address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3397481.3450692},
 doi = {10.1145/3397481.3450692},
 booktitle = {26th International Conference on Intelligent User Interfaces},
-pages = {11–21},
+pages = {11--21},
 numpages = {11},
 keywords = {evaluation paradigms, conversational agents, gesture generation},
 location = {College Station, TX, USA},
