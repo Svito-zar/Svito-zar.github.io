@@ -68,6 +68,16 @@ Co-speech gestures, gestures that accompany speech, play an important role in hu
 <br>
 <br>
 <br>
+<br>
+</div>
+
+<div style="text-align:left">
+<img style="float: left; border: 3px solid white;" src="../assets/paper_icon.png" >
+<p style="font-size: 18px;"> <a href="https://zenodo.org/record/4088600"> The StyleGestures entry to the GENEA Challenge 2020   </a> </p> 
+<p style="font-size: 18px;"> <a href="https://zenodo.org/record/4088609"> The FineMotion entry to the GENEA Challenge 2020  </a> </p> 
+<p style="font-size: 18px;"> <a href="https://ieeexplore.ieee.org/abstract/document/9414660"> Double-DCCCAE: Estimation of Body Gestures From Speech Waveform  </a> </p> 
+<p style="font-size: 18px;"> <a href="https://zenodo.org/record/4090879"> CGVU: Semantics-guided 3D Body Gesture Synthesis </a> </p> 
+<p style="font-size: 18px;"> <a href="https://ieeexplore.ieee.org/abstract/document/9454931"> Speech Gesture Generation from Acoustic and Textual Information using LSTMs  </a> </p> 
 </div>
 
 &nbsp;
