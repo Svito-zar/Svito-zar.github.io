@@ -1,7 +1,7 @@
 ---
 layout: project
 title: GENEA Challenge
-permalink: /GENEAchallenge2021/
+permalink: /GENEAchallenge2020/
 ---
 
 
@@ -11,9 +11,9 @@ permalink: /GENEAchallenge2021/
 </p>
 
 <p align="center">
- <a href="https://zenodo.org/record/4094697#.YP69xTqxU5k" style="font-size: 28px; text-decoration: none">[early workshop paper]  </a>  
+ <a href="https://zenodo.org/record/4094697#.YP69xTqxU5k" style="font-size: 28px; text-decoration: none">[first workshop paper]  </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
- <a href="https://dl.acm.org/doi/pdf/10.1145/3397481.3450692" style="font-size: 28px; text-decoration: none">[latest paper]   </a>   
+ <a href="https://dl.acm.org/doi/pdf/10.1145/3397481.3450692" style="font-size: 28px; text-decoration: none">[conference paper (IUI 2021)]   </a>   
 </p>
 
 <div style="text-align:center"><img src="../assets/2021_GENEA.jpg" alt="GENEA figure" align="middle"></div>
@@ -87,7 +87,7 @@ Co-speech gestures, gestures that accompany speech, play an important role in hu
 
 ### Citation format:
 ```
-@inproceedings{kucherenko2020large,
+@inproceedings{kucherenko2021large,
 author = {Kucherenko, Taras and Jonell, Patrik and Yoon, Youngwoo and Wolfert, Pieter and Henter, Gustav Eje},
 title = {A Large, Crowdsourced Evaluation of Gesture Generation Systems on Common Data: The {GENEA} {C}hallenge 2020},
 year = {2021},
