@@ -1,27 +1,29 @@
 ---
 layout: project
-title: GENEA Challenge
+title: GENEA Challenge 2020
 permalink: /GENEAchallenge2020/
 ---
 
 
 <p align="center">
-  <b style="font-size: 48px;"> A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020 </b>
+  <b style="font-size: 45px;"> A large, crowdsourced evaluation of gesture generation systems on common data: <br/> The GENEA Challenge 2020 </b>
   <p style="font-size: 32px;"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="http://www.patrikjonell.se">Patrik Jonell</a>,  <a href="https://sites.google.com/view/youngwoo-yoon/">Youngwoo Yoon</a>, <a href="https://www.pieterwolfert.com/"> Pieter Wolfert</a>,  <a href="https://people.kth.se/~ghe/"> Gustav Eje Henter</a> </p>
 </p>
 
 <p align="center">
  <a href="https://zenodo.org/record/4094697#.YP69xTqxU5k" style="font-size: 28px; text-decoration: none">[first workshop paper]  </a>  
  <a style="font-size: 35px; text-decoration: none"> |   </a> 
- <a href="https://dl.acm.org/doi/pdf/10.1145/3397481.3450692" style="font-size: 28px; text-decoration: none">[conference paper (IUI 2021)]   </a>   
+ <a href="https://doi.org/10.1145/3397481.3450692" style="font-size: 28px; text-decoration: none">[conference paper (IUI 2021)]   </a>   
 </p>
 
 <div style="text-align:center"><img src="../assets/2021_GENEA.jpg" alt="GENEA figure" align="middle"></div>
 
 &nbsp;
 
-### ABSTRACT
-Co-speech gestures, gestures that accompany speech, play an important role in human communication. Automatic co-speech gesture generation is thus a key enabling technology for embodied conversational agents (ECAs). The field of gesture generation is not moving forward as fast as it could, because there is no benchmarking culture in the field and those who do compare with the previous work usually do not do it consistently: everyone evaluates systems in their own way. Benchmarking has accelerated development in several other fields, such as speech synthesis and machine learning and should also speed up progress in gesture generation. We felt like somebody needed to do it. And hence we run the world’s first Gesture Generation Challenge! This work reports on the purpose, design, results, and implications of our challenge.
+### SUMMARY
+
+<p>Hand and body gestures play an important role in human communication, and automatically generating such gestures is therefore an important research area for conversational agents such as virtual avatars and social robots. To help the field of automated gesture generation move forward, we ran the first gesture-generation challenge &ndash; the GENEA Challenge 2020 &ndash; comparing many different gesture-generation methods on the same data in a large, crowdsourced evaluation. The intent is to help the community figure out what is important for good automatic gesture generation.</p>
+<p>This page collects papers, videos, and other resources from our challenge. For more information about the design and results of the challenge, and what we learned from it, please see <a href="https://doi.org/10.1145/3397481.3450692">our main paper on the challenge, published at IUI 2021</a>.</p>
 
 
 &nbsp;
