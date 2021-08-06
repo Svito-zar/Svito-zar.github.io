@@ -16,7 +16,7 @@ exclude: true
 <img style="float: left; border: 5px solid white; padding-right: 10px;" src="assets/Prof_pic.jpg" height="230" alt="portrait">
 I am a last-year Ph.D. student in Machine Learning for animation and human-computer interaction at KTH Royal Institute of Technology in Stockholm. My main supervisor is [Hedvig Kjellström](http://www.csc.kth.se/~hedvig/) and co-supervisors are [Gustav Eje Henter](https://people.kth.se/~ghe/) and [Iolanda Leite](https://iolandaleite.com/).
 
-My research is on machine learning models for non-verbal behavior generation, such as hand gestures and facial expressions. I recently gave a talk about it, which you find [in this video](https://youtu.be/JeMwtr8pxcc). My latest project, Gesticulator, can be found on [this project page](https://svito-zar.github.io/gesticulator).
+My research is on machine learning models for non-verbal behavior generation, such as hand gestures and facial expressions. I recently gave a talk about it, which you find [in this video](https://youtu.be/JeMwtr8pxcc). My favorite project, GENEA Challenge 2020, can be found on [this project page](https://svito-zar.github.io/GENEAchallenge2020/).
 
 I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACare/), where we aim to develop a robot system to detect early signs of Dementia from the communicative behavior. My part is non-verbal behavior generation.
 
