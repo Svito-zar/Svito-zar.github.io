@@ -59,18 +59,18 @@ To reproduce the results you can use our [pre-trained model](https://github.com/
 
 Citation format:
 ```
-@inproceedings{kucherenko2019analyzing,
-  address={Paris, France},
-  author={Kucherenko, Taras and Hasegawa, Dai and Henter, Gustav Eje and Kaneko, Naoshi and Kjellstr{\"o}m, Hedvig},
-  booktitle={Proc. IVA},
-  doi={10.1145/3308532.3329472},
-  keywords={gesture generation, social robotics, representation learning, neural network, deep learning, virtual agents},
-  month={July},
-  pages={97--104},
-  publisher={ACM},
-  title={Analyzing Input and Output Representations for Speech-Driven Gesture Generation},
-  volume={19},
-  year={2019}
+@article{kucherenko2021moving,
+author = {Taras Kucherenko and Dai Hasegawa and Naoshi Kaneko and Gustav Eje Henter and Hedvig Kjellström},
+title = {Moving Fast and Slow: Analysis of Representations and Post-Processing in Speech-Driven Automatic Gesture Generation},
+journal = {International Journal of Human–Computer Interaction},
+volume = {37},
+number = {14},
+pages = {1300-1316},
+year  = {2021},
+publisher = {Taylor & Francis},
+doi = {10.1080/10447318.2021.1883883},
+URL = {https://doi.org/10.1080/10447318.2021.1883883},
+eprint = {https://doi.org/10.1080/10447318.2021.1883883}
 }
 ```
 
