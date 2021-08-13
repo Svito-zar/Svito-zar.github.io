@@ -13,7 +13,9 @@ My publications can also be found on \[[Google Scholar\]](https://scholar.google
 
 ### 2021
 
-* Patrik Jonell, Youngwoo Yoon, Pieter Wolfert, **Taras Kucherenko**, Gustav Eje Henter. *HEMVIP: Human Evaluation of Multiple Videos in Parallel*. (to appear in)  International Conference on Multimodal Interaction (ICMI '21). 2021 \[[Paper\]](https://arxiv.org/abs/2101.11898)
+* **Taras Kucherenko**, Rajmund Nagy, Michael Neff, Hedvig Kjellström, and Gustav Eje Henter. *Multimodal analysis of the predictability of hand-gestureproperties*. arXiv preprint(2021). 2021 \[[Paper\]](https://arxiv.org/abs/2108.05762) \[[Project Page\]](../_posts/2021-07-30-Speech2Gest2Prop.md)
+
+* Patrik Jonell, Youngwoo Yoon, Pieter Wolfert, **Taras Kucherenko**, and Gustav Eje Henter. *HEMVIP: Human Evaluation of Multiple Videos in Parallel*. (to appear in)  International Conference on Multimodal Interaction (ICMI '21). 2021 \[[Paper\]](https://arxiv.org/abs/2101.11898)
 
 * **Taras Kucherenko**, Rajmund Nagy, Patrik Jonell, Michael Neff, Hedvig Kjellström, and Gustav Eje Henter. *Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech.* (to appear in) International Conference on Intelligent Virtual Agents (IVA’21). 2021 \[[Paper\]](https://arxiv.org/abs/2106.14736) \[[Project Page\]](../_posts/2021-07-30-Speech2Gest2Prop.md)
 

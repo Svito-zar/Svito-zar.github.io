@@ -13,7 +13,8 @@ permalink: /speech2properties2gestures/
 </p>
 
 <p align="center">
- <a href="https://arxiv.org/abs/2106.14736" style="font-size: 30px; text-decoration: none">[Preprint]   </a>  
+ <a href="https://arxiv.org/abs/2106.14736" style="font-size: 30px; text-decoration: none">[Project proposal]   </a>  
+ <a href="https://arxiv.org/abs/2108.05762" style="font-size: 30px; text-decoration: none">[Speech2Prop feasibility analysis]   </a>  
 </p>
 
 &nbsp;
