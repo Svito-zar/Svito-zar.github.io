@@ -21,12 +21,17 @@ My research is on machine learning models for non-verbal behavior generation, su
 I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACare/), where we aim to develop a robot system to detect early signs of Dementia from the communicative behavior. My part is non-verbal behavior generation.
 
 
-
-
 <br>
-### **News**
+### **Awards**
 
 * <strong>Sept 2021:</strong> Our paper [Speech2Properties2Gestures](https://dl.acm.org/doi/pdf/10.1145/3472306.3478333) received honourable mention award at [IVA 2021](https://sites.google.com/view/iva2021/).
+* <strong>Oct 2020:</strong> [Gesticulator](https://svito-zar.github.io/gesticulator/) have got the ICMI 2020 Best Paper Award!
+* <strong>Oct 2020:</strong> [Let's face it](https://jonepatr.github.io/lets_face_it/) received the IVA 2020 Best Paper Award!
+* <strong>May 2020:</strong> We received honourable mention award at Eurographics 2020 for our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946).
+
+<br>
+### **Other news**
+
 * <strong>July 2021:</strong> Two papers accepted at [ICMI 2021](https://icmi.acm.org/2021/) : [HEMVIP: Human Evaluation of Multiple Videos in Parallel](https://arxiv.org/abs/2101.11898) and [To Rate or Not To Rate: Investigating Evaluation Methods for Generated Co-Speech Gestures](https://arxiv.org/abs/2108.05709).
 * <strong>June 2021:</strong> Our paper [Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech](https://dl.acm.org/doi/pdf/10.1145/3472306.3478333) was accepted to [IVA 2021](https://sites.google.com/view/iva2021/).
 * <strong>Mar 2021:</strong> Our GENEA (Generation and Evaluation of Non-verbal Behavior for Embodied Agents) Workshop 2021 has been accepted as an official workshop at ICMI 2021. [Call for papers](https://genea-workshop.github.io/2021/#call-for-papers) is out!
@@ -34,14 +39,11 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 * <strong>Feb 2021:</strong> [Synced](https://syncedreview.com/) wrote an article about [Gesticulator](https://svito-zar.github.io/gesticulator/), which you can access under [this link](https://syncedreview.com/2021/02/10/icmi-2020-best-paper-gesticulator-a-framework-for-semantically-aware-speech-driven-gesture-generation/).
 * <strong>Jan 2021:</strong> Our paper [Moving fast and slow: Analysis of representations and post-processing in speech-driven automatic gesture generation](https://www.tandfonline.com/doi/full/10.1080/10447318.2021.1883883) got accepted to the International Journal of Human-Computer Interaction.
 * <strong>Dec 2020:</strong> Our paper [A large, crowdsourced evaluation of gesture generation systems on common data: The GENEA Challenge 2020](https://dl.acm.org/doi/10.1145/3397481.3450692) was accepted to IUI 2021 conference.
-* <strong>Oct 2020:</strong> [Gesticulator](https://svito-zar.github.io/gesticulator/) have got the ICMI 2020 Best Paper Award!
-* <strong>Oct 2020:</strong> [Let's face it](https://jonepatr.github.io/lets_face_it/) received the IVA 2020 Best Paper Award!
 * <strong>Oct 2020:</strong> I will give a talk about my work on gesture generation for the [Talking Robotics](https://talking-robotics.github.io) seminar series on October 30th 4pm UTC(GMT). More details [under this link](https://talking-robotics.github.io/session_details/taras.html).
 * <strong>Sept 2020:</strong> I have an open position for a master thesis on benchmarking gesture generation models in an interaction. See [the proposal](https://www.kth.se/profile/tarask/page/master-thesis-proposal) for more details.
 * <strong>Sept 2020:</strong> One more paper accepted to IVA 2020: [Let’s face it: Probabilistic multi-modal interlocutor-aware generation of facial gestures in dyadic settings](https://arxiv.org/abs/2006.09888).
 * <strong>Aug 2020:</strong> Our paper [Gesticulator: A framework for semantically-aware speech-driven gesture generation](https://arxiv.org/abs/2001.09326) got accepted to ICMI 2020!
 * <strong>July 2020:</strong> Two papers accepted for [IVA 2020](http://iva2020.psy.gla.ac.uk). More details in the [publications](https://svito-zar.github.io/publications/) tap.
-* <strong>May 2020:</strong> We received honourable mention award at Eurographics 2020 for our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946).
 * <strong> April 2020: </strong> The CFP for our IVA'20 [Workshop](https://genea-workshop.github.io/2020/) on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents is [out](https://easychair.org/cfp/GENEA_Workshop_2020). As part of this workshop we organize Gesture Generation Challenge!
 * <strong>Feb 2020:</strong> Our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946) was accepted to Eurographics 2020.
 * <strong>Jan 2020:</strong> Sifan Jiang started his master thesis with me. He will be extending my gesture generation model to humanoid robot NAO.
