@@ -20,6 +20,9 @@ My research is on machine learning models for non-verbal behavior generation, su
 
 I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACare/), where we aim to develop a robot system to detect early signs of Dementia from the communicative behavior. My part is non-verbal behavior generation.
 
+Currently, I am doing an internship at Microsoft Research in Reading, the UK. I am working in the team led by Eric Sommerlade, collaborating with Alexandros Neophytou and Sunando Sengupta. The project is about eye gaze estimation to enable people who cannot move to use devices and is called [Enable](https://www.microsoft.com/en-us/research/group/enable/).
+
+
 
 <br>
 ### **Awards**
@@ -32,6 +35,7 @@ I am working in the HealthTech project [EACare](http://www.csc.kth.se/cvap/EACar
 <br>
 ### **Other news**
 
+* <strong>Sept 2021:</strong> Started an internship at Microsoft Research UK Applied Research team.
 * <strong>July 2021:</strong> Two papers accepted at [ICMI 2021](https://icmi.acm.org/2021/) : [HEMVIP: Human Evaluation of Multiple Videos in Parallel](https://arxiv.org/abs/2101.11898) and [To Rate or Not To Rate: Investigating Evaluation Methods for Generated Co-Speech Gestures](https://arxiv.org/abs/2108.05709).
 * <strong>June 2021:</strong> Our paper [Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech](https://dl.acm.org/doi/pdf/10.1145/3472306.3478333) was accepted to [IVA 2021](https://sites.google.com/view/iva2021/).
 * <strong>Mar 2021:</strong> Our GENEA (Generation and Evaluation of Non-verbal Behavior for Embodied Agents) Workshop 2021 has been accepted as an official workshop at ICMI 2021. [Call for papers](https://genea-workshop.github.io/2021/#call-for-papers) is out!
