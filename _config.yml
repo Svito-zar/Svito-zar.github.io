@@ -8,7 +8,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://svito-zar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  svito-zar
 show_excerpts: false # set to true to show excerpts on the homepage
-google_analytics: UA-165393753-1
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
