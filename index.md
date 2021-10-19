@@ -25,14 +25,15 @@ Currently, I am doing an internship at Microsoft Research in Reading, the UK. I 
 <br>
 ### **Awards**
 
-* <strong>Sept 2021:</strong> Our paper [Speech2Properties2Gestures](https://dl.acm.org/doi/pdf/10.1145/3472306.3478333) received honourable mention award at [IVA 2021](https://sites.google.com/view/iva2021/).
+* <strong>Sept 2021:</strong> Our paper [Speech2Properties2Gestures](https://dl.acm.org/doi/pdf/10.1145/3472306.3478333) received Honourable Mention award at [IVA 2021](https://sites.google.com/view/iva2021/).
 * <strong>Oct 2020:</strong> [Gesticulator](https://svito-zar.github.io/gesticulator/) have got the ICMI 2020 Best Paper Award!
 * <strong>Oct 2020:</strong> [Let's face it](https://jonepatr.github.io/lets_face_it/) received the IVA 2020 Best Paper Award!
-* <strong>May 2020:</strong> We received honourable mention award at Eurographics 2020 for our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946).
+* <strong>May 2020:</strong> We received Honourable Mention award at Eurographics 2020 for our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946).
 
 <br>
 ### **Other news**
 
+* <strong>Oct 2021:</strong> Our GENEA (Generation and Evaluation of Non-verbal Behavior for Embodied Agents) Workshop 2021 is happening at ICMI 2021. [Workshop page](https://genea-workshop.github.io/2021/)
 * <strong>Sept 2021:</strong> Started an internship at Microsoft Research UK Applied Research team.
 * <strong>July 2021:</strong> Two papers accepted at [ICMI 2021](https://icmi.acm.org/2021/) : [HEMVIP: Human Evaluation of Multiple Videos in Parallel](https://arxiv.org/abs/2101.11898) and [To Rate or Not To Rate: Investigating Evaluation Methods for Generated Co-Speech Gestures](https://arxiv.org/abs/2108.05709).
 * <strong>June 2021:</strong> Our paper [Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech](https://dl.acm.org/doi/pdf/10.1145/3472306.3478333) was accepted to [IVA 2021](https://sites.google.com/view/iva2021/).
@@ -75,7 +76,8 @@ Currently, I am doing an internship at Microsoft Research in Reading, the UK. I 
 
 
 * <strong> Reviewer </strong> for
-	* ACII 2021, ICMI 2021, ROMAN 2021, ICCV 2021 Workshop on Crossmodal Social Animation
+        * HRI 2022, CHI 2022
+	* ACII 2021, ICMI 2021, ROMAN 2021, ICCV 2021 Workshops
 	* ECAI 2020, IJCAI 2020, SIGRAPH 2020, IVA 2020, ICMI 2020 LBR
 	* ACII 2019, ICSR 2019
 	* NIPS 2018 Workshop on AI for Social Good
