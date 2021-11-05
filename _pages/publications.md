@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-The complete publication list can be found on \[[Google Scholar\]](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en), \[[DBLP\]](https://dblp.uni-trier.de/pers/hd/k/Kucherenko:Taras), and \[[ResearchGate\]](https://www.researchgate.net/profile/Taras_Kucherenko). __**Selected Publications**__:
+The complete publication list can be found on \[[Google Scholar\]](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en), \[[DBLP\]](https://dblp.uni-trier.de/pers/hd/k/Kucherenko:Taras), and \[[ResearchGate\]](https://www.researchgate.net/profile/Taras_Kucherenko). <u>Selected Publications</u>:
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" integrity="sha512-RO38pBRxYH3SoOprtPTD86JFOclM51/XTIdEPh5j8sj4tp8jmQIx26twG52UaLi//hQldfrh7e51WzP9wuP32Q==" crossorigin="anonymous" />
 <!-- Fonts & Icons -->
