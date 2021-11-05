@@ -18,7 +18,7 @@ I am a last-year Ph.D. student in Machine Learning for animation and human-compu
 
 My research is on machine learning models for non-verbal behavior generation, such as hand gestures and facial expressions. I recently gave a talk about it, which you find [in this video](https://youtu.be/JeMwtr8pxcc). My favorite project, GENEA Challenge 2020, can be found on [this project page](https://svito-zar.github.io/GENEAchallenge2020/).
 
-Currently, I am doing an internship at Microsoft Research in Reading, the UK. I am working in the team led by Eric Sommerlade, collaborating with Alexandros Neophytou and Sunando Sengupta. The project is about eye gaze estimation to enable people who cannot move to use devices and is called [Enable](https://www.microsoft.com/en-us/research/group/enable/).
+Currently, I am doing an internship at Microsoft Research in Reading, the UK. I am working in the team led by Eric Sommerlade, collaborating with Alexandros Neophytou and Sunando Sengupta.
 
 
 
