@@ -26,7 +26,7 @@ Currently, I am doing an internship at Microsoft Research in Reading, the UK. I 
 ### **Awards**
 
 * <strong>Oct 2021:</strong> I have got the ICMI 2021 Best Reviewer Award!
-* <strong>Sept 2021:</strong> Our paper [Speech2Properties2Gestures](https://dl.acm.org/doi/pdf/10.1145/3472306.3478333) received Honourable Mention award at [IVA 2021](https://sites.google.com/view/iva2021/).
+* <strong>Sept 2021:</strong> Our paper [Speech2Properties2Gestures](https://dl.acm.org/doi/10.1145/3472306.3478333?cid=99659309831) received Honourable Mention award at [IVA 2021](https://sites.google.com/view/iva2021/).
 * <strong>Oct 2020:</strong> [Gesticulator](https://svito-zar.github.io/gesticulator/) have got the ICMI 2020 Best Paper Award!
 * <strong>Oct 2020:</strong> [Let's face it](https://jonepatr.github.io/lets_face_it/) received the IVA 2020 Best Paper Award!
 * <strong>May 2020:</strong> We received Honourable Mention award at Eurographics 2020 for our paper [Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows](https://diglib.eg.org/handle/10.1111/cgf13946).
