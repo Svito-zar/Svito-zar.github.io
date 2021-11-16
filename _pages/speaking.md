@@ -18,6 +18,7 @@ Below are my talks outside of Toastmasters.
 
 ### 2021
 * <strong>Nov.</strong> - talk about my research on co-speech gesture synthesis for [Social AI and Robotics (SAIR) Lab](https://sairlab.github.io/) at [King's College London](https://www.kcl.ac.uk/)
+* <strong>Nov.</strong> - talk about my research on co-speech gesture synthesis for [Affective Intelligence and Robotics Laboratory](https://cambridge-afar.github.io/) at [Cambridge University](https://www.cam.ac.uk/)
 * <strong>June.</strong> - online talk about co-speech gesture generation and evaluation for [MultiComp Lab](http://multicomp.cs.cmu.edu/) at CMU \[[Slides](https://docs.google.com/presentation/d/1CVj-2WVZQM85TX21e2d7TlTB9VrDjghF2Fpdm_LaNtA/edit?usp=sharing)\]
 * <strong>Mar.</strong> - online talk about DeepFakes for Free University Maidan Monitoring in Kharkiv \[[Video link](https://www.facebook.com/FreeUnivMM/videos/1912384215567763)\]
 * <strong>Feb.</strong> - online talk about my research on gesture generation for Ukrainian Catholic University [Faculty of Applied Sciences](https://apps.ucu.edu.ua/en/)

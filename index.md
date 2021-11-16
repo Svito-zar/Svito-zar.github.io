@@ -34,6 +34,7 @@ Currently, I am doing an internship at Microsoft Research in Reading, the UK. I 
 <br>
 ### **Other news**
 
+* <strong>Nov 2021</strong> - I gave two talks about my research on co-speech gesture synthesis: for [Social AI and Robotics (SAIR) Lab](https://sairlab.github.io/) at [King's College London](https://www.kcl.ac.uk/) and for [Affective Intelligence and Robotics Laboratory](https://cambridge-afar.github.io/) at [Cambridge University](https://www.cam.ac.uk/)
 * <strong>Oct 2021:</strong> Our GENEA (Generation and Evaluation of Non-verbal Behavior for Embodied Agents) Workshop 2021 is happening at ICMI 2021. [Workshop page](https://genea-workshop.github.io/2021/)
 * <strong>Sept 2021:</strong> Started an internship at Microsoft Research UK Applied Research team.
 * <strong>July 2021:</strong> Two papers accepted at [ICMI 2021](https://icmi.acm.org/2021/) : [HEMVIP: Human Evaluation of Multiple Videos in Parallel](https://arxiv.org/abs/2101.11898) and [To Rate or Not To Rate: Investigating Evaluation Methods for Generated Co-Speech Gestures](https://arxiv.org/abs/2108.05709).
