@@ -78,7 +78,7 @@ Currently, I am doing an internship at Microsoft Research in Reading, the UK. I 
 
 
 * <strong> Reviewer </strong> for
-    - HRI 2022, CHI 2022
+    - HRI 2022, CHI 2022, CVPR 2022, AISTATS 2022
     - ACII 2021, ICMI 2021, ROMAN 2021, ICCV 2021 Workshops
     - ECAI 2020, IJCAI 2020, SIGRAPH 2020, IVA 2020, ICMI 2020 LBR
     - ACII 2019, ICSR 2019
