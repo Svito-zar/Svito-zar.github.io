@@ -20,7 +20,7 @@ Currently, I am doing an internship at Microsoft Research in Reading, the UK. I 
 <br>
 ### **Awards**
 
-* <strong>Oct 2021:</strong> I have got the ICMI 2021 Best Reviewer Award!
+* <strong>Oct 2021:</strong> I have got the [ICMI 2021](https://icmi.acm.org/2021/) Best Reviewer Award!
 * <strong>Sept 2021:</strong> Our paper [Speech2Properties2Gestures](https://dl.acm.org/doi/10.1145/3472306.3478333?cid=99659309831) received Honourable Mention award at [IVA 2021](https://sites.google.com/view/iva2021/).
 * <strong>Oct 2020:</strong> [Gesticulator](https://svito-zar.github.io/gesticulator/) have got the ICMI 2020 Best Paper Award!
 * <strong>Oct 2020:</strong> [Let's face it](https://jonepatr.github.io/lets_face_it/) received the IVA 2020 Best Paper Award!
@@ -29,7 +29,8 @@ Currently, I am doing an internship at Microsoft Research in Reading, the UK. I 
 <br>
 ### **Other news**
 
-* <strong>Nov 2021</strong> - I gave two talks about my research on co-speech gesture synthesis: for [Social AI and Robotics (SAIR) Lab](https://sairlab.github.io/) at [King's College London](https://www.kcl.ac.uk/) and for [Affective Intelligence and Robotics Laboratory](https://cambridge-afar.github.io/) at [Cambridge University](https://www.cam.ac.uk/)
+* <strong>Dec 2021:</strong> Our paper [Multimodal analysis of the predictability of hand-gesture properties](https://arxiv.org/abs/2108.05762) was accepted to [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/).
+* <strong>Nov 2021</strong> I gave two talks about my research on co-speech gesture synthesis: for [Social AI and Robotics (SAIR) Lab](https://sairlab.github.io/) at [King's College London](https://www.kcl.ac.uk/) and for [Affective Intelligence and Robotics Laboratory](https://cambridge-afar.github.io/) at [Cambridge University](https://www.cam.ac.uk/)
 * <strong>Oct 2021:</strong> Our GENEA (Generation and Evaluation of Non-verbal Behavior for Embodied Agents) Workshop 2021 is happening at ICMI 2021. [Workshop page](https://genea-workshop.github.io/2021/)
 * <strong>Sept 2021:</strong> Started an internship at Microsoft Research UK Applied Research team.
 * <strong>July 2021:</strong> Two papers accepted at [ICMI 2021](https://icmi.acm.org/2021/) : [HEMVIP: Human Evaluation of Multiple Videos in Parallel](https://arxiv.org/abs/2101.11898) and [To Rate or Not To Rate: Investigating Evaluation Methods for Generated Co-Speech Gestures](https://arxiv.org/abs/2108.05709).
