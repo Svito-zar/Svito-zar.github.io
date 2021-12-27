@@ -12,9 +12,9 @@ permalink: /speech2properties2gestures/
 </p>
 
 <p align="center">
- <a href="https://arxiv.org/abs/2106.14736" style="font-size: 30px; text-decoration: none">[Project proposal(IVA'21 Honorable Mention)]  </a>  
+ <a href="https://arxiv.org/abs/2106.14736" style="font-size: 30px; text-decoration: none">[Project proposal (IVA'21 Honorable Mention)]  </a>  
  <br>
- <a href="https://arxiv.org/abs/2108.05762" style="font-size: 30px; text-decoration: none">[Detailed analysis of gesture property predictability(AAMAS'22)]   </a>  
+ <a href="https://arxiv.org/abs/2108.05762" style="font-size: 30px; text-decoration: none">[Analysis of gesture property predictability (AAMAS'22)]   </a>  
 </p>
 
 &nbsp;
