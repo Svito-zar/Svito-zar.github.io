@@ -4,11 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
-The complete publication list can be found on \[[Google Scholar\]](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en), \[[DBLP\]](https://dblp.uni-trier.de/pers/hd/k/Kucherenko:Taras), and \[[ResearchGate\]](https://www.researchgate.net/profile/Taras_Kucherenko). <u>Selected Publications</u>:
+## Selected Publications
+
+The complete publication list can be found on \[[Google Scholar\]](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en), \[[DBLP\]](https://dblp.uni-trier.de/pers/hd/k/Kucherenko:Taras), and \[[ResearchGate\]](https://www.researchgate.net/profile/Taras_Kucherenko).
+
+### 2022
+
+* **Taras Kucherenko**, Rajmund Nagy, Michael Neff, Hedvig Kjellström, and Gustav Eje Henter. *Multimodal analysis of the predictability of hand-gesture properties*. 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS). 2022 \[[Paper\]](https://arxiv.org/abs/2108.05762) \[[Project Page\]](../_posts/2021-07-30-Speech2Gest2Prop.md)
 
 ### 2021
 
-* **Taras Kucherenko**, Rajmund Nagy, Michael Neff, Hedvig Kjellström, and Gustav Eje Henter. *Multimodal analysis of the predictability of hand-gesture properties*. arXiv preprint(2021). 2021 \[[Paper\]](https://arxiv.org/abs/2108.05762) \[[Project Page\]](../_posts/2021-07-30-Speech2Gest2Prop.md)
 
 * **Taras Kucherenko**, Rajmund Nagy, Patrik Jonell, Michael Neff, Hedvig Kjellström, and Gustav Eje Henter. *Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech.* International Conference on Intelligent Virtual Agents (IVA’21). 2021 \[[Paper\]](https://dl.acm.org/doi/10.1145/3472306.3478333?cid=99659309831) \[[Project Page\]](../_posts/2021-07-30-Speech2Gest2Prop.md) <span style="font-size: 11px;" class="badge badge-info mb-2"> Honorable Mention Award<i class="fas fa-award"></i></span>
 
@@ -55,7 +60,3 @@ Boulder, Oct 12-17, 2018 \[[Paper\]](https://dl.acm.org/citation.cfm?doid=324296
 *A neural network approach to missing marker reconstruction in human motion capture.*
 arXiv preprint (2018) \[[Paper\]](https://www.researchgate.net/publication/323626902_A_Neural_Network_Approach_to_Missing_Marker_Reconstruction_in_Human_Motion_Capture) \[[Code\]](https://github.com/Svito-zar/NN-for-Missing-Marker-Reconstruction) \[[Video\]](https://youtu.be/mi75gzEhbHI) 
 
-
-### 2017
-
-* **Taras  Kucherenko** and Hedvig Kjellström. *Towards Context-Preserving Human to Robot Motion Mapping.* The First Swedish Symposium on Deep Learning, Stockholm, 2017 \[[Paper\]](https://www.csc.kth.se/~hedvig/publications/ssdl_17.pdf)
