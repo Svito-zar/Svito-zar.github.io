@@ -15,6 +15,8 @@ permalink: /speech2properties2gestures/
  <a href="https://arxiv.org/abs/2106.14736" style="font-size: 30px; text-decoration: none">[Project proposal (IVA'21 Honorable Mention)]  </a>  
  <br>
  <a href="https://arxiv.org/abs/2108.05762" style="font-size: 30px; text-decoration: none">[Analysis of gesture property predictability (AAMAS'22)]   </a>  
+ <b style="font-size: 30px; text-decoration: none"> [Data (coming soon) ]  </b>  
+ <b style="font-size: 30px; text-decoration: none"> [Code (coming soon) ]  </b>  
 </p>
 
 &nbsp;
@@ -36,7 +38,7 @@ We propose a new framework for gesture generation, aiming to allow data-driven a
 ***
 &nbsp;
 
-### Citation format:
+### Citation format for the general idea:
 ```
 @inproceedings{kucherenko2021speech2properties2gestures,
       title={Speech2{P}roperties2{G}estures: {G}esture-Property Prediction as a Tool for Generating Representational Gestures from Speech}, 
@@ -51,4 +53,16 @@ We propose a new framework for gesture generation, aiming to allow data-driven a
       location = {Virtual Event, Japan},
       series = {IVA '21}
 }
+```
+
+### Citation format for the gesture property predictibility analysis:
+```
+@inproceedings{kucherenko2021multimodal,
+  title={Multimodal analysis of the predictability of hand-gesture properties},
+  author={Kucherenko, Taras and Nagy, Rajmund and Neff, Michael and Kjellstr{\"o}m, Hedvig and Henter, Gustav Eje},
+  booktitle = {Proceedings of the  21st International Conference on Autonomous Agents and Multiagent Systems},
+  series = {AAMAS '22}
+  year={2022}
+}
+
 ```
