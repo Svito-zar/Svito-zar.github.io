@@ -27,10 +27,12 @@ My research is on machine learning models for non-verbal behavior generation, su
 <br>
 ### **Other news**
 
+* <strong>Feb 2022:</strong> I joined EA Games R&D department, called SEED, as research engineer.
 * <strong>Dec 2021:</strong> Our paper [Multimodal analysis of the predictability of hand-gesture properties](https://arxiv.org/abs/2108.05762) was accepted to [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/).
+* <strong>Dec 2021:</strong> I defended my thesis. My opponent was Stefan Kopp and you can find more info under [this link](https://svito-zar.github.io/defence/)
 * <strong>Nov 2021</strong> I gave two talks about my research on co-speech gesture synthesis: for [Social AI and Robotics (SAIR) Lab](https://sairlab.github.io/) at [King's College London](https://www.kcl.ac.uk/) and for [Affective Intelligence and Robotics Laboratory](https://cambridge-afar.github.io/) at [Cambridge University](https://www.cam.ac.uk/)
 * <strong>Oct 2021:</strong> Our GENEA (Generation and Evaluation of Non-verbal Behavior for Embodied Agents) Workshop 2021 is happening at ICMI 2021. [Workshop page](https://genea-workshop.github.io/2021/)
-* <strong>Sept 2021:</strong> Started an internship at Microsoft Research UK Applied Research team.
+* <strong>Sept 2021:</strong> Started an internship at Microsoft Research UK Applied Research team
 * <strong>July 2021:</strong> Two papers accepted at [ICMI 2021](https://icmi.acm.org/2021/) : [HEMVIP: Human Evaluation of Multiple Videos in Parallel](https://arxiv.org/abs/2101.11898) and [To Rate or Not To Rate: Investigating Evaluation Methods for Generated Co-Speech Gestures](https://arxiv.org/abs/2108.05709).
 * <strong>June 2021:</strong> Our paper [Speech2Properties2Gestures: Gesture-Property Prediction as a Tool for Generating Representational Gestures from Speech](https://dl.acm.org/doi/pdf/10.1145/3472306.3478333) was accepted to [IVA 2021](https://sites.google.com/view/iva2021/).
 * <strong>Mar 2021:</strong> Our GENEA (Generation and Evaluation of Non-verbal Behavior for Embodied Agents) Workshop 2021 has been accepted as an official workshop at ICMI 2021. [Call for papers](https://genea-workshop.github.io/2021/#call-for-papers) is out!
