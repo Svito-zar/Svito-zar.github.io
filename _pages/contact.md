@@ -7,7 +7,8 @@ permalink: /contact/
 
 <img style="float: left; border: 5px solid white; padding-left: 50px;" src="../assets/LinkedIn_pic.jpg" height="250" alt="portrait">
 
-**Email**:  tarask@kth.se 
+**Email**:
+<img src="../assets/labelgen_email.png">
 
 **Visit**:  Teknikringen 33, room 3339, 
         
