@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ### 2020 / 2021
 Supervising
-* Yuan He's master thesis
+* Yuan He's master thesis, resulting in the thesis [Evaluating Generated Co-Speech Gestures of Embodied Conversational Agent(ECA) through Real-Time Interaction](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1647640&dswid=4976)
 * Rajmund Nagy's individual project
 * Hidir Yesiltepe's summer internship
 
