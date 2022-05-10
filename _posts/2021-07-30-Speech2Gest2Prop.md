@@ -30,7 +30,7 @@ permalink: /speech2properties2gestures/
 ### ABSTRACT
 We propose a new framework for gesture generation, aiming to allow data-driven approaches to produce more semantically rich gestures. Our approach first predicts whether to gesture, followed by a prediction of the gesture properties. Those properties are then used as conditioning for a modern probabilistic gesture-generation model capable of high-quality output. This empowers the approach to generate gestures that are both diverse and representational. 
 
-<div style="text-align:center"><img src="../assets/Speech2Prop2Gest.png" alt="portrait" align="middle"></div>
+<div style="text-align:center"><img src="../assets/Speech2Prop2Ges.jpeg" alt="portrait" align="middle"></div>
 
 
 &nbsp;
