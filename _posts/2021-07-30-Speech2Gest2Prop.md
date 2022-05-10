@@ -57,7 +57,7 @@ We propose a new framework for gesture generation, aiming to allow data-driven a
 
 ### Citation format for the gesture property predictibility analysis:
 ```
-@inproceedings{kucherenko2021multimodal,
+@inproceedings{kucherenko2022multimodal,
   title={Multimodal analysis of the predictability of hand-gesture properties},
   author={Kucherenko, Taras and Nagy, Rajmund and Neff, Michael and Kjellstr{\"o}m, Hedvig and Henter, Gustav Eje},
   booktitle = {Proceedings of the  21st International Conference on Autonomous Agents and Multiagent Systems},
