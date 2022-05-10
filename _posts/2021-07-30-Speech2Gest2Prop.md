@@ -15,7 +15,7 @@ permalink: /speech2properties2gestures/
  <a href="https://arxiv.org/abs/2106.14736" style="font-size: 30px; text-decoration: none">[Project proposal (IVA'21 Honorable Mention)]  </a>  
  <br>
  <a href="https://arxiv.org/abs/2108.05762" style="font-size: 30px; text-decoration: none">[Analysis of gesture property predictability (AAMAS'22)]   </a>  
- <a href="https://doi.org/10.5281/zenodo.6534502" style="font-size: 30px; text-decoration: none"> [Data] </a>  
+ <a href="https://doi.org/10.5281/zenodo.6534502" style="font-size: 30px; text-decoration: none"> [SaGA++ Dataset] </a>  
  <b style="font-size: 30px; text-decoration: none"> [Code (coming soon) ]  </b>  
 </p>
 
