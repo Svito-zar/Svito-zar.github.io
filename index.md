@@ -69,6 +69,7 @@ My research is on machine learning models for non-verbal behavior generation, su
 ### **Academic Service**
 
 * <strong> Co-organizing </strong>
+    - ICMI'22 [Workshop](https://genea-workshop.github.io/2022/workshop) on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents
     - ICMI'21 [Workshop](https://genea-workshop.github.io/2021/) on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents
     - IVA'20 [Workshop](https://genea-workshop.github.io/2020/) on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents
     - [GESPIN 2020 Conference](http://sprakbanken.speech.kth.se/events/gespin/)
@@ -77,7 +78,7 @@ My research is on machine learning models for non-verbal behavior generation, su
 
 
 * <strong> Reviewer </strong> for
-    - HRI 2022, CHI 2022, CVPR 2022, AISTATS 2022
+    - HRI 2022, CHI 2022, CVPR 2022, AISTATS 2022, IVA 2022, ICMI 2022, SigGraph Asia 2022
     - ACII 2021, ICMI 2021, ROMAN 2021, ICCV 2021 Workshops
     - ECAI 2020, IJCAI 2020, SIGRAPH 2020, IVA 2020, ICMI 2020 LBR
     - ACII 2019, ICSR 2019
