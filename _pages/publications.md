@@ -10,7 +10,7 @@ The complete publication list can be found on \[[Google Scholar\]](https://schol
 
 ### 2022
 
-* Youngwoo Yoon\*, Pieter Wolfert\*, **Taras Kucherenko**\*, Carla Viegas, Teodor Nikolov, Mihail Tsakov, and Gustav Eje Henter. 2022. The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation. In Proceedings of the ACM International Conference on Multimodal Interaction (ICMI ’22). ACM.
+* Youngwoo Yoon\*, Pieter Wolfert\*, **Taras Kucherenko**\*, Carla Viegas, Teodor Nikolov, Mihail Tsakov, and Gustav Eje Henter. 2022. The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation. In Proceedings of the ACM International Conference on Multimodal Interaction (ICMI ’22). ACM. \[[Paper\]](../papers/yoon2022genea.pdf) \[[Project Page\]](https://youngwoo-yoon.github.io/GENEAchallenge2022/)
 
 * Yuan He, André Pereira, and **Taras Kucherenko**. *Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction.* (To appear at) International Conference on Intelligent Virtual Agents (IVA’22). 2022 \[[Paper\]](../papers/He_Pereira_Kucherenko_IVA_22_Final.pdf)
 
