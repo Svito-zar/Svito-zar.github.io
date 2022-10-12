@@ -27,7 +27,7 @@ My research is on machine learning models for non-verbal behavior generation, su
 <br>
 ### **Other news**
 
-* <strong>July 2022:</strong> Our paper [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://dl.acm.org/doi/pdf/10.1145/3514197.3549697) was accepted at [IVA 2022](https://ivaconference2022.ualg.pt/).
+* <strong>July 2022:</strong> Our paper [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://dl.acm.org/doi/10.1145/3514197.3549697?cid=99659309831) was accepted at [IVA 2022](https://ivaconference2022.ualg.pt/).
 * <strong>May 2022:</strong> Our paper [Multimodal analysis of the predictability of hand-gesture properties](https://ifaamas.org/Proceedings/aamas2022/pdfs/p770.pdf) was published at [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/).
 * <strong>Mar 2022:</strong> A challenge and a workshop accepted at [ICMI 2022](https://icmi.acm.org/2022/): the [GENEA Challenge 2022](https://genea-workshop.github.io/2022/challenge/) and the [GENEA Workshop 2022](https://genea-workshop.github.io/2022/workshop/). GENEA stands for Generation and Evaluation of Non-verbal Behaviour for Embodied Agents.
 * <strong>Feb 2022:</strong> I joined EA Games R&D department, called SEED, as research engineer.
