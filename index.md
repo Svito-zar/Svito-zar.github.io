@@ -27,6 +27,7 @@ My research is on machine learning models for non-verbal behavior generation, su
 <br>
 ### **Other news**
 
+* <strong>Nov 2022:</strong> GENEA challenge and a workshop presented at [ICMI 2022](https://icmi.acm.org/2022/. Here are their websites: the [GENEA Challenge 2022](https://genea-workshop.github.io/2022/challenge/) and the [GENEA Workshop 2022](https://genea-workshop.github.io/2022/workshop/). GENEA stands for Generation and Evaluation of Non-verbal Behaviour for Embodied Agents.
 * <strong>July 2022:</strong> Our paper [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://dl.acm.org/doi/10.1145/3514197.3549697?cid=99659309831) was accepted at [IVA 2022](https://ivaconference2022.ualg.pt/).
 * <strong>May 2022:</strong> Our paper [Multimodal analysis of the predictability of hand-gesture properties](https://ifaamas.org/Proceedings/aamas2022/pdfs/p770.pdf) was published at [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/).
 * <strong>Mar 2022:</strong> A challenge and a workshop accepted at [ICMI 2022](https://icmi.acm.org/2022/): the [GENEA Challenge 2022](https://genea-workshop.github.io/2022/challenge/) and the [GENEA Workshop 2022](https://genea-workshop.github.io/2022/workshop/). GENEA stands for Generation and Evaluation of Non-verbal Behaviour for Embodied Agents.
@@ -78,6 +79,7 @@ My research is on machine learning models for non-verbal behavior generation, su
 
 
 * <strong> Reviewer </strong> for
+    - FG 2023, IEEE VR 2023, EuroGraphics 2023
     - HRI 2022, CHI 2022, CVPR 2022, AISTATS 2022, IVA 2022, ICMI 2022, SigGraph Asia 2022
     - ACII 2021, ICMI 2021, ROMAN 2021, ICCV 2021 Workshops
     - ECAI 2020, IJCAI 2020, SIGRAPH 2020, IVA 2020, ICMI 2020 LBR
