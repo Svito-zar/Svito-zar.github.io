@@ -14,7 +14,7 @@ Below are my talks outside of Toastmasters.
 
 ### 2022
 
-* <strong>Dec.</strong> - talk about co-speech gesture generation at the [Nijmegen Gesture Centre](https://www.nijmegengesturecentre.org/) at [Radboud University](https://www.ru.nl/en)
+* <strong>Dec.</strong> - talk at the [Nijmegen Gesture Centre](https://www.nijmegengesturecentre.org/) at [Radboud University](https://www.ru.nl/en)
 * <strong>Aug.</strong> - talk about my work at the [WASP Summer School](https://internal.wasp-sweden.org/event/wasp-summer-school-synthesis/) on Synthesis of Human Communication
 * <strong>Jun.</strong> - talk about co-speech gesture synthesis for [ISIR Lab](https://www.isir.upmc.fr/?lang=en) at [Sorbonne University](https://www.sorbonne-universite.fr/en)
 
