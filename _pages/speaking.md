@@ -12,6 +12,10 @@ You can see speeches I gave at Loki Toastmasters [here](https://www.youtube.com/
 
 Below are my talks outside of Toastmasters.
 
+### 2022
+
+* <strong>Jun.</strong> - talk about co-speech gesture synthesis for [ISIR Lab](https://www.isir.upmc.fr/?lang=en) at [Sorbonne University](https://www.sorbonne-universite.fr/en)
+
 ### 2021
 * <strong>Nov.</strong> - talk about my research on co-speech gesture synthesis for [Social AI and Robotics (SAIR) Lab](https://sairlab.github.io/) at [King's College London](https://www.kcl.ac.uk/)
 * <strong>Nov.</strong> - talk about my research on co-speech gesture synthesis for [Affective Intelligence and Robotics Laboratory](https://cambridge-afar.github.io/) at [Cambridge University](https://www.cam.ac.uk/)
