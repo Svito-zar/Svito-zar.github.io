@@ -13,6 +13,7 @@ I am a Research Scientist at EA Games. Recently I finished my PhD at KTH Royal I
 
 My research is on machine learning models for non-verbal behavior generation, such as hand gestures and facial expressions. One of my talks about it you can find [in this video](https://youtu.be/JeMwtr8pxcc). My favorite project, GENEA Challenge 2022, can be found on [this project page](https://youngwoo-yoon.github.io/GENEAchallenge2022/). My thesis is publicly available at [this url](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1609615&dswid=9110).
 
+I come from Ukraine and my country has been invaded by Russia causing lots of suffering to the people. If you want to help - you can find many ways to do that in [this website](https://supportukrainenow.org/).
 
 
 <br>
