@@ -14,7 +14,7 @@ The complete publication list can be found on \[[Google Scholar\]](https://schol
 
 * Yuan He, André Pereira, and **Taras Kucherenko**. *Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction.* International Conference on Intelligent Virtual Agents (IVA’22). 2022 \[[Paper\]](https://dl.acm.org/doi/10.1145/3514197.3549697?cid=99659309831) \[[Project Page\]](https://www.yaeh.io/research/hci/presentingbot)
 
-* **Taras Kucherenko**, Rajmund Nagy, Michael Neff, Hedvig Kjellström, and Gustav Eje Henter. *Multimodal analysis of the predictability of hand-gesture properties*. 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS). 2022 \[[Paper\]](https://ifaamas.org/Proceedings/aamas2022/pdfs/p770.pdf) \[[Project Page\]](../_posts/2021-07-30-Speech2Gest2Prop.md)
+* **Taras Kucherenko**, Rajmund Nagy, Michael Neff, Hedvig Kjellström, and Gustav Eje Henter. *Multimodal analysis of the predictability of hand-gesture properties*. 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS). 2022 \[[Paper\]](https://ifaamas.org/Proceedings/aamas2022/pdfs/p770.pdf) \[[Project Page\]](../_posts/2021-07-30-Speech2Gest2Prop.md) \[[Video\]](https://www.youtube.com/watch?v=uK7R3YYxC9Q)
 
 ### 2021
 
