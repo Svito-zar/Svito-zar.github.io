@@ -9,9 +9,9 @@ exclude: true
 
 
 <img style="float: left; border: 5px solid white; padding-right: 10px;" src="assets/Prof_pic.jpg" height="230" alt="portrait">
-I am a Research Scientist at EA Games. Recently I finished my PhD at KTH Royal Institute of Technology in Stockholm. My main supervisor was [Hedvig Kjellström](http://www.csc.kth.se/~hedvig/) and co-supervisors were [Gustav Eje Henter](https://people.kth.se/~ghe/), Jonas Beskow and [Iolanda Leite](https://iolandaleite.com/).
+I am a Research Scientist at Electronic Arts (EA). Recently I finished my PhD at KTH Royal Institute of Technology in Stockholm. My main supervisor was [Hedvig Kjellström](http://www.csc.kth.se/~hedvig/) and co-supervisors were [Gustav Eje Henter](https://people.kth.se/~ghe/), Jonas Beskow and [Iolanda Leite](https://iolandaleite.com/).
 
-My research is on machine learning models for non-verbal behavior generation, such as hand gestures and facial expressions. One of my talks about it you can find [in this video](https://youtu.be/JeMwtr8pxcc). My favorite project, GENEA Challenge 2022, can be found on [this project page](https://youngwoo-yoon.github.io/GENEAchallenge2022/). My thesis is publicly available at [this url](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1609615&dswid=9110).
+My PhD research was on machine learning models for non-verbal behavior generation, such as hand gestures and facial expressions. One of my talks about it you can find [in this video](https://youtu.be/JeMwtr8pxcc). My favorite project, GENEA Challenge 2022, can be found on [this project page](https://youngwoo-yoon.github.io/GENEAchallenge2022/). My thesis is publicly available at [this url](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1609615&dswid=9110).
 
 I come from Ukraine and my country has been invaded by Russia causing lots of suffering to the people. If you want to help - you can find many ways to do that in [this website](https://supportukrainenow.org/).
 
@@ -28,6 +28,7 @@ I come from Ukraine and my country has been invaded by Russia causing lots of su
 <br>
 ### **Other news**
 
+* <strong>Nov 2022:</strong> Our paper [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://dl.acm.org/doi/10.1145/3536221.3558058) was published at [ICMI 2022](https://icmi.acm.org/2022/).
 * <strong>Nov 2022:</strong> GENEA challenge and a workshop are presented at [ICMI 2022](https://icmi.acm.org/2022/). Here are their websites: the [GENEA Challenge 2022](https://genea-workshop.github.io/2022/challenge/) and the [GENEA Workshop 2022](https://genea-workshop.github.io/2022/workshop/). GENEA stands for Generation and Evaluation of Non-verbal Behaviour for Embodied Agents.
 * <strong>July 2022:</strong> Our paper [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://dl.acm.org/doi/10.1145/3514197.3549697?cid=99659309831) was accepted at [IVA 2022](https://ivaconference2022.ualg.pt/).
 * <strong>May 2022:</strong> Our paper [Multimodal analysis of the predictability of hand-gesture properties](https://ifaamas.org/Proceedings/aamas2022/pdfs/p770.pdf) was published at [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/).
