@@ -28,6 +28,7 @@ I come from Ukraine and my country has been invaded by Russia causing lots of su
 <br>
 ### **Other news**
 
+* <strong>Feb 2023:</strong> [GENEA Challenge 2023](https://genea-workshop.github.io/2023/challenge/) was accepted at [ICMI 2022](https://icmi.acm.org/2022/) as a Multimodal Grand Challenge.
 * <strong>Nov 2022:</strong> Our paper [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://dl.acm.org/doi/10.1145/3536221.3558058) was published at [ICMI 2022](https://icmi.acm.org/2022/).
 * <strong>Nov 2022:</strong> GENEA challenge and a workshop are presented at [ICMI 2022](https://icmi.acm.org/2022/). Here are their websites: the [GENEA Challenge 2022](https://genea-workshop.github.io/2022/challenge/) and the [GENEA Workshop 2022](https://genea-workshop.github.io/2022/workshop/). GENEA stands for Generation and Evaluation of Non-verbal Behaviour for Embodied Agents.
 * <strong>July 2022:</strong> Our paper [Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction](https://dl.acm.org/doi/10.1145/3514197.3549697?cid=99659309831) was accepted at [IVA 2022](https://ivaconference2022.ualg.pt/).
