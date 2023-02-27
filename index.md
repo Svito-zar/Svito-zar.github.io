@@ -28,6 +28,7 @@ I come from Ukraine and my country has been invaded by Russia causing lots of su
 <br>
 ### **Other news**
 
+* <strong>Feb 2023:</strong> Our paper [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) was accepted at [EuroGraphics 2023](https://eg2023.saarland-informatics-campus.de/).
 * <strong>Feb 2023:</strong> [GENEA Challenge 2023](https://genea-workshop.github.io/2023/challenge/) was accepted at [ICMI 2023](https://icmi.acm.org/2023/) as a Multimodal Grand Challenge.
 * <strong>Nov 2022:</strong> Our paper [The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation](https://dl.acm.org/doi/10.1145/3536221.3558058) was published at [ICMI 2022](https://icmi.acm.org/2022/).
 * <strong>Nov 2022:</strong> GENEA challenge and a workshop are presented at [ICMI 2022](https://icmi.acm.org/2022/). Here are their websites: the [GENEA Challenge 2022](https://genea-workshop.github.io/2022/challenge/) and the [GENEA Workshop 2022](https://genea-workshop.github.io/2022/workshop/). GENEA stands for Generation and Evaluation of Non-verbal Behaviour for Embodied Agents.
@@ -82,7 +83,7 @@ I come from Ukraine and my country has been invaded by Russia causing lots of su
 
 
 * <strong> Reviewer </strong> for
-    - FG 2023, IEEE VR 2023, EuroGraphics 2023, CVPR 2023
+    - FG 2023, IEEE VR 2023, EuroGraphics 2023, CVPR 2023, SIGRAPH 2023
     - HRI 2022, CHI 2022, CVPR 2022, AISTATS 2022, IVA 2022, ICMI 2022, SigGraph Asia 2022
     - ACII 2021, ICMI 2021, ROMAN 2021, ICCV 2021 Workshops
     - ECAI 2020, IJCAI 2020, SIGRAPH 2020, IVA 2020, ICMI 2020 LBR
