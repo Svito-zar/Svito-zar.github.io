@@ -8,6 +8,10 @@ permalink: /publications/
 
 The complete publication list can be found on \[[Google Scholar\]](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en), \[[DBLP\]](https://dblp.uni-trier.de/pers/hd/k/Kucherenko:Taras), and \[[ResearchGate\]](https://www.researchgate.net/profile/Taras_Kucherenko).
 
+### 2023
+
+* Simba Nyatsanga, **Taras Kucherenko**, Chaitanya  Ahuja, Gustav Eje Henter, and Michael Neff. (2023). A Comprehensive Review of Data-Driven Co-Speech Gesture Generation. EuroGraphics 2023. \[[Paper\]](https://arxiv.org/abs/2301.05339)
+
 ### 2022
 
 * Youngwoo Yoon\*, Pieter Wolfert\*, **Taras Kucherenko**\*, Carla Viegas, Teodor Nikolov, Mihail Tsakov, and Gustav Eje Henter. 2022. *The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation*. In Proceedings of the ACM International Conference on Multimodal Interaction (ICMI ’22). ACM. \[[Paper\]](https://dl.acm.org/doi/10.1145/3536221.3558058) \[[Project Page\]](https://youngwoo-yoon.github.io/GENEAchallenge2022/) \[[Video\]](https://www.youtube.com/watch?v=4n02wXGGnd0)
