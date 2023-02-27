@@ -10,7 +10,7 @@ The complete publication list can be found on \[[Google Scholar\]](https://schol
 
 ### 2023
 
-* Simba Nyatsanga, **Taras Kucherenko**, Chaitanya  Ahuja, Gustav Eje Henter, and Michael Neff. (2023). A Comprehensive Review of Data-Driven Co-Speech Gesture Generation. EuroGraphics 2023. \[[Paper\]](https://arxiv.org/abs/2301.05339)
+* Simba Nyatsanga, **Taras Kucherenko**, Chaitanya  Ahuja, Gustav Eje Henter, and Michael Neff. (2023). *A Comprehensive Review of Data-Driven Co-Speech Gesture Generation*. In Computer Graphics Forum (EuroGraphics 2023). \[[Paper\]](https://arxiv.org/abs/2301.05339)
 
 ### 2022
 
