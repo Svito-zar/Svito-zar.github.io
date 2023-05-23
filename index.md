@@ -19,7 +19,8 @@ I come from Ukraine and my country has been invaded by Russia causing lots of su
 <br>
 ### **Awards**
 
-* <strong>Oct 2021:</strong> I have got the [ICMI 2021](https://icmi.acm.org/2021/) Best Reviewer Award!
+* <strong>May 2023:</strong> [CVPR 2023](https://cvpr2023.thecvf.com/) Outstanding Reviewer [Award]((https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers)!
+* <strong>Oct 2021:</strong> [ICMI 2021](https://icmi.acm.org/2021/) Best Reviewer Award!
 * <strong>Sept 2021:</strong> Our paper [Speech2Properties2Gestures](https://dl.acm.org/doi/10.1145/3472306.3478333?cid=99659309831) received Honourable Mention award at [IVA 2021](https://sites.google.com/view/iva2021/).
 * <strong>Oct 2020:</strong> [Gesticulator](https://svito-zar.github.io/gesticulator/) have got the ICMI 2020 Best Paper Award!
 * <strong>Oct 2020:</strong> [Let's face it](https://jonepatr.github.io/lets_face_it/) received the IVA 2020 Best Paper Award!
