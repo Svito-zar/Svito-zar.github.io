@@ -10,6 +10,9 @@ The complete publication list can be found on \[[Google Scholar\]](https://schol
 
 ### 2023
 
+* **Taras Kucherenko**\*, Rajmund Nagy\*, Youngwoo Yoon\*, Jieyeon Woo, Teodor Nikolov,
+Mihail Tsakov, and Gustav Eje Henter. 2023. The GENEA Challenge 2023: A large scale evaluation of gesture generation models in monadic and dyadic settings. In Proceedings of the ACM International Conference on Multimodal Interaction (ICMI’23). ACM. \[[Project Page\]](../_posts/2023-08-09-GENEA_challenge_2023.md)
+
 * Simba Nyatsanga, **Taras Kucherenko**, Chaitanya  Ahuja, Gustav Eje Henter, and Michael Neff. (2023). *A Comprehensive Review of Data-Driven Co-Speech Gesture Generation*. In Computer Graphics Forum (EuroGraphics 2023). \[[Paper\]](https://onlinelibrary.wiley.com/share/author/DDQZBGFBSAXVJAWJXCWE?target=10.1111/cgf.14776) \[[Project Page\]](https://www.ea.com/seed/news/seed-eurographics2023-review-of-data-driven-co-speech-gesture-generation)
 
 ### 2022
