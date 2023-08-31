@@ -11,6 +11,10 @@ permalink: /GENEAchallenge2023/
 <p align="center" style="font-size: 32px;"> <a href="https://svito-zar.github.io/">Taras Kucherenko</a>, <a href="https://nagyrajmund.github.io/">Rajmund Nagy</a>,  <a href="https://sites.google.com/view/youngwoo-yoon/">Youngwoo Yoon</a>, <a href="https://www.jieywoo.com/"> Jieyeon Woo</a>, <a href="http://teonikolov.com/"> Teodor Nikolov</a>, <a href="https://liahim.net"> Mihail Tsakov</a>, <br/> <a href="https://people.kth.se/~ghe/"> Gustav Eje Henter</a> 
 </p>
 
+<p align="center">
+ <a href="https://arxiv.org/abs/2308.12646" style="font-size: 28px; text-decoration: none">[conference paper (ICMI 2023)]   </a>   
+</p>
+
 <div style="text-align:center"><img src="../assets/visualiser.gif" alt="GENEA figure" align="middle"></div>
 
 &nbsp;
