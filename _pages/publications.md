@@ -11,7 +11,7 @@ The complete publication list can be found on \[[Google Scholar\]](https://schol
 ### 2023
 
 * **Taras Kucherenko**\*, Rajmund Nagy\*, Youngwoo Yoon\*, Jieyeon Woo, Teodor Nikolov,
-Mihail Tsakov, and Gustav Eje Henter. 2023. The GENEA Challenge 2023: A large scale evaluation of gesture generation models in monadic and dyadic settings. In Proceedings of the ACM International Conference on Multimodal Interaction (ICMI’23). ACM. \[[Paper\]](https://arxiv.org/abs/2308.12646) \[[Project Page\]](../_posts/2023-08-09-GENEA_challenge_2023.md)
+Mihail Tsakov, and Gustav Eje Henter. 2023. The GENEA Challenge 2023: A large scale evaluation of gesture generation models in monadic and dyadic settings. In Proceedings of the ACM International Conference on Multimodal Interaction (ICMI’23). ACM. \[[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3577190.3616120) \[[Project Page\]](../_posts/2023-08-09-GENEA_challenge_2023.md)
 
 
 

@@ -12,7 +12,7 @@ permalink: /GENEAchallenge2023/
 </p>
 
 <p align="center">
- <a href="https://arxiv.org/abs/2308.12646" style="font-size: 28px; text-decoration: none">[conference paper (ICMI 2023)]   </a>   
+ <a href="https://dl.acm.org/doi/pdf/10.1145/3577190.3616120" style="font-size: 28px; text-decoration: none">[conference paper (ICMI 2023)]   </a>   
 </p>
 
 <div style="text-align:center"><img src="../assets/visualiser.gif" alt="GENEA figure" align="middle"></div>
