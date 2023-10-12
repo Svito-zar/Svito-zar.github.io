@@ -4,6 +4,15 @@ title: Videos
 permalink: /portfolio/
 ---
 
+
+### 2023
+
+Taras Kucherenko\*, Rajmund Nagy\*, Youngwoo Yoon\*, Jieyeon Woo, Teodor Nikolov,
+Mihail Tsakov, and Gustav Eje Henter. 2023. The GENEA Challenge 2023: A large scale evaluation of gesture generation models in monadic and dyadic settings. In Proceedings of the ACM International Conference on Multimodal Interaction (ICMI’23). ACM.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HleKFkEvCXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### 2022
 
 Youngwoo Yoon\*, Pieter Wolfert\*, Taras Kucherenko\*, Carla Viegas, Teodor Nikolov, Mihail Tsakov, and Gustav Eje Henter. *The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation*. In Proceedings of the ACM International Conference on Multimodal Interaction (ICMI). 2022
