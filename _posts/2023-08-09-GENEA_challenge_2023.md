@@ -43,6 +43,8 @@ permalink: /GENEAchallenge2023/
 <p style="font-size: 18px;"> User-study video stimuli  <a href="https://doi.org/10.5281/zenodo.8211448"> DOI: 10.5281/zenodo.8211448 </a> </p> 
 
 <p style="font-size: 18px;"> Submitted BVH files <a href="https://doi.org/10.5281/zenodo.8146027"> DOI: 10.5281/zenodo.8146027 </a> </p> 
+
+<p style="font-size: 18px;"> Human-likeness user-study results <a href="https://doi.org/10.5281/zenodo.8434117"> DOI: 10.5281/zenodo.8434117 </a> </p> 
 <br>
 <br>
 </div>
