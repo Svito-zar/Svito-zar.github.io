@@ -60,6 +60,11 @@ permalink: /GENEAchallenge2023/
 <br>
 </div>
 
+&nbsp;
+
+***
+&nbsp;
+
 <section class="iva-section p-3 p-lg-5 d-flex align-items-center" id="accepted-papers">
                     <div class="w-100">
                         <h2 class="mb-5">Challenge papers</h2>
@@ -157,10 +162,7 @@ permalink: /GENEAchallenge2023/
                         <i>Gwantae Kim, Yuanming Li, Hanseok Ko</i> [<a
                             href="https://openreview.net/forum?id=Mm44wlJICIj" target="_blank">OpenReview</a>]<br><br>
                         </p>
-                    </div>
-</section>
 
-<br>
 <br>
 <br>
 
