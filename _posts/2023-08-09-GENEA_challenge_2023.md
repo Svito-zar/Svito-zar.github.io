@@ -15,7 +15,8 @@ permalink: /GENEAchallenge2023/
  <a href="https://dl.acm.org/doi/pdf/10.1145/3577190.3616120" style="font-size: 28px; text-decoration: none">[conference paper (ICMI 2023)]   </a>   
 </p>
 
-<div style="text-align:center"><img src="../assets/visualiser.gif" alt="GENEA figure" align="middle"></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HleKFkEvCXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 &nbsp;
 
