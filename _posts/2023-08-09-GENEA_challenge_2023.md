@@ -162,6 +162,8 @@ permalink: /GENEAchallenge2023/
                         <i>Gwantae Kim, Yuanming Li, Hanseok Ko</i> [<a
                             href="https://openreview.net/forum?id=Mm44wlJICIj" target="_blank">OpenReview</a>]<br><br>
                         </p>
+</div>
+</section>
 
 <br>
 <br>
