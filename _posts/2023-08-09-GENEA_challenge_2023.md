@@ -112,16 +112,18 @@ permalink: /GENEAchallenge2023/
                         <p>
                         <h4>FEIN-Z: Autoregressive Behavior Cloning for Speech-Driven Gesture Generation</h4>
                         <i>Leon Harz, Hendric Voß, Stefan Kopp</i> [<a
-                            href="https://openreview.net/forum?id=FovoQL3nygw" target="_blank">OpenReview</a>]<br><br>
+                            href="https://openreview.net/forum?id=FovoQL3nygw" target="_blank">OpenReview</a>] [<a
+                            href="https://doi.org/10.1145/3577190.3616115" target="_blank">ACM ICMI</a>]
+                        <br><br>
                         </p>
                         <hr>
 
                         <p>
                         <h4>The DiffuseStyleGesture+ entry to the GENEA Challenge 2023</h4>
-                        <i>Sicheng Yang, Haiwei Xue, Zhensong Zhang, Minglei Li, Zhiyong Wu, Xiaofei Wu, Songcen Xu,
-                            Zonghong
-                            Dai</i> [<a href="https://openreview.net/forum?id=zrcgseqv0n2"
-                            target="_blank">OpenReview</a>]<br><br>
+                        <i>Sicheng Yang, Haiwei Xue, Zhensong Zhang, Minglei Li, Zhiyong Wu, Xiaofei Wu, Songcen Xu, Zonghong Dai</i> [<a href="https://openreview.net/forum?id=zrcgseqv0n2"
+                            target="_blank">OpenReview</a>] [<a
+                            href="https://doi.org/10.1145/3577190.3616114" target="_blank">ACM ICMI</a>]
+                        <br><br>
                         </p>
                         <hr>
 
