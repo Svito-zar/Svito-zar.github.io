@@ -75,7 +75,9 @@ permalink: /GENEAchallenge2023/
                             generation
                         </h4>
                         <i>Vladislav Korzun, Anna Beloborodova, Arkady Ilin</i> [<a
-                            href="https://openreview.net/forum?id=pVBKLqpAUtP" target="_blank">OpenReview</a>]<br><br>
+                            href="https://openreview.net/forum?id=pVBKLqpAUtP" target="_blank">OpenReview</a>] [<a
+                            href="https://doi.org/10.1145/3577190.3616119" target="_blank">ACM ICMI</a>]
+                        <br><br>
                         </p>
                         <hr>
 
