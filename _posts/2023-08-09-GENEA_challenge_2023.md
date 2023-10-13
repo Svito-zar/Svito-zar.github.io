@@ -84,7 +84,9 @@ permalink: /GENEAchallenge2023/
                         <p>
                         <h4>Gesture Motion Graphs for Few-Shot Speech-Driven Gesture Reenactment</h4>
                         <i>Zeyu Zhao, Nan Gao, Zhi Zeng, Guixuan Zhang, Jie Liu, Shuwu Zhang</i> [<a
-                            href="https://openreview.net/forum?id=CMivR3x5fpC" target="_blank">OpenReview</a>]<br><br>
+                            href="https://openreview.net/forum?id=CMivR3x5fpC" target="_blank">OpenReview</a>] [<a
+                            href="https://doi.org/10.1145/3577190.3616118" target="_blank">ACM ICMI</a>]
+                        <br><br>
                         </p>
                         <hr>
 
