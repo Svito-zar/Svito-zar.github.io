@@ -130,25 +130,27 @@ permalink: /GENEAchallenge2023/
                         <p>
                         <h4>Discrete Diffusion for Co-Speech Gesture Synthesis</h4>
                         <i>Ankur Chemburkar, Shuhong Lu, Andrew Feng</i> [<a
-                            href="https://openreview.net/forum?id=xPQcKA56N4j" target="_blank">OpenReview</a>]<br><br>
+                            href="https://openreview.net/forum?id=xPQcKA56N4j" target="_blank">OpenReview</a>] [<a
+                            href="https://doi.org/10.1145/3610661.3616556" target="_blank">ACM ICMI</a>]
+                        <br><br>
                         </p>
                         <hr>
 
                         <p>
-                        <h4>The KCL-SAIR team's entry to the GENEA Challenge 2023 Exploring Role-based Gesture
-                            Generation in
-                            Dyadic Interactions: Listener vs. Speaker</h4>
+                        <h4>The KCL-SAIR team's entry to the GENEA Challenge 2023 Exploring Role-based Gesture Generation in Dyadic Interactions: Listener vs. Speaker</h4>
                         <i>Viktor Schmuck, Nguyen Tan Viet Tuyen, Oya Celiktutan</i> [<a
-                            href="https://openreview.net/forum?id=oW4rUGjbMYg" target="_blank">OpenReview</a>]<br><br>
+                            href="https://openreview.net/forum?id=oW4rUGjbMYg" target="_blank">OpenReview</a>] [<a
+                            href="https://doi.org/10.1145/3610661.3616555" target="_blank">ACM ICMI</a>]
+                        <br><br>
                         </p>
                         <hr>
 
                         <p>
                         <h4>Gesture Generation with Diffusion Models Aided by Speech Activity Information</h4>
-                        <i>Rodolfo Luis Tonoli, Leonardo Boulitreau de Menezes Martins Marques, Lucas Hideki Ueda, Paula
-                            Paro
-                            Dornhofer Costa</i> [<a href="https://openreview.net/forum?id=S9Efb3MoiZ"
-                            target="_blank">OpenReview</a>]<br><br>
+                        <i>Rodolfo Luis Tonoli, Leonardo Boulitreau de Menezes Martins Marques, Lucas Hideki Ueda, Paula Paro Dornhofer Costa</i> [<a href="https://openreview.net/forum?id=S9Efb3MoiZ"
+                            target="_blank">OpenReview</a>] [<a
+                            href="https://doi.org/10.1145/3610661.3616554" target="_blank">ACM ICMI</a>]
+                        <br><br>
                         </p>
                         <hr>
 
