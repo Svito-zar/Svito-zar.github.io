@@ -183,10 +183,6 @@ permalink: /GENEAchallenge2023/
 </section>
 
 
-<br>
-<br>
-
-
 &nbsp;
 
 ***
