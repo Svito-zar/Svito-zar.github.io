@@ -157,23 +157,27 @@ permalink: /GENEAchallenge2023/
                         <p>
                         <h4>Co-Speech Gesture Generation via Audio and Text Feature Engineering</h4>
                         <i>Geunmo Kim, Jaewoong Yoo, Hyedong Jung</i> [<a
-                            href="https://openreview.net/forum?id=mK2qMNf0_Nd" target="_blank">OpenReview</a>]<br><br>
+                            href="https://openreview.net/forum?id=mK2qMNf0_Nd" target="_blank">OpenReview</a>] [<a
+                            href="https://doi.org/10.1145/3610661.3616553" target="_blank">ACM ICMI</a>]
+                        <br><br>
                         </p>
                         <hr>
 
                         <p>
                         <h4>DiffuGesture: Generating Human Gesture From Two-person Dialogue With Diffusion Models</h4>
                         <i>Weiyu Zhao, Liangxiao Hu, Shengping Zhang</i> [<a
-                            href="https://openreview.net/forum?id=swc28UDR8Wk" target="_blank">OpenReview</a>]<br><br>
+                            href="https://openreview.net/forum?id=swc28UDR8Wk" target="_blank">OpenReview</a>] [<a
+                            href="https://doi.org/10.1145/3610661.3616552" target="_blank">ACM ICMI</a>]
+                        <br><br>
                         </p>
                         <hr>
 
                         <p>
-                        <h4>The KU-ISPL entry to the GENEA Challenge 2023-A Diffusion Model for Co-speech Gesture
-                            generation
-                        </h4>
+                        <h4>The KU-ISPL entry to the GENEA Challenge 2023-A Diffusion Model for Co-speech Gesture generation </h4>
                         <i>Gwantae Kim, Yuanming Li, Hanseok Ko</i> [<a
-                            href="https://openreview.net/forum?id=Mm44wlJICIj" target="_blank">OpenReview</a>]<br><br>
+                            href="https://openreview.net/forum?id=Mm44wlJICIj" target="_blank">OpenReview</a>] [<a
+                            href="https://doi.org/10.1145/3610661.3616551" target="_blank">ACM ICMI</a>]
+                        <br><br>
                         </p>
 
 </section>
