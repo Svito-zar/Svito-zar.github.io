@@ -84,18 +84,14 @@ permalink: /GENEAchallenge2023/
                         <p>
                         <h4>Gesture Motion Graphs for Few-Shot Speech-Driven Gesture Reenactment</h4>
                         <i>Zeyu Zhao, Nan Gao, Zhi Zeng, Guixuan Zhang, Jie Liu, Shuwu Zhang</i> [<a
-                            href="https://openreview.net/forum?id=CMivR3x5fpC" target="_blank">OpenReview</a>] [<a
-                            href="https://doi.org/10.1145/3577190.3616118" target="_blank">ACM ICMI</a>]
-                        <br><br>
+                            href="https://openreview.net/forum?id=CMivR3x5fpC" target="_blank">OpenReview</a>]<br><br>
                         </p>
                         <hr>
 
                         <p>
                         <h4>Diffusion-based co-speech gesture generation using joint text and audio representation</h4>
                         <i> Anna Deichler, Shivam Mehta, Simon Alexanderson, Jonas Beskow</i> [<a
-                            href=" https://openreview.net/forum?id=vD3_u_kbkqS" target="_blank">OpenReview</a>] [<a
-                            href="https://doi.org/10.1145/3577190.3616117" target="_blank">ACM ICMI</a>] 
-                        <br><br>
+                            href=" https://openreview.net/forum?id=vD3_u_kbkqS" target="_blank">OpenReview</a>]<br><br>
                         </p>
                         <hr>
 
@@ -103,18 +99,14 @@ permalink: /GENEAchallenge2023/
                         <p>
                         <h4>The UEA Digital Humans entry to the GENEA Challenge 2023</h4>
                         <i>Jonathan Windle, Iain Matthews, Ben Milner, Sarah Taylor</i> [<a
-                            href="https://openreview.net/forum?id=bBrebR1YpXe" target="_blank">OpenReview</a>] [<a
-                            href="https://doi.org/10.1145/3577190.3616116" target="_blank">ACM ICMI</a>] 
-                        <br><br>
+                            href="https://openreview.net/forum?id=bBrebR1YpXe" target="_blank">OpenReview</a>]<br><br>
                         </p>
                         <hr>
 
                         <p>
                         <h4>FEIN-Z: Autoregressive Behavior Cloning for Speech-Driven Gesture Generation</h4>
                         <i>Leon Harz, Hendric Voß, Stefan Kopp</i> [<a
-                            href="https://openreview.net/forum?id=FovoQL3nygw" target="_blank">OpenReview</a>] [<a
-                            href="https://doi.org/10.1145/3577190.3616115" target="_blank">ACM ICMI</a>]  
-                        <br><br>
+                            href="https://openreview.net/forum?id=FovoQL3nygw" target="_blank">OpenReview</a>]<br><br>
                         </p>
                         <hr>
 
@@ -123,18 +115,14 @@ permalink: /GENEAchallenge2023/
                         <i>Sicheng Yang, Haiwei Xue, Zhensong Zhang, Minglei Li, Zhiyong Wu, Xiaofei Wu, Songcen Xu,
                             Zonghong
                             Dai</i> [<a href="https://openreview.net/forum?id=zrcgseqv0n2"
-                            target="_blank">OpenReview</a>] [<a
-                            href="https://doi.org/10.1145/3577190.3616114" target="_blank">ACM ICMI</a>] 
-                        <br><br>
+                            target="_blank">OpenReview</a>]<br><br>
                         </p>
                         <hr>
 
                         <p>
                         <h4>Discrete Diffusion for Co-Speech Gesture Synthesis</h4>
                         <i>Ankur Chemburkar, Shuhong Lu, Andrew Feng</i> [<a
-                            href="https://openreview.net/forum?id=xPQcKA56N4j" target="_blank">OpenReview</a>] [<a
-                            href="https://doi.org/10.1145/3610661.3616556" target="_blank">ACM ICMI</a>] 
-                        <br><br>
+                            href="https://openreview.net/forum?id=xPQcKA56N4j" target="_blank">OpenReview</a>]<br><br>
                         </p>
                         <hr>
 
@@ -143,9 +131,7 @@ permalink: /GENEAchallenge2023/
                             Generation in
                             Dyadic Interactions: Listener vs. Speaker</h4>
                         <i>Viktor Schmuck, Nguyen Tan Viet Tuyen, Oya Celiktutan</i> [<a
-                            href="https://openreview.net/forum?id=oW4rUGjbMYg" target="_blank">OpenReview</a>] [<a
-                            href="https://doi.org/10.1145/3610661.3616555" target="_blank">ACM ICMI</a>] 
-                        <br><br>
+                            href="https://openreview.net/forum?id=oW4rUGjbMYg" target="_blank">OpenReview</a>]<br><br>
                         </p>
                         <hr>
 
@@ -154,27 +140,21 @@ permalink: /GENEAchallenge2023/
                         <i>Rodolfo Luis Tonoli, Leonardo Boulitreau de Menezes Martins Marques, Lucas Hideki Ueda, Paula
                             Paro
                             Dornhofer Costa</i> [<a href="https://openreview.net/forum?id=S9Efb3MoiZ"
-                            target="_blank">OpenReview</a>] [<a
-                            href="https://doi.org/10.1145/3610661.3616554" target="_blank">ACM ICMI</a>] 
-                        <br><br>
+                            target="_blank">OpenReview</a>]<br><br>
                         </p>
                         <hr>
 
                         <p>
                         <h4>Co-Speech Gesture Generation via Audio and Text Feature Engineering</h4>
                         <i>Geunmo Kim, Jaewoong Yoo, Hyedong Jung</i> [<a
-                            href="https://openreview.net/forum?id=mK2qMNf0_Nd" target="_blank">OpenReview</a>] [<a
-                            href="https://doi.org/10.1145/3610661.3616553" target="_blank">ACM ICMI</a>] 
-                        <br><br>
+                            href="https://openreview.net/forum?id=mK2qMNf0_Nd" target="_blank">OpenReview</a>]<br><br>
                         </p>
                         <hr>
 
                         <p>
                         <h4>DiffuGesture: Generating Human Gesture From Two-person Dialogue With Diffusion Models</h4>
                         <i>Weiyu Zhao, Liangxiao Hu, Shengping Zhang</i> [<a
-                            href="https://openreview.net/forum?id=swc28UDR8Wk" target="_blank">OpenReview</a>] [<a
-                            href="https://doi.org/10.1145/3610661.3616552" target="_blank">ACM ICMI</a>] 
-                        <br><br>
+                            href="https://openreview.net/forum?id=swc28UDR8Wk" target="_blank">OpenReview</a>]<br><br>
                         </p>
                         <hr>
 
@@ -183,9 +163,7 @@ permalink: /GENEAchallenge2023/
                             generation
                         </h4>
                         <i>Gwantae Kim, Yuanming Li, Hanseok Ko</i> [<a
-                            href="https://openreview.net/forum?id=Mm44wlJICIj" target="_blank">OpenReview</a>] [<a
-                            href="https://doi.org/10.1145/3610661.3616551" target="_blank">ACM ICMI</a>] 
-                        <br><br>
+                            href="https://openreview.net/forum?id=Mm44wlJICIj" target="_blank">OpenReview</a>]<br><br>
                         </p>
 
 </section>
@@ -217,5 +195,3 @@ permalink: /GENEAchallenge2023/
   year={2023}
 }
 ```
-
-
