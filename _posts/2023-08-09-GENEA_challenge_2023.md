@@ -93,7 +93,9 @@ permalink: /GENEAchallenge2023/
                         <p>
                         <h4>Diffusion-based co-speech gesture generation using joint text and audio representation</h4>
                         <i> Anna Deichler, Shivam Mehta, Simon Alexanderson, Jonas Beskow</i> [<a
-                            href=" https://openreview.net/forum?id=vD3_u_kbkqS" target="_blank">OpenReview</a>]<br><br>
+                            href=" https://openreview.net/forum?id=vD3_u_kbkqS" target="_blank">OpenReview</a>] [<a
+                            href="https://doi.org/10.1145/3577190.3616117" target="_blank">ACM ICMI</a>]
+                        <br><br>
                         </p>
                         <hr>
 
@@ -101,7 +103,9 @@ permalink: /GENEAchallenge2023/
                         <p>
                         <h4>The UEA Digital Humans entry to the GENEA Challenge 2023</h4>
                         <i>Jonathan Windle, Iain Matthews, Ben Milner, Sarah Taylor</i> [<a
-                            href="https://openreview.net/forum?id=bBrebR1YpXe" target="_blank">OpenReview</a>]<br><br>
+                            href="https://openreview.net/forum?id=bBrebR1YpXe" target="_blank">OpenReview</a>] [<a
+                            href="https://doi.org/10.1145/3577190.3616116" target="_blank">ACM ICMI</a>]
+                        <br><br>
                         </p>
                         <hr>
 
