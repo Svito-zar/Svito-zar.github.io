@@ -65,6 +65,14 @@ permalink: /GENEAchallenge2023/
 ***
 &nbsp;
 
+<section class="iva-section p-3 p-lg-5 d-flex align-items-center" id="accepted-papers">
+                    <div class="w-100">
+                        <h2 class="mb-5">Challenge papers</h2>
+                        <p>
+                        <p>
+                    </div>
+</section>
+
 
 <br>
 <br>
