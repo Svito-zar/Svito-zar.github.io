@@ -7,10 +7,15 @@ permalink: /speaking/
 
 <iframe width="610" height="345" src="https://www.youtube.com/embed/JeMwtr8pxcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I have been practicing my public speaking skills through worldwide Public Speaking association Toastmasters.
-You can see speeches I gave at Loki Toastmasters [here](https://www.youtube.com/watch?v=TzVtUsQEvNY&list=PL87EdZwWToFmeR_EpXVRHfAXTHEvfiEPh).
+### 2023
 
-Below are my talks outside of Toastmasters.
+
+* <strong>Aug.</strong> - talk about the GENEA Challenges at the [WASP Summer School](https://wasp-sweden.org/industrial-cooperation/research-arenas/wara-media-and-language/)
+
+* <strong>May.</strong> - lecture about mapping speech to gestures at the [Bonn-Rhein-Sieg University of Applied Sciences](https://www.h-brs.de/en)
+
+* <strong>May.</strong> - presentation about [our review article](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14776) at the [EUROGRAPHICS 2023](https://eg2023.saarland-informatics-campus.de/) conference 
+
 
 ### 2022
 
