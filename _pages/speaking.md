@@ -9,7 +9,7 @@ permalink: /speaking/
 
 ### 2023
 
-* <strong>Nov.</strong> - talk about the state-of-the-art in gesture generation at the [Simon Frazer University](https://www.sfu.ca/) for Visual And Interactive Computing Group(https://vinci.sfu.ca/people/)
+* <strong>Nov.</strong> - talk about the state-of-the-art in gesture generation at the [Simon Frazer University](https://www.sfu.ca/) for [Visual And Interactive Computing Group](https://vinci.sfu.ca/people/)
 
 * <strong>Aug.</strong> - talk about the GENEA Challenges at the [WASP Summer School](https://wasp-sweden.org/industrial-cooperation/research-arenas/wara-media-and-language/)
 
