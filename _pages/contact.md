@@ -10,13 +10,9 @@ permalink: /contact/
 **Email**:
 <img src="../assets/labelgen_email.png">
 
-**Visit**:  Teknikringen 33, room 3339, 
-        
-11428, Stockholm, Sweden
-
-[Twitter](https://twitter.com/SvitozarTaras)
-
 [LinkedIn](https://www.linkedin.com/in/taras-kucherenko-9b049198/)
+
+[Mastodon](https://masto.nu/@svitozar)
 
 [ResearchGate](https://www.researchgate.net/profile/Taras_Kucherenko)
 
