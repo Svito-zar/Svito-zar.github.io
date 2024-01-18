@@ -54,6 +54,7 @@ permalink: /GENEAchallenge2023/
 <img style="float: left; border: 6px solid white;" src="../assets/GitHub_logo.png" >
 <br>
 <p style="font-size: 18px;"> Code for visualising gesture motion  <a href="https://github.com/TeoNikolov/genea_visualizer/"> GENEA visualizer </a> </p> 
+<p style="font-size: 18px;"> Code for visualising conducting the user study  <a href="https://github.com/genea-workshop/hemvip/tree/genea2023"> HEMVIP </a> </p> 
 <p style="font-size: 18px;"> Code for computing the numerical evaluation metrics <a href="https://github.com/genea-workshop/genea_numerical_evaluations"> GENEA numerical evaluations  </a> </p> 
 <br>
 <br>
