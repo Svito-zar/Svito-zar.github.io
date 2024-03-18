@@ -10,7 +10,7 @@ The complete publication list can be found on \[[Google Scholar\]](https://schol
 
 ### 2024
 
-* **Taras Kucherenko**\*, Pieter Wolfert\*, Youngwoo Yoon\*, Carla Viegas, Teodor Nikolov, Mihail Tsakov, and Gustav Eje Henter. 2024. *Evaluating gesture-generation in a large-scale open challenge: The GENEA Challenge 2022*. In ACM Transactions on Graphics (TOG). ACM. \[[Paper\]](https://arxiv.org/abs/2303.08737) \[[Project Page\]](https://youngwoo-yoon.github.io/GENEAchallenge2022/) \[[Video\]](https://www.youtube.com/watch?v=4n02wXGGnd0)
+* **Taras Kucherenko**\*, Pieter Wolfert\*, Youngwoo Yoon\*, Carla Viegas, Teodor Nikolov, Mihail Tsakov, and Gustav Eje Henter. 2024. *Evaluating gesture-generation in a large-scale open challenge: The GENEA Challenge 2022*. In ACM Transactions on Graphics (TOG). ACM. \[[Paper\]](https://arxiv.org/abs/2303.08737) \[[Project Page\]](https://youngwoo-yoon.github.io/GENEAchallenge2022/)
 
 ### 2023
 
