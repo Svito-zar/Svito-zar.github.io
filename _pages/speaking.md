@@ -7,6 +7,10 @@ permalink: /speaking/
 
 <iframe width="610" height="345" src="https://www.youtube.com/embed/JeMwtr8pxcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### 2024
+
+* <strong>Mar.</strong> - talk about semantics-aware co-speech gesture-synthesis for [the RSAIT research group](http://www.sc.ehu.es/ccwrobot/) at [the  University of the Basque Country](https://www.ehu.eus/en/en-home)
+
 ### 2023
 
 * <strong>Nov.</strong> - talk about the state-of-the-art in gesture generation at the [Simon Frazer University](https://www.sfu.ca/) for [Visual And Interactive Computing Group](https://vinci.sfu.ca/people/)
