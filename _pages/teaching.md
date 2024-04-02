@@ -4,6 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
+### Students
+Several of my students had a successful career afterward:
+* [Rajmund Nagy](https://nagyrajmund.github.io/) has become a PhD student at KTH
+* [Yuan He](https://www.yaeh.io/) has become a PhD student at the Trinity College Dublin
+* [Hidir Yesiltepe](https://sites.google.com/view/hidir-yesiltepe) has become a PhD student at Virginia Tech
+
 ### 2020 / 2021
 Supervising
 * Yuan He's master thesis, resulting in the thesis [Evaluating Generated Co-Speech Gestures of Embodied Conversational Agent(ECA) through Real-Time Interaction](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1647640&dswid=4976)
