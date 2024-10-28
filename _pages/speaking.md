@@ -9,6 +9,8 @@ permalink: /speaking/
 
 ### 2024
 
+* <strong>Sep.</strong> - keynote about the evaluation of the gesture generation models at the [ECCV'24](https://eccv2024.ecva.net/) at [Workshop on Expressive Encounters](https://expressive-encounters-workshop.github.io/2024/)
+
 * <strong>Mar.</strong> - talk about semantics-aware co-speech gesture-synthesis for [the RSAIT research group](http://www.sc.ehu.es/ccwrobot/) at [the  University of the Basque Country](https://www.ehu.eus/en/en-home)
 
 ### 2023
