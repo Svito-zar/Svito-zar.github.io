@@ -7,6 +7,10 @@ permalink: /speaking/
 
 <iframe width="610" height="345" src="https://www.youtube.com/embed/JeMwtr8pxcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### 2025
+
+* <strong>Mar.</strong> - talk about semantics-aware co-speech gesture-synthesis for [the RSAIT research group](http://www.sc.ehu.es/ccwrobot/) at [the  University of the Basque Country](https://www.ehu.eus/en/en-home)
+
 ### 2024
 
 * <strong>Sep.</strong> - keynote about the evaluation of the gesture generation models at the [ECCV'24](https://eccv2024.ecva.net/) at [Workshop on Expressive Encounters](https://expressive-encounters-workshop.github.io/2024/)
