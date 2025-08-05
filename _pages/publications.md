@@ -8,6 +8,10 @@ permalink: /publications/
 
 The complete publication list can be found on \[[Google Scholar\]](https://scholar.google.com/citations?user=aI_16pYAAAAJ&hl=en), \[[DBLP\]](https://dblp.uni-trier.de/pers/hd/k/Kucherenko:Taras), and \[[ResearchGate\]](https://www.researchgate.net/profile/Taras_Kucherenko).
 
+### 2025
+
+* **Taras Kucherenko**, Derek Peristy, Judith Bütepage. 2025. *Evaluating the evaluators: Towards human-aligned metrics for missing markers reconstruction*. In Proceedings of the ACM International Conference on Multimedia (ACM MM'25). ACM. \[[Paper\]](https://arxiv.org/abs/2410.14334)
+
 ### 2024
 
 * **Taras Kucherenko**\*, Pieter Wolfert\*, Youngwoo Yoon\*, Carla Viegas, Teodor Nikolov, Mihail Tsakov, and Gustav Eje Henter. 2024. *Evaluating gesture-generation in a large-scale open challenge: The GENEA Challenge 2022*. In ACM Transactions on Graphics (TOG). ACM. \[[Paper\]](https://dl.acm.org/doi/10.1145/3656374) \[[Project Page\]](https://youngwoo-yoon.github.io/GENEAchallenge2022/)
