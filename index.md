@@ -27,7 +27,7 @@ I come from Ukraine and my country has been invaded by Russia causing lots of su
 <br>
 ### **Other news**
 
-* <strong>Aug 2025:</strong> My first paper about my work for EA [Evaluating the evaluators: Towards human-aligned metrics for missing markers reconstruction](https://arxiv.org/abs/2410.14334) was accepted at the ACM International Conference on Multimedia 2025 [ACM MM'25](https://acmmm2025.org/)
+* <strong>Aug 2025:</strong> My first paper about my work for EA, [Evaluating the evaluators: Towards human-aligned metrics for missing markers reconstruction](https://arxiv.org/abs/2410.14334), was accepted at the ACM International Conference on Multimedia 2025 \([ACM MM'25](https://acmmm2025.org/)\)
 * <strong>May 2024:</strong> Thrilled to announce the publication of [our paper on the second GENEA Challenge](https://dl.acm.org/doi/10.1145/3656374) in the esteemed ACM Transactions on Graphics (TOG)! Joint work with Pieter Wolfert, Youngwoo Yoon, Carla Viegas, Teodor Nikolov, Mihail Tsakov and Gustav Eje Henter 🌟
 * <strong>Feb 2023:</strong> Our paper [A Comprehensive Review of Data-Driven Co-Speech Gesture Generation](https://arxiv.org/abs/2301.05339) was accepted at [EuroGraphics 2023](https://eg2023.saarland-informatics-campus.de/).
 * <strong>Feb 2023:</strong> [GENEA Challenge 2023](https://genea-workshop.github.io/2023/challenge/) was accepted at [ICMI 2023](https://icmi.acm.org/2023/) as a Multimodal Grand Challenge.
