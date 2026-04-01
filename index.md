@@ -84,6 +84,9 @@ exclude: true
 
   <h4>Co-organizing</h4>
   <ul>
+    <li>ICMI'26 <a href="https://genea-workshop.github.io/2026/workshop">Workshop</a> on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents</li>
+    <li>ACM MM'25 <a href="https://genea-workshop.github.io/2025/workshop">Workshop</a> on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents</li>
+    <li>ICMI'24 <a href="https://genea-workshop.github.io/2024/workshop">Workshop</a> on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents</li>
     <li>ICMI'23 <a href="https://genea-workshop.github.io/2023/workshop">Workshop</a> on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents</li>
     <li>ICMI'22 <a href="https://genea-workshop.github.io/2022/workshop">Workshop</a> on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents</li>
     <li>ICMI'21 <a href="https://genea-workshop.github.io/2021/">Workshop</a> on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents</li>
