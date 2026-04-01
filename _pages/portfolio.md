@@ -5,6 +5,14 @@ permalink: /portfolio/
 ---
 
 
+### 2025
+
+Taras Kucherenko, Derek Peristy, Judith Butepage. *Evaluating the evaluators: Towards human-aligned metrics for missing markers reconstruction.* In Proceedings of the ACM International Conference on Multimedia (ACM MM'25). ACM. 
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/9dUy-R43BN4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### 2023
 
 Taras Kucherenko\*, Rajmund Nagy\*, Youngwoo Yoon\*, Jieyeon Woo, Teodor Nikolov,
