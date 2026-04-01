@@ -4,18 +4,7 @@ layout: default
 <article class="post">
 
   <header class="post-header">
-    {% for node in site._pages %}
-     {% if page.url == node.url %}
-      <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
-     {% else %}
-      <li><a href="{{node.url}}">{{node.title}}</a></li>
-     {% endif %}
-    {% endfor %}
-    <ul class="nav navbar-nav">
-        {% if page.active == "contact" %}
-            <li class="active"><a href="#">Home</a></li>
-        {% endif %}
-    </ul>
+    <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
   <div class="post-content">
