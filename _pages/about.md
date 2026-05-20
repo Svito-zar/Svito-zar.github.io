@@ -6,8 +6,8 @@ permalink: /about/
 
 ## Career
 
-* **2022 – present:** Research Scientist at [Electronic Arts (SEED)](https://www.ea.com/seed), working on machine learning for animation and motion capture.
-* **2021:** Research Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/) UK Applied Research team.
+* **2022 – 2025:** Research Scientist at [Electronic Arts (SEED)](https://www.ea.com/seed), working on machine learning for animation and motion capture.
+* **Sep – Dec 2021:** Research Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/) UK Applied Research team.
 * **2017 – 2021:** PhD in Machine Learning at [KTH Royal Institute of Technology](https://www.kth.se/en), Stockholm. Thesis: [Data-driven non-verbal behavior generation for humanoid robots](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1609615&dswid=9110).
 
 ## Research Interests
