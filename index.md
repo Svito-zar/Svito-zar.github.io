@@ -33,10 +33,10 @@ exclude: true
 <div class="section">
   <h2 class="section-title">Recent News</h2>
   <ul>
+    <li><strong>Mar 2026:</strong> Our paper <a href="https://arxiv.org/abs/2511.01233">Towards Reliable Human Evaluations in Gesture Generation</a> was accepted at CVPR 2025 Findings!</li>
     <li><strong>Feb 2026:</strong> Our <a href="https://genea-workshop.github.io/2026/workshop">GENEA Workshop 2026</a> on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents has been accepted at <a href="https://icmi.acm.org/2026/">ICMI 2026</a>!</li>
     <li><strong>Oct 2025:</strong> We launch the <a href="https://genea-workshop.github.io/leaderboard/">GENEA Leaderboard</a>, the first online living benchmark for evaluating and comparing speech-driven gesture generation models</li>
     <li><strong>Aug 2025:</strong> My first paper about my work for EA, <a href="https://arxiv.org/abs/2410.14334">Evaluating the evaluators: Towards human-aligned metrics for missing markers reconstruction</a>, was accepted at the ACM International Conference on Multimedia 2025 (<a href="https://acmmm2025.org/">ACM MM'25</a>)</li>
-    <li><strong>Mar 2025:</strong> Our paper <a href="https://arxiv.org/abs/2511.01233">Towards Reliable Human Evaluations in Gesture Generation</a> was accepted at CVPR 2025 Findings!</li>
     <li><strong>May 2024:</strong> Thrilled to announce the publication of <a href="https://dl.acm.org/doi/10.1145/3656374">our paper on the second GENEA Challenge</a> in ACM Transactions on Graphics (TOG)! Joint work with Pieter Wolfert, Youngwoo Yoon, Carla Viegas, Teodor Nikolov, Mihail Tsakov and Gustav Eje Henter</li>
     <li><strong>Feb 2023:</strong> Our paper <a href="https://arxiv.org/abs/2301.05339">A Comprehensive Review of Data-Driven Co-Speech Gesture Generation</a> was accepted at <a href="https://eg2023.saarland-informatics-campus.de/">EuroGraphics 2023</a>.</li>
     <li><strong>Feb 2023:</strong> <a href="https://genea-workshop.github.io/2023/challenge/">GENEA Challenge 2023</a> was accepted at <a href="https://icmi.acm.org/2023/">ICMI 2023</a> as a Multimodal Grand Challenge.</li>
