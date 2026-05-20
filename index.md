@@ -10,7 +10,7 @@ exclude: true
   </div>
   <div class="hero-text">
     <p>
-      I am a researcher working on machine learning models for non-verbal behavior generation, such as hand gestures and facial expressions. One of my talks about it you can find <a href="https://youtu.be/JeMwtr8pxcc">in this video</a>. My favorite project, GENEA Challenge 2022, can be found on <a href="https://youngwoo-yoon.github.io/GENEAchallenge2022/">this project page</a>. My thesis is publicly available at <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1609615&dswid=9110">this url</a>.
+      I am a researcher working on machine learning models for non-verbal behavior generation, such as hand gestures and facial expressions. My favorite project, the GENEA Initiative, can be found on <a href="https://genea-workshop.github.io/">this website</a>. My PhD thesis is publicly available at <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1609615&dswid=9110">this url</a>.
     </p>
     <p>
       I come from Ukraine and my country has been invaded by Russia causing lots of suffering to the people. If you want to help - you can find many ways to do that in <a href="https://supportukrainenow.org/">this website</a>.
