@@ -10,6 +10,8 @@ The complete publication list can be found on \[[Google Scholar\]](https://schol
 
 ### 2025
 
+* Rajmund Nagy, Hendric Voss, Thanh Hoang-Minh, Mihail Tsakov, Teodor Nikolov, Zeyi Zhang, Tenglong Ao, Sicheng Yang, Shaoli Huang, Yongkang Cheng, M Hamza Mughal, Rishabh Dabral, Kiran Chhatre, Christian Theobalt, Libin Liu, Stefan Kopp, Rachel McDonnell, Michael Neff, **Taras Kucherenko**, Youngwoo Yoon, Gustav Eje Henter. 2025. *Towards Reliable Human Evaluations in Gesture Generation: Insights from a Community-Driven State-of-the-Art Benchmark*. In CVPR Findings. \[[Paper\]](https://arxiv.org/abs/2511.01233)
+
 * **Taras Kucherenko**, Derek Peristy, Judith Bütepage. 2025. *Evaluating the evaluators: Towards human-aligned metrics for missing markers reconstruction*. In Proceedings of the ACM International Conference on Multimedia (ACM MM'25). ACM. \[[Paper\]](https://arxiv.org/abs/2410.14334)
 
 ### 2024
