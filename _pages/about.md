@@ -12,7 +12,7 @@ permalink: /about/
 
 ## Research Interests
 
-I develop machine learning models for generating non-verbal behavior — hand gestures, body motion, and facial expressions — from speech and other input signals. My work spans data-driven gesture synthesis, motion capture processing, and building rigorous evaluation frameworks for generative models of human motion. I co-organize the [GENEA Challenges and Workshops](https://genea-workshop.github.io/), establishing community benchmarks for gesture generation.
+I develop machine learning models for generating non-verbal behavior from speech and other input signals. My work spans data-driven gesture synthesis, motion capture processing, and building rigorous evaluation frameworks for generative models of human motion. I co-organize the [GENEA Challenges and Workshops](https://genea-workshop.github.io/), establishing community benchmarks for gesture generation.
 
 ## Teaching & Mentoring
 
