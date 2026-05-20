@@ -10,7 +10,7 @@ exclude: true
   </div>
   <div class="hero-text">
     <p>
-      I am a Research Scientist at Electronic Arts (EA). My research is on machine learning models for non-verbal behavior generation, such as hand gestures and facial expressions. One of my talks about it you can find <a href="https://youtu.be/JeMwtr8pxcc">in this video</a>. My favorite project, GENEA Challenge 2022, can be found on <a href="https://youngwoo-yoon.github.io/GENEAchallenge2022/">this project page</a>. My thesis is publicly available at <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1609615&dswid=9110">this url</a>.
+      I am a researcher working on machine learning models for non-verbal behavior generation, such as hand gestures and facial expressions. One of my talks about it you can find <a href="https://youtu.be/JeMwtr8pxcc">in this video</a>. My favorite project, GENEA Challenge 2022, can be found on <a href="https://youngwoo-yoon.github.io/GENEAchallenge2022/">this project page</a>. My thesis is publicly available at <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1609615&dswid=9110">this url</a>.
     </p>
     <p>
       I come from Ukraine and my country has been invaded by Russia causing lots of suffering to the people. If you want to help - you can find many ways to do that in <a href="https://supportukrainenow.org/">this website</a>.
@@ -33,6 +33,7 @@ exclude: true
 <div class="section">
   <h2 class="section-title">Recent News</h2>
   <ul>
+    <li><strong>May 2026:</strong> Left Electronic Arts (SEED) after 4 years as a Research Scientist.</li>
     <li><strong>Mar 2026:</strong> Our paper <a href="https://arxiv.org/abs/2511.01233">Towards Reliable Human Evaluations in Gesture Generation</a> was accepted at CVPR 2026 Findings!</li>
     <li><strong>Feb 2026:</strong> Our <a href="https://genea-workshop.github.io/2026/workshop">GENEA Workshop 2026</a> on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents has been accepted at <a href="https://icmi.acm.org/2026/">ICMI 2026</a>!</li>
     <li><strong>Oct 2025:</strong> We launch the <a href="https://genea-workshop.github.io/leaderboard/">GENEA Leaderboard</a>, the first online living benchmark for evaluating and comparing speech-driven gesture generation models</li>
