@@ -10,7 +10,7 @@ exclude: true
   </div>
   <div class="hero-text">
     <p>
-      I am a Lead Research Scientist at <a href="https://www.kb.se/in-english/research-and-collections/kb-lab.html">KB-Lab</a> (National Library of Sweden), where I lead a team training large language models. Previously I worked on machine learning for non-verbal behavior generation — my long-running project the GENEA Initiative can be found on <a href="https://genea-workshop.github.io/">this website</a>. My PhD thesis is publicly available at <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1609615&dswid=9110">this url</a>.
+      I am a Lead Research Scientist at <a href="https://kb-labb.github.io/">KB-Lab</a> (National Library of Sweden), where I lead a team training large language models. Previously I worked on machine learning for non-verbal behavior generation. My long-running project, the GENEA Initiative, can be found on <a href="https://genea-workshop.github.io/">this website</a>. My PhD thesis is publicly available at <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1609615&dswid=9110">this url</a>.
     </p>
     <p>
       I come from Ukraine and my country has been invaded by Russia causing lots of suffering to the people. If you want to help - you can find many ways to do that in <a href="https://supportukrainenow.org/">this website</a>.
