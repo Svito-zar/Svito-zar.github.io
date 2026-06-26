@@ -6,13 +6,14 @@ permalink: /about/
 
 ## Career
 
+* **2026 – present:** Lead Research Scientist at [KB-Lab](https://www.kb.se/in-english/research-and-collections/kb-lab.html), National Library of Sweden, leading a team training large language models.
 * **2022 – 2026:** Research Scientist at [Electronic Arts (SEED)](https://www.ea.com/seed), working on machine learning for animation and motion capture.
 * **Sep – Dec 2021:** Research Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/) UK Applied Research team.
 * **2017 – 2021:** PhD in Machine Learning at [KTH Royal Institute of Technology](https://www.kth.se/en), Stockholm. Thesis: [Data-driven non-verbal behavior generation for humanoid robots](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1609615&dswid=9110).
 
 ## Research Interests
 
-I develop machine learning models for generating non-verbal behavior from speech and other input signals. My work spans data-driven gesture synthesis, motion capture processing, and building rigorous evaluation frameworks for generative models of human motion. I co-organize the [GENEA Challenges and Workshops](https://genea-workshop.github.io/), establishing community benchmarks for gesture generation.
+I currently lead a team at KB-Lab training large language models for Swedish and multilingual applications. Previously, I worked on machine learning models for generating non-verbal behavior from speech, spanning data-driven gesture synthesis, motion capture processing, and evaluation frameworks for generative models of human motion. I co-organize the [GENEA Challenges and Workshops](https://genea-workshop.github.io/), establishing community benchmarks for gesture generation.
 
 ## Teaching & Mentoring
 

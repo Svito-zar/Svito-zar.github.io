@@ -9,7 +9,7 @@ permalink: /contact/
   <div>
     <p><strong>Email:</strong> <a id="contact-email"></a></p>
     <script>
-      var u = 'taras.svitozar'; var d = 'gmail.com';
+      var u = 'taras.kucherenko'; var d = 'kb.se';
       var el = document.getElementById('contact-email');
       el.href = 'mail' + 'to:' + u + '@' + d;
       el.textContent = u + '@' + d;
