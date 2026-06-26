@@ -10,7 +10,10 @@ The complete publication list can be found on \[[Google Scholar\]](https://schol
 
 ### 2026
 
+* Eneko Atxa Landa, Igor Rodriguez, Elena Lazkano, and **Taras Kucherenko**. 2026. *StayStill: a large-scale 3D idle animation dataset*. In Computer Graphics Forum (Symposium on Computer Animation 2026). \[[Paper\]](https://arxiv.org/pdf/2605.13693) \[[Code\]](https://github.com/Enekoassets/StayStill) \[[Dataset\]](https://zenodo.org/records/18741736) \[[Project Page\]](https://enekoassets.github.io/staystill.html)
+
 * Rajmund Nagy, Hendric Voss, Thanh Hoang-Minh, Mihail Tsakov, Teodor Nikolov, Zeyi Zhang, Tenglong Ao, Sicheng Yang, Shaoli Huang, Yongkang Cheng, M Hamza Mughal, Rishabh Dabral, Kiran Chhatre, Christian Theobalt, Libin Liu, Stefan Kopp, Rachel McDonnell, Michael Neff, **Taras Kucherenko**, Youngwoo Yoon, Gustav Eje Henter. 2026. *Towards Reliable Human Evaluations in Gesture Generation: Insights from a Community-Driven State-of-the-Art Benchmark*. In CVPR Findings. \[[Paper\]](https://arxiv.org/abs/2511.01233)
+
 
 ### 2025
 
