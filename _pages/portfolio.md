@@ -4,6 +4,16 @@ title: Videos
 permalink: /portfolio/
 ---
 
+<h2 class="year-heading">2026</h2>
+
+<div class="video-card">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/lhWebn_zrac" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="video-card-title">StayStill: a large-scale 3D idle animation dataset</div>
+  <div class="video-card-citation">Eneko Atxa Landa, Igor Rodriguez, Elena Lazkano, and Taras Kucherenko. Computer Graphics Forum (Symposium on Computer Animation 2026). 2026.</div>
+</div>
+
 <h2 class="year-heading">2025</h2>
 
 <div class="video-card">
